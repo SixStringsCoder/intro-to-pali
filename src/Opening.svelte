@@ -13,12 +13,12 @@
 </header>
 
 <section id="intro-text-ipg" class="section-divider-intro-ipg" aria-labelledby="introduction-ipg">
-	<p class="lg-pali-center-ipg">Namo tassa bhagavato arahato sammsambuddhassa</p>
+	<p class="lg-pali-center-ipg">Namo tassa bhagavato arahato sammāsambuddhassa</p>
 	<p class="pali-italic-center-ipg">
-		Jge jge dharama k+ vG+<br>
-		MaEgala mkla mah kalyn+<br>
-		MaEgala mkla mah kalyn+ <br>
-		Jge jge dharama k+ vG+
+		Jāge jāge dharama kī vāṇī<br>
+		Maṅgala mūla mahā kalyānī<br>
+		Maṅgala mūla mahā kalyānī <br>
+		Jāge jāge dharama kī vāṇī
 	</p>
 
 	<p class="english-translation-center-ipg">

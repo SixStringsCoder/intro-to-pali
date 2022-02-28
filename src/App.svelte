@@ -9,8 +9,8 @@
 	const webpages = [
 		{ name: "Opening", component: Opening },
 		{ name: "Introduction", component: Introduction },
-		{ name: "Pli Pronunciation", component: PaliPronunciation },
-		{ name: "Pli Alphabet", component: PaliAlphabet },
+		{ name: "Pāli Pronunciation", component: PaliPronunciation },
+		{ name: "Pāli Alphabet", component: PaliAlphabet },
 		{ name: "Word Formation", component: WordFormation},
 	];
 	
