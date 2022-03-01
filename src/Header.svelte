@@ -1,5 +1,11 @@
 <script>
-	const lessonLinks = ["Opening", "Introduction", "Pli Pronunciation", "Pli Alphabet", "Word Formation"];
+  // export const lessonNames = [];
+	// $: lessonLinks = lessonNames.filter(obj => obj.name)
+	// $: console.log(lessonLinks)
+
+	const lessonLinks = [
+		"Opening", "Introduction", "Pāli Pronunciation", "Pāli Alphabet", "Word Formation", "Syntax: Simple Sentences", "Declension of nouns"
+	];
 
 </script>
 

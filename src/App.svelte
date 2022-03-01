@@ -5,13 +5,20 @@
 	import PaliPronunciation from './PaliPronunciation.svelte'
 	import PaliAlphabet from './PaliAlphabet.svelte'
 	import WordFormation from './WordFormation.svelte';
+	import SimpleSentences from './SimpleSentences.svelte';
+	import NounDeclension from './NounDeclension.svelte';
+	import NounCompounds from './NounCompounds.svelte';
 	
 	const webpages = [
 		{ name: "Opening", component: Opening },
 		{ name: "Introduction", component: Introduction },
 		{ name: "Pāli Pronunciation", component: PaliPronunciation },
 		{ name: "Pāli Alphabet", component: PaliAlphabet },
-		{ name: "Word Formation", component: WordFormation},
+		{ name: "Word Formation", component: WordFormation },
+		{ name: "Syntax: Simple Sentences", component: SimpleSentences },
+		{ name: "Declension of nouns", component: NounDeclension },
+		{ name: "Compounds of nouns", component: NounCompounds },
+
 	];
 	
 	let index = 0
@@ -20,7 +27,7 @@
 
 
 <article id="main-container-intro-grammar">
-	<Header on:change={(e) => index = e.target.value} />
+	<Header on:change={(e) => index = e.target.value} lessonNames={webpages} />
 	<!-- Main Content -->
 	<main id="main-content-ipg">
 		<svelte:component this={selectedPage.component} />	
