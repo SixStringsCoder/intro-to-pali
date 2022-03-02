@@ -3,7 +3,6 @@
 	
 	let audioURL = ""
 </script>
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 
 <section id="section-3" class="section-divider-ipg">
 			<h3 class="heading-2-ipg">Section Three</h3>

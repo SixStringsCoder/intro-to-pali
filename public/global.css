@@ -1,510 +1,392 @@
-html, body {
-	position: relative;
-	width: 100%;
-	height: 100%;
-}
+/*----- universal styles -----*/
 
-body {
-	color: #333;
-	margin: 0;
-	padding: 8px;
-	box-sizing: border-box;
-	font-family: -apple-system, BlinkMacSystemFont, "Times", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-}
-
-/* Global variables. */
 :root {
-  /* Set sans-serif & mono fonts */
-  --sans-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-
-  /* Default (light) theme */
-  --bg: #fff;
-  --accent-bg: #f5f7ff;
-  --text: #212121;
-  --text-light: #585858;
-  --border: #d8dae1;
-  --accent: #0d47a1;
-  --code: #d81b60;
-  --preformatted: #444;
-  --marked: #ffdd33;
-  --disabled: #efefef;
+  background-color: #ded2b9;
 }
 
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #212121;
-    --accent-bg: #2b2b2b;
-    --text: #dcdcdc;
-    --text-light: #ababab;
-    --border: #666;
-    --accent: #ffb300;
-    --code: #f06292;
-    --preformatted: #ccc;
-    --disabled: #111;
-  }
-  /* Add a bit of transparancy so light media isn't so glaring in dark mode */
-  img,
-  video {
-    opacity: 0.8;
-  }
+#main-container-intro-grammar {
+  font-family: Times, serif;
+font-size: 1.5vw;
+color: #333;
+line-height: 1.5;
+
+  background-color: #ded2b9;
+/*margin: 0;*/
+position:relative;
+  width:100vw;
+  /*height: 100vh;*/
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
-html {
-  /* Set the font globally */
-  font-family: var(--sans-font);
-  scroll-behavior: smooth;
+#main-container-intro-grammar td, th, p {
+font-family: Times, serif;
+font-size: 1.2rem;
+color: #333;
+line-height: 1.5;
 }
 
-/* Make the body a nice central block */
-body {
-  color: var(--text);
-  background: var(--bg);
-  font-size: 1.15rem;
-  line-height: 1.5;
-  display: grid;
-  grid-template-columns:
-    1fr min(45rem, 100%) 1fr;
-  margin: 0;
+#main-container-intro-grammar ol, ul, li {
+  font-size: 1.2rem;
+  /*padding: .5rem;*/
 }
 
-body>* {
-  grid-column: 2;
+#main-container-intro-grammar a {
+color: #bc561b;
+text-decoration: none;
 }
 
-/* Make the header bg full width, but the content inline with body */
-body > header {
-  background: var(--accent-bg);
-  border-bottom: 1px solid var(--border);
-  text-align: center;
-  padding: 0 0.5rem 0rem 0.5rem;
-  grid-column: 1 / -1;
-  box-sizing: border-box;
+#main-container-intro-grammar a:hover, a:focus {
+color: #645431;
+text-decoration: underline;
 }
 
-body > header h1 {
-  max-width: 1200px;
-  margin: 1rem auto;
+#main-container-intro-grammar a img{
+border: none 0 #fff;
 }
 
-body > header p {
-  max-width: 40rem;
-  margin: 1rem auto;
+#main-container-intro-grammar h1, h2, h3, h4, h5, h6 {
+  margin: 1rem 0;
+  /*text-align: left;*/
 }
 
-/* Add a little padding to ensure spacing is correct between content and nav */
-main {
-  padding-top: 1.5rem;
+#main-container-intro-grammar article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+display: block;
 }
 
-body > footer {
-  margin-top: 4rem;
-  padding: 2rem 1rem 1.5rem 1rem;
-  color: var(--text-light);
-  font-size: 0.9rem;
-  text-align: center;
-  border-top: 1px solid var(--border);
-}
-
-/* Format headers */
-h1 {
-  font-size: 3rem;
-}
-
-h2 {
-  font-size: 2.6rem;
-  margin-top: 3rem;
-}
-
-h3 {
-  font-size: 2rem;
-  margin-top: 3rem;
-}
-
-h4 {
-  font-size: 1.44rem;
-}
-
-h5 {
-  font-size: 1.15rem;
-}
-
-h6 {
-  font-size: 0.96rem;
-}
-
-/* Fix line height when title wraps */
-h1,
-h2,
-h3 {
-  line-height: 1.1;
-}
-
-/* Reduce header size on mobile */
-@media only screen and (max-width: 720px) {
-  h1 {
-    font-size: 2.5rem;
-  }
-
-  h2 {
-    font-size: 2.1rem;
-  }
-
-  h3 {
-    font-size: 1.75rem;
-  }
-
-  h4 {
-    font-size: 1.25rem;
-  }
-}
-
-/* Format links & buttons */
-a,
-a:visited {
-  color: var(--accent);
-}
-
-a:hover {
-  text-decoration: none;
-}
-
-button,
-[role="button"],
-input[type="submit"],
-input[type="reset"],
-input[type="button"] {
-  border: none;
-  border-radius: 5px;
-  background: var(--accent);
-  font-size: 1rem;
-  color: var(--bg);
-  padding: 0.7rem 0.9rem;
-  margin: 0.5rem 0;
-}
-
-button[disabled],
-[role="button"][aria-disabled="true"],
-input[type="submit"][disabled],
-input[type="reset"][disabled],
-input[type="button"][disabled],
-input[type="checkbox"][disabled],
-input[type="radio"][disabled],
-select[disabled] {
-  cursor: default;
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-input:disabled,
-textarea:disabled,
-select:disabled {
-  cursor: not-allowed;
-  background-color: var(--disabled);
-}
-
-input[type="range"] {
-  padding: 0;
-}
-
-/* Set the cursor to '?' while hovering over an abbreviation */
-abbr {
-  cursor: help;
-}
-
-button:focus,
-button:enabled:hover,
-[role="button"]:focus,
-[role="button"]:not([aria-disabled="true"]):hover,
-input[type="submit"]:focus,
-input[type="submit"]:enabled:hover,
-input[type="reset"]:focus,
-input[type="reset"]:enabled:hover,
-input[type="button"]:focus,
-input[type="button"]:enabled:hover {
-  filter: brightness(1.4);
-  cursor: pointer;
-}
-
-/* Format navigation */
-nav {
-  font-size: 1rem;
-  line-height: 2;
-  padding: 1rem 0 0 0;
-}
-
-nav a,
-nav a:visited {
-  margin: 0 1rem 1rem 0;
-  border: 1px solid var(--border);
-  border-radius: 5px;
-  color: var(--text);
-  display: inline-block;
-  padding: 0.1rem 1rem;
-  text-decoration: none;
-}
-
-nav a:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
-nav a:last-child {
-  margin-right: 0;
-}
-
-/* Reduce nav side on mobile */
-@media only screen and (max-width: 750px) {
-  nav a {
-    border: none;
-    padding: 0;
-    color: var(--accent);
-    text-decoration: underline;
-    line-height: 1;
-  }
-}
-
-/* Format the expanding box */
-details {
-  background: var(--accent-bg);
-  border: 1px solid var(--border);
-  border-radius: 5px;
-  margin-bottom: 1rem;
-}
-
-summary {
-  cursor: pointer;
-  font-weight: bold;
-  padding: 0.6rem 1rem;
-}
-
-details[open] {
-  padding: 0.6rem 1rem 0.75rem 1rem;
-}
-
-details[open] summary + * {
-  margin-top: 0;
-}
-
-details[open] summary {
-  margin-bottom: 0.5rem;
-  padding: 0;
-}
-
-details[open] > *:last-child {
-  margin-bottom: 0;
-}
-
-/* Format tables */
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 1.5rem 0;
-}
-
-td,
-th {
-  border: 1px solid var(--border);
-  text-align: left;
-  padding: 0.5rem;
-}
-
-th {
-  background: var(--accent-bg);
-  font-weight: bold;
-}
-
-tr:nth-child(even) {
-  /* Set every other cell slightly darker. Improves readability. */
-  background: var(--accent-bg);
-}
-
-table caption {
-  font-weight: bold;
-  margin-bottom: 0.5rem;
-}
-
-/* Format forms */
-textarea,
-select,
-input {
-  font-size: inherit;
-  font-family: inherit;
-  padding: 0.5rem;
-  margin-bottom: 0.5rem;
-  color: var(--text);
-  background: var(--bg);
-  border: 1px solid var(--border);
-  border-radius: 5px;
-  box-shadow: none;
-  box-sizing: border-box;
-  width: 60%;
-  -moz-appearance: none;
-  -webkit-appearance: none;
-  appearance: none;
-}
-
-/* Add arrow to drop-down */
-select {
-  background-image: linear-gradient(45deg, transparent 49%, var(--text) 51%),
-    linear-gradient(135deg, var(--text) 51%, transparent 49%);
-  background-position: calc(100% - 20px), calc(100% - 15px);
-  background-size: 5px 5px, 5px 5px;
-  background-repeat: no-repeat;
-}
-
-select[multiple] {
-  background-image: none !important;
-}
-
-/* checkbox and radio button style */
-input[type="checkbox"],
-input[type="radio"] {
-  vertical-align: bottom;
-  position: relative;
-}
-
-input[type="radio"] {
-  border-radius: 100%;
-}
-
-input[type="checkbox"]:checked,
-input[type="radio"]:checked {
-  background: var(--accent);
-}
-
-input[type="checkbox"]:checked::after {
-  /* Creates a rectangle with colored right and bottom borders which is rotated to look like a check mark */
-  content: " ";
-  width: 0.1em;
-  height: 0.25em;
-  border-radius: 0;
-  position: absolute;
-  top: 0.05em;
-  left: 0.18em;
-  background: transparent;
-  border-right: solid var(--bg) 0.08em;
-  border-bottom: solid var(--bg) 0.08em;
-  font-size: 1.8em;
-  transform: rotate(45deg);
-}
-input[type="radio"]:checked::after {
-  /* creates a colored circle for the checked radio button  */
-  content: " ";
-  width: 0.25em;
-  height: 0.25em;
-  border-radius: 100%;
-  position: absolute;
-  top: 0.125em;
-  background: var(--bg);
-  left: 0.125em;
-  font-size: 32px;
-}
-
-/* Make the textarea wider than other inputs */
-textarea {
-  width: 80%;
-}
-
-/* Makes input fields wider on smaller screens */
-@media only screen and (max-width: 720px) {
-  textarea,
-  select,
-  input {
-    width: 100%;
-  }
-}
-
-/* Ensures the checkbox and radio inputs do not have a set width like other input fields */
-input[type="checkbox"],
-input[type="radio"] {
-  width: auto;
-}
-
-/* do not show border around file selector button */
-input[type="file"] {
-  border: 0;
-}
-
-/* Misc body elements */
-hr {
-  color: var(--border);
-  border-top: 1px;
-  margin: 1rem auto;
-}
-
-mark {
-  padding: 2px 5px;
-  border-radius: 4px;
-  background: var(--marked);
-}
-
-main img,
-main video {
+#main-container-intro-grammar img, embed, object, video {
   max-width: 100%;
-  height: auto;
-  border-radius: 5px;
 }
 
-figure {
-  margin: 0;
+#main-container-intro-grammar table, th, td {
+  border: 1px solid black;
+}
+
+
+/*----- Header -----*/
+.title-ipg {
+  font-size: 1.5rem;
   text-align: center;
 }
 
-figcaption {
-  font-size: 0.9rem;
-  color: var(--text-light);
-  margin-bottom: 1rem;
+
+/*----- Introduction Page -----*/
+#intro-text-ipg {
+  display: flex;
+  flex-direction: column;
 }
 
-blockquote {
-  margin: 2rem 0 2rem 2rem;
-  padding: 0.4rem 0.8rem;
-  border-left: 0.35rem solid var(--accent);
-  color: var(--text-light);
+#introduction-ipg {
+  margin: 1rem;
+  font-size: 1.3rem;
+
+}
+
+.lg-pali-center-ipg {
+  font-size: 1.3rem;
+  padding: 1rem;
+  text-align: center;
+  /*font-weight: bold;*/
   font-style: italic;
 }
 
-cite {
-  font-size: 0.9rem;
-  color: var(--text-light);
-  font-style: normal;
+.pali-italic-center-ipg {
+  text-align: center;
+  font-style: italic;
+  font-size: 1rem;
 }
 
-/* Use mono font for code elements */
-code,
-pre,
-pre span,
-kbd,
-samp {
-  font-family: var(--mono-font);
-  color: var(--code);
+/* English translation and pali words with italic/reg mix */
+.english-translation-center-ipg {
+  text-align: center;
+  font-size: 1.2rem;
 }
 
-kbd {
-  color: var(--preformatted);
-  border: 1px solid var(--preformatted);
-  border-bottom: 3px solid var(--preformatted);
-  border-radius: 5px;
-  padding: 0.1rem;
+.byline-container-ipg {
+  margin: 0 4rem;
+  align-self: flex-end;
 }
 
-pre {
-  padding: 1rem 1.4rem;
-  max-width: 100%;
-  overflow: auto;
-  overflow-x: auto;
-  color: var(--preformatted);
-  background: var(--accent-bg);
-  border: 1px solid var(--border);
-  border-radius: 5px;
+.byline-ipg {
+  font-size: .8rem;
+  margin-right: 20rem;
 }
 
-/* Fix embedded code within pre */
-pre code {
-  color: var(--preformatted);
-  background: none;
+.aspiration-ipg {
+text-align: center;
+font-size: 1rem;
+margin: 2rem 1rem;
+}
+
+/*----- Table of Contents -----*/
+.paragraph-1-ipg {
+font-size: 1.2rem;
+margin: 1rem 2rem;
+}
+
+.paragraph-2-ipg {
+  font-weight: bold;
+  margin: 1rem 2rem;
+}
+
+/*.paragraph-3 {*/
+  /*margin-left: 4rem;*/
+/*}*/
+
+/*.toc-container-ipg {*/
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  /*flex-wrap: wrap;*/
+/*}*/
+
+.table-of-content-ipg {
+  margin: 1rem;
+  list-style-type: circle;
+  align-self: center;
+}
+
+
+.nested-list-ipg {
+  /*list-style-type: none;*/
+  margin-left: 1rem;
+  /*color: #fc8800;*/
+}
+
+
+/*----- Paragraph Text Styles -----*/
+.heading-2-ipg {
+font-size: 1.5rem;
+text-align: center;
+  align-self: center;
+}
+
+.heading-3-ipg {
+font-size: 1.3rem;
+text-align: center;
+  align-self: center;
+}
+
+.subheading-1-ipg {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 1rem 2rem;
+}
+
+.paragraph-2-ipg {
+
+}
+
+.english-translation-center-1-ipg {
+  text-align: center;
+  font-size: 1.2rem;
+  align-self: center;
+
+}
+
+.italic-w-ipg {
+font-style: italic;
+}
+
+/* spacing for pali words mixed with reg and italic*/
+.italic-w-ipg-1 {
+font-style: italic;
+  letter-spacing: 1px;
+}
+
+.bold-w-ipg {
+  font-weight: bold;
+}
+
+.spacing-1-ipg {
+  text-align: right;
+  padding-left: 7rem;
+}
+
+.para-list-ipg {
+list-style-type: disc;
+/*padding: 0 5rem;*/
+  margin: 0 2rem;
+}
+
+.table-regular-ipg {
+  /*display: inline-flex;*/
+  margin: 1rem;
+  text-align: left;
+  border-spacing: 2px;
+  background-color: rgba(51, 51, 51, 0.38);
+  align-self: center;
+  overflow: scroll;
+  /*width: 100vw;*/
+
+}
+
+.table-regular-ipg th, td {
+  background-color: rgba(255, 255, 255, 0.87);
+  /*overflow-x: auto;*/
+}
+
+/*.responsive-table-ipg {*/
+  /*overflow: auto;*/
+  /*align-self: center;*/
+  /*width: 100%;*/
+/*}*/
+
+.width-table-1 {
+  /*width: 100%;*/
+}
+
+.width-table-2 {
+  /*width: 66%;*/
+}
+
+.lists-italic-ipg {
+
+}
+
+/* regular font style */
+.list-chart-1-ipg {
+  padding: 0 1rem;
+}
+
+/* italic font style */
+.list-chart-2-ipg {
+  padding: 0 .5rem;
+  font-style: italic;
+}
+
+/* when applied to <th> bold - centered */
+.list-chart-3-ipg {
+  padding: 1rem;
+  text-align: left;
+}
+
+/* when applied to <th> bold - centered */
+.list-chart-4-ipg {
+  padding: 1rem 0;
+  text-align: center;
+}
+
+/* regular and italic mix in word -- adds letter spacing */
+.list-chart-5-ipg {
+  padding: 1rem;
+  letter-spacing: 1px;
+}
+
+
+.vowel-list-ipg tr td {
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.vowel-list-2-ipg {
+  text-align: left;
+}
+
+.vowel-list-2-ipg tr td {
+  padding: 0 1rem;
+  text-align: left;
+}
+
+.paragraph-chpt3-ipg {
+  margin: 1rem;
+  /*padding-left: 16rem;*/
+}
+
+.example-1-ipg {
+  padding-top: 0;
+  /*padding-left: 15rem;*/
+  margin-left: 2rem;
+}
+
+
+.reduce-mar-top-ipg {
+  margin-top: 0;
+}
+
+.reduce-mar-bottom-ipg {
+  margin-bottom: .2rem;
+}
+
+.increase-mar-top-ipg {
+  margin-top: 2rem;
+}
+
+.add-left-margin-ipg {
+  margin-left: 3rem;
+}
+
+/*----- Paragraph Design Styles -----*/
+.section-divider-intro-ipg {
+border-bottom: 2px solid grey;
+  display: flex;
+  /*justify-content: start;*/
+  flex-direction: column;
+  /*align-items: center;*/
+  flex-wrap: wrap;
+  padding: 1rem 2rem;
+}
+
+
+.section-divider-ipg {
+border-bottom: 2px solid grey;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+/*----- Footnotes -----*/
+.notes-ipg {
+  color: #627f9d;
+}
+
+.footnotes-container-ipg {
+  margin: auto;
+  border-top: 2px dashed #8e8e8e;
+  list-style-type: none;
+  color: #333333;
+  padding: 1rem;
+}
+
+.footnote-heading-ipg {
   margin: 0;
-  padding: 0;
 }
+
+.footnotes-ipg {
+  padding: .5rem 1rem;
+
+}
+
+.section-divider-ipg .footnotes-container-ipg :target {
+  background: rgba(16, 110, 70, 0.35);
+  border-radius: 5px;
+  box-shadow: 2px 3px grey;
+  font-size: 1.2rem;
+}
+
+.section-divider-ipg :target {
+  background: rgba(142, 142, 142, 0.35);
+  padding: .3rem;
+  /*box-shadow: 2px 3px grey;*/
+}
+.backarrow-ipg :target {
+  color: white;
+}
+
+.sup-spacing-ipg {
+  padding: 0 1px;
+}
+
+
+/*----- Footer -----*/
+.footer-styles-ipg {
+text-align: center;
+}
+
+
+/* note for table of content https://www.tipsandtricks-hq.com/simple-table-of-contents-toc-using-pure-html-and-css-code-9217 */
