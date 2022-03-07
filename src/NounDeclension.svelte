@@ -140,7 +140,7 @@
   <!-- /table -->
 
   <!-- Example 2 -->
-  <h4 id="section-6-2" class="subheading-1-ipg">1. Terminations with i-ending:</h4>
+  <h4 id="section-6-2" class="subheading-1-ipg">2. Terminations with i-ending:</h4>
 
   <p class="paragraph-1-ipg">
     Examples: <br>
@@ -195,7 +195,7 @@
       <tr>
         <th class="list-chart-3-ipg">Instrumental</th>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-inā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi, <br>-ihi, <br>-ibhi </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi, <br>-ihi, <br>-ibhi</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-inā, </span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi, <br>-ihi, <br>-ibhi</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-inā</span></td>
@@ -207,60 +207,74 @@
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Dative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ino, <br>-issa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ, <br>-inaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ino, <br>-issa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ, <br>-inaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ino, <br>-issa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ, <br>-inaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyā, <br>-yā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyā, <br>-yā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyānaṃ <br>-īnaṃ<br>-inaṃ</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Ablative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-inā, <br>-imhā,<br>-ismā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi, <br>-ihi, <br>-ibhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-inā, <br>-imhā,<br>-ismā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi, <br>-ihi, <br>-ibhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-inā, <br>-imhā,<br>-ismā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi, <br>-ihi, <br>-ibhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyā, <br>-yā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyā, <br>-yā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īhi, <br>-ībhi</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Genitive</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ino, <br>-issa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ino, <br>-issa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ino, <br>-issa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyā, <br>-yā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyā, <br>-yā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyānaṃ <br>-īnaṃ<br>-inaṃ</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Locative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ini <br>-imhi<br>-ismiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īsu,<br>-isu </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ini <br>-imhi<br>-ismiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īsu,<br>-isu </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ini <br>-imhi<br>-ismiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īsu,<br>-isu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyaṃ <br>-yaṃ<br>-āyaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īsu,<br>-isu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-iyā <br>-yā<br>-yaṃ<br>-iyaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īsu,<br>-isu</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Vocative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-i, <br>-e</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ī, <br>-iyo<br>-ayo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-i, <br>-iṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īni, <br>-ī</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ī</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ī, <br>-ino</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ī, <br>-i</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ī, <br>-yo,<br>-iyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ī, <br>-i</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īyo, <br>-iyo,<br>-yo,<br>-āyo</span></td>
       </tr>
     </table>
   <!--</div>-->
   <!-- /table -->
 
-  <p class="paragraph-1-ipg">
-
-  </p>
-
-  <p class="paragraph-1-ipg">
-
-  </p>
+  
 
   <!-- footnotes section 6 -->
   <ul class="footnotes-container-ipg">
@@ -269,12 +283,22 @@
     <li id="section6-note-30" class="footnotes-ipg"><sup>30</sup> Verbs can be transitive, intransitive and both. A transitive verb takes an object: to drink, to eat;..... an intransitive verb does not take an object: to die, to go;....... <a class="backarrow-ipg" href="#section6-note-30-rtn">↩</a></li>
     <li id="section6-note-31" class="footnotes-ipg"><sup>31</sup> Detailed formations of <span class="italic-w-ipg">gāmo</span> can be seen in the table above. <a class="backarrow-ipg" href="#section6-note-31-rtn">↩</a></li>
     <li id="section6-note-32" class="footnotes-ipg"><sup>32</sup> As the neuter declension is very close to the masculine no example is given here. <a class="backarrow-ipg" href="#section6-note-32-rtn">↩</a></li>
-    <li id="section6-note-33" class="footnotes-ipg"><sup>33</sup> Thus we find the following formations in the singular: <span class="italic-w-ipg">vanitā - vanitaṃ - vanitāya - vanitāya - vanitāya - vanitāya - vanitāya / vanitāyaṃ - vanite / vanitā</span><br> <span class="add-left-margin-ipg">and in the plural: <span class="italic-w-ipg">vanitā / vanitāyo - vanitā / vanitāyo - vanitāhi / vanitābhi - vanitānaṃ - vanitāhi / vanitābhi - vanitānaṃ - vanitāsu  - vanitā / vanitāyo</span></span>
-<a class="backarrow-ipg" href="#section6-note-33-rtn">↩</a></li>
-    <li id="section6-note-34" class="footnotes-ipg"><sup>34</sup>  <a class="backarrow-ipg" href="#section6-note-34-rtn">↩</a></li>
-    <li id="section6-note-35" class="footnotes-ipg"><sup>35</sup>  <a class="backarrow-ipg" href="#section6-note-35-rtn">↩</a></li>
-    <li id="section6-note-36" class="footnotes-ipg"><sup>36</sup>  <a class="backarrow-ipg" href="#section6-note-36-rtn">↩</a></li>
-    <li id="section6-note-37" class="footnotes-ipg"><sup>37</sup>  <a class="backarrow-ipg" href="#section6-note-37-rtn">↩</a></li>
+    <li id="section6-note-33" class="footnotes-ipg"><sup>33</sup> Thus we find the following formations in the singular: 
+      <span class="italic-w-ipg">vanitā - vanitaṃ - vanitāya - vanitāya - vanitāya - vanitāya - vanitāya / vanitāyaṃ - vanite / vanitā</span><br> 
+      <span class="add-left-margin-ipg">and in the plural: <span class="italic-w-ipg">vanitā / vanitāyo - vanitā / vanitāyo - vanitāhi / vanitābhi - vanitānaṃ - vanitāhi / vanitābhi - vanitānaṃ - vanitāsu  - vanitā / vanitāyo</span></span>
+      <a class="backarrow-ipg" href="#section6-note-33-rtn">↩</a></li>
+    <li id="section6-note-34" class="footnotes-ipg"><sup>34</sup> Thus we find the following formations in the singular: aggi -aggiṃ - agginā -  aggino / aggissa - agginā / aggimhā / aggismā - aggino / aggissa - aggimhi / aggismiṃ - aggi
+      and in the plural: aggī / aggayo - aggī / aggayo - aggīhi / aggībhi - aggīnaṃ - aggīhi / aggībhi - aggīnaṃ - aggīsu - aggī / aggayo
+     <a class="backarrow-ipg" href="#section6-note-34-rtn">↩</a></li>
+    <li id="section6-note-35" class="footnotes-ipg"><sup>35</sup> Thus we find the following formations in the singular: aṭṭhi - aṭṭhiṃ - aṭṭhinā - aṭṭhino, aṭṭhissa - aṭṭhinā - aṭṭhino / aṭṭhissa - aṭṭhini / aṭṭhimhi / aṭṭhismiṃ - aṭṭhi
+      and in the plural: aṭṭhī / aṭṭhīni - aṭṭhī / aṭṭhīni - aṭṭhīhi / aṭṭhībhi - aṭṭhīnaṃ - aṭṭhīhi / aṭṭhībhi - aṭṭhīnaṃ - aṭṭhīsu - aṭṭhī / aṭṭhīni 
+     <a class="backarrow-ipg" href="#section6-note-35-rtn">↩</a></li>
+    <li id="section6-note-36" class="footnotes-ipg"><sup>36</sup>Thus we find the following formations in the singular: bhūmi - bhūmiṃ - bhūmiyā - bhūmiyā - bhūmiyā - bhūmiyā - bhūmiyā, bhūmiyaṃ - bhūmi
+      and in the plural: bhūmī / bhūmiyo - bhūmī / bhūmiyo - bhūmīhi / bhūmībhi - bhūmīnaṃ - bhūmīhi / bhūmībhi - bhūmīnaṃ - bhūmīsu - bhūmī / bhūmiyo 
+      <a class="backarrow-ipg" href="#section6-note-36-rtn">↩</a></li>
+    <li id="section6-note-37" class="footnotes-ipg"><sup>37</sup> Thus we find the following formations in the singular: mahī  - mahiṃ - mahiyā/  mahyā - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā / mahiyaṃ - mahī 
+      and in the plural: mahī / mahiyo - mahī / mahiyo - mahīhi / mahībhi - mahīnaṃ - mahīhi / mahībhi - mahīnaṃ - mahīsu / mahisu - mahī / mahiyo 
+      <a class="backarrow-ipg" href="#section6-note-37-rtn">↩</a></li>
     <li id="section6-note-38" class="footnotes-ipg"><sup>38</sup>  <a class="backarrow-ipg" href="#section6-note-38-rtn">↩</a></li>
     <li id="section6-note-39" class="footnotes-ipg"><sup>39</sup>  <a class="backarrow-ipg" href="#section6-note-39-rtn">↩</a></li>
     <li id="section6-note-40" class="footnotes-ipg"><sup>40</sup>  <a class="backarrow-ipg" href="#section6-note-40-rtn">↩</a></li>
