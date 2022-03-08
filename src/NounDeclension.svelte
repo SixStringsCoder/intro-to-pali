@@ -378,7 +378,7 @@
     <span class="italic-w-ipg">rājān </span> – king;
     <span class="italic-w-ipg">satthar -</span> – teacher;
     <span class="italic-w-ipg">bhagavant </span> – Fortunate One;
-    <span class="italic-w-ipg">hattin</span> – elephant; which may be referred to in the grammar <a href="#section6-note-37" class="notes-ipg" id="section6-note-37-rtn">books<sup class="sup-spacing-ipg">40</sup></a>/
+    <span class="italic-w-ipg">hattin</span> – elephant; which may be referred to in the grammar <a href="#section6-note-40" class="notes-ipg" id="section6-note-40-rtn">books<sup class="sup-spacing-ipg">40</sup></a>/
   </p>
 
   <!-- footnotes section 6 -->
@@ -392,23 +392,23 @@
       <span class="italic-w-ipg">vanitā - vanitaṃ - vanitāya - vanitāya - vanitāya - vanitāya - vanitāya / vanitāyaṃ - vanite / vanitā</span><br> 
       <span class="add-left-margin-ipg">and in the plural: <span class="italic-w-ipg">vanitā / vanitāyo - vanitā / vanitāyo - vanitāhi / vanitābhi - vanitānaṃ - vanitāhi / vanitābhi - vanitānaṃ - vanitāsu  - vanitā / vanitāyo</span></span>
       <a class="backarrow-ipg" href="#section6-note-33-rtn">↩</a></li>
-    <li id="section6-note-34" class="footnotes-ipg"><sup>34</sup> Thus we find the following formations in the singular: aggi -aggiṃ - agginā -  aggino / aggissa - agginā / aggimhā / aggismā - aggino / aggissa - aggimhi / aggismiṃ - aggi
-      and in the plural: aggī / aggayo - aggī / aggayo - aggīhi / aggībhi - aggīnaṃ - aggīhi / aggībhi - aggīnaṃ - aggīsu - aggī / aggayo
+    <li id="section6-note-34" class="footnotes-ipg"><sup>34</sup> Thus we find the following formations in the singular: <span class="italic-w-ipg">aggi -aggiṃ - agginā -  aggino / aggissa - agginā / aggimhā / aggismā - aggino / aggissa - aggimhi / aggismiṃ - aggi</span>
+      and in the plural: <span class="italic-w-ipg">aggī / aggayo - aggī / aggayo - aggīhi / aggībhi - aggīnaṃ - aggīhi / aggībhi - aggīnaṃ - aggīsu - aggī / aggayo</span>
      <a class="backarrow-ipg" href="#section6-note-34-rtn">↩</a></li>
-    <li id="section6-note-35" class="footnotes-ipg"><sup>35</sup> Thus we find the following formations in the singular: aṭṭhi - aṭṭhiṃ - aṭṭhinā - aṭṭhino, aṭṭhissa - aṭṭhinā - aṭṭhino / aṭṭhissa - aṭṭhini / aṭṭhimhi / aṭṭhismiṃ - aṭṭhi
-      and in the plural: aṭṭhī / aṭṭhīni - aṭṭhī / aṭṭhīni - aṭṭhīhi / aṭṭhībhi - aṭṭhīnaṃ - aṭṭhīhi / aṭṭhībhi - aṭṭhīnaṃ - aṭṭhīsu - aṭṭhī / aṭṭhīni 
+    <li id="section6-note-35" class="footnotes-ipg"><sup>35</sup> Thus we find the following formations in the singular: <span class="italic-w-ipg">aṭṭhi - aṭṭhiṃ - aṭṭhinā - aṭṭhino, aṭṭhissa - aṭṭhinā - aṭṭhino / aṭṭhissa - aṭṭhini / aṭṭhimhi / aṭṭhismiṃ - aṭṭhi</span>
+      and in the plural: <span class="italic-w-ipg">aṭṭhī / aṭṭhīni - aṭṭhī / aṭṭhīni - aṭṭhīhi / aṭṭhībhi - aṭṭhīnaṃ - aṭṭhīhi / aṭṭhībhi - aṭṭhīnaṃ - aṭṭhīsu - aṭṭhī / aṭṭhīni</span> 
      <a class="backarrow-ipg" href="#section6-note-35-rtn">↩</a></li>
-    <li id="section6-note-36" class="footnotes-ipg"><sup>36</sup>Thus we find the following formations in the singular: bhūmi - bhūmiṃ - bhūmiyā - bhūmiyā - bhūmiyā - bhūmiyā - bhūmiyā, bhūmiyaṃ - bhūmi
-      and in the plural: bhūmī / bhūmiyo - bhūmī / bhūmiyo - bhūmīhi / bhūmībhi - bhūmīnaṃ - bhūmīhi / bhūmībhi - bhūmīnaṃ - bhūmīsu - bhūmī / bhūmiyo 
+    <li id="section6-note-36" class="footnotes-ipg"><sup>36</sup>Thus we find the following formations in the singular: <span class="italic-w-ipg">bhūmi - bhūmiṃ - bhūmiyā - bhūmiyā - bhūmiyā - bhūmiyā - bhūmiyā, bhūmiyaṃ - bhūmi</span>
+      and in the plural: <span class="italic-w-ipg">bhūmī / bhūmiyo - bhūmī / bhūmiyo - bhūmīhi / bhūmībhi - bhūmīnaṃ - bhūmīhi / bhūmībhi - bhūmīnaṃ - bhūmīsu - bhūmī / bhūmiyo</span> 
       <a class="backarrow-ipg" href="#section6-note-36-rtn">↩</a></li>
-    <li id="section6-note-37" class="footnotes-ipg"><sup>37</sup> Thus we find the following formations in the singular: mahī  - mahiṃ - mahiyā/  mahyā - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā / mahiyaṃ - mahī 
-      and in the plural: mahī / mahiyo - mahī / mahiyo - mahīhi / mahībhi - mahīnaṃ - mahīhi / mahībhi - mahīnaṃ - mahīsu / mahisu - mahī / mahiyo 
+    <li id="section6-note-37" class="footnotes-ipg"><sup>37</sup> Thus we find the following formations in the singular: <span class="italic-w-ipg">mahī  - mahiṃ - mahiyā/  mahyā - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā / mahiyaṃ - mahī</span> 
+      and in the plural: <span class="italic-w-ipg">mahī / mahiyo - mahī / mahiyo - mahīhi / mahībhi - mahīnaṃ - mahīhi / mahībhi - mahīnaṃ - mahīsu / mahisu - mahī / mahiyo</span> 
       <a class="backarrow-ipg" href="#section6-note-37-rtn">↩</a></li>
-    <li id="section6-note-38" class="footnotes-ipg"><sup>38</sup>Thus we find the following formations in the singular: bhikkhu - bhikkhuṃ - bhikkhunā - bhikkhuno/ bhikkhussa – bhikkhunā - bhikkhuno/ bhikkhussa – bhikkhumhi/ bhikkhusmiṃ  - bhikkhu
-      and in the plural: bhikkhū/ bhikkhavo - bhikkhū / bhikkhavo - bhikkhūhi / bhikkhūbhi - bhikkhūnaṃ - bhikkhūhi / bhikkhūbhi - bhikkhūnaṃ - bhikkhusu / bhikkhūsu - bhikkhū, bhikkhave 
+    <li id="section6-note-38" class="footnotes-ipg"><sup>38</sup>Thus we find the following formations in the singular: <span class="italic-w-ipg">bhikkhu - bhikkhuṃ - bhikkhunā - bhikkhuno/ bhikkhussa – bhikkhunā - bhikkhuno/ bhikkhussa – bhikkhumhi/ bhikkhusmiṃ  - bhikkhu
+      and in the plural: bhikkhū/ bhikkhavo - bhikkhū / bhikkhavo - bhikkhūhi / bhikkhūbhi - bhikkhūnaṃ - bhikkhūhi / bhikkhūbhi - bhikkhūnaṃ - bhikkhusu / bhikkhūsu - bhikkhū, bhikkhave </span>
       <a class="backarrow-ipg" href="#section6-note-38-rtn">↩</a></li>
-    <li id="section6-note-39" class="footnotes-ipg"><sup>39</sup>Thus we find the following formations in the singular: dhātu - dhātuṃ - dhātuyā - dhātuyā - dhātuyā - dhātuyā - dhātuyā / dhātuyaṃ - dhātu
-      and in the plural: dhātū / dhātuyo - dhātū / dhātuyo - dhātūhi / dhātūbhi - dhātūnaṃ - dhātūhi / dhātūbhi - dhātūnaṃ - dhātūsu - dhātū / dhātuyo
+    <li id="section6-note-39" class="footnotes-ipg"><sup>39</sup>Thus we find the following formations in the singular: <span class="italic-w-ipg">dhātu - dhātuṃ - dhātuyā - dhātuyā - dhātuyā - dhātuyā - dhātuyā / dhātuyaṃ - dhātu</span>
+      and in the plural: <span class="italic-w-ipg">dhātū / dhātuyo - dhātū / dhātuyo - dhātūhi / dhātūbhi - dhātūnaṃ - dhātūhi / dhātūbhi - dhātūnaṃ - dhātūsu - dhātū / dhātuyo</span>
       <a class="backarrow-ipg" href="#section6-note-39-rtn">↩</a></li>
     <li id="section6-note-40" class="footnotes-ipg"><sup>40</sup>Bhikku Ñāṇatusita has prepared an excellent table for quick reference that presents most grammatical declinations and conjugations as well and is available in different sizes. 
       <a class="backarrow-ipg" href="#section6-note-40-rtn">↩</a></li>
