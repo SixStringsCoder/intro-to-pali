@@ -274,7 +274,112 @@
   <!--</div>-->
   <!-- /table -->
 
-  
+  <!-- Example 3 -->
+  <h4 id="section-6-2" class="subheading-1-ipg">3. Terminations with u-ending:</h4>
+
+  <p class="paragraph-1-ipg">
+    Examples: <br>
+    <span class="italic-w-ipg">bhikkhu</span> – a monk: <a href="#section6-note-38" class="notes-ipg" id="section6-note-38-rtn">masculine<sup class="sup-spacing-ipg">38</sup></a>  /
+    <span class="italic-w-ipg">cakkhu -</span> – the eye: /
+    <span class="italic-w-ipg">dhātu</span> – element: <a href="#section6-note-39" class="notes-ipg" id="section6-note-39-rtn">feminine<sup class="sup-spacing-ipg">39</sup></a>
+  </p>
+
+  <!-- table 6, left header and top-row header -->
+  <!--<div class="responsive-table-ipg table-regular-ipg width-table-1">-->
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg">Case</th>
+        <th class="list-chart-4-ipg">Termination <br>singular <br><span class="italic-w-ipg">u</span>-ending <br>masc. </th>
+        <th class="list-chart-4-ipg">Termination <br>plural <br><span class="italic-w-ipg">u</span>-ending <br>masc.</th>
+        <th class="list-chart-4-ipg">Termination <br>singular <br><span class="italic-w-ipg">u</span>-ending <br>neut.</th>
+        <th class="list-chart-4-ipg">Termination <br>plural <br><span class="italic-w-ipg">u</span>-ending <br>neut.</th>
+        <th class="list-chart-4-ipg">Termination <br>singular <br><span class="italic-w-ipg">u</span>-ending <br>masc.</th>
+        <th class="list-chart-4-ipg">Termination <br>plural <br><span class="italic-w-ipg">u</span>-ending <br>masc.</th>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Nominative</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-iyo, <br>-avo, <br>-uyo </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u, <br>-uṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūni, <br>-ū</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-uvo, <br>-uyo </span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Accusative</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-avo, <br>-uyo </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ, <br>-u</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūni, <br>-ū</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-uvo, <br>-uyo </span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Instrumental</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-unā, </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūbhi, <br>-ūhi, <br>-uhi, <br>-ubhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-unā, </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūbhi, <br>-ūhi, <br>-uhi, <br>-ubhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uyā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūbhi, <br>-ūhi </span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Dative</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uno, <br>-ussa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūnaṃ, <br>-unaṃ, <br>-unnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uno, <br>-ussa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūnaṃ, <br>-unaṃ, <br>unnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uyā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūnaṃ</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Ablative</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-unā, <br>-umhā,<br>-usmā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūbhi, <br>-ūhi, <br>-uhi, <br>-ubhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-unā, <br>-umhā,<br>-usmā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūbhi, <br>-ūhi, <br>-uhi, <br>-ubhi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uyā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūbhi, <br>-ūhi</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Genitive</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uno, <br>-ussa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūnaṃ, <br>-unaṃ, <br>-unnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uno, <br>-ussa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūnaṃ, <br>-unaṃ, <br>-unnaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uyā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūnaṃ</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Locative</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-umhi <br>-usmiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-usu,<br>-ūsu </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-umhi <br>-usmiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-usu,<br>-ūsu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uyā <br>-uyaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūsu</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">Vocative</th>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-avo<br>-ave</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūni, <br>-ū</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-uvo, <br>-uyo</span></td>
+      </tr>
+    </table>
+  <!--</div>-->
+  <!-- /table -->
+
+  <p class="italic-w-ipg">The declensions of nouns that end in – <span class="italic-w-ipg">ū</span> (male and female) follow somewhat the same declension like those ending in – <span class="italic-w-ipg">u</span>.</p>
+  <p class="paragraph-1-ipg">
+    There are further some declensions that develop their own individual declension such as: <br>
+    <span class="italic-w-ipg">rājān </span> – king;
+    <span class="italic-w-ipg">satthar -</span> – teacher;
+    <span class="italic-w-ipg">bhagavant </span> – Fortunate One;
+    <span class="italic-w-ipg">hattin</span> – elephant; which may be referred to in the grammar <a href="#section6-note-37" class="notes-ipg" id="section6-note-37-rtn">books<sup class="sup-spacing-ipg">40</sup></a>/
+  </p>
 
   <!-- footnotes section 6 -->
   <ul class="footnotes-container-ipg">
@@ -299,9 +404,14 @@
     <li id="section6-note-37" class="footnotes-ipg"><sup>37</sup> Thus we find the following formations in the singular: mahī  - mahiṃ - mahiyā/  mahyā - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā  - mahiyā / mahyā / mahiyaṃ - mahī 
       and in the plural: mahī / mahiyo - mahī / mahiyo - mahīhi / mahībhi - mahīnaṃ - mahīhi / mahībhi - mahīnaṃ - mahīsu / mahisu - mahī / mahiyo 
       <a class="backarrow-ipg" href="#section6-note-37-rtn">↩</a></li>
-    <li id="section6-note-38" class="footnotes-ipg"><sup>38</sup>  <a class="backarrow-ipg" href="#section6-note-38-rtn">↩</a></li>
-    <li id="section6-note-39" class="footnotes-ipg"><sup>39</sup>  <a class="backarrow-ipg" href="#section6-note-39-rtn">↩</a></li>
-    <li id="section6-note-40" class="footnotes-ipg"><sup>40</sup>  <a class="backarrow-ipg" href="#section6-note-40-rtn">↩</a></li>
+    <li id="section6-note-38" class="footnotes-ipg"><sup>38</sup>Thus we find the following formations in the singular: bhikkhu - bhikkhuṃ - bhikkhunā - bhikkhuno/ bhikkhussa – bhikkhunā - bhikkhuno/ bhikkhussa – bhikkhumhi/ bhikkhusmiṃ  - bhikkhu
+      and in the plural: bhikkhū/ bhikkhavo - bhikkhū / bhikkhavo - bhikkhūhi / bhikkhūbhi - bhikkhūnaṃ - bhikkhūhi / bhikkhūbhi - bhikkhūnaṃ - bhikkhusu / bhikkhūsu - bhikkhū, bhikkhave 
+      <a class="backarrow-ipg" href="#section6-note-38-rtn">↩</a></li>
+    <li id="section6-note-39" class="footnotes-ipg"><sup>39</sup>Thus we find the following formations in the singular: dhātu - dhātuṃ - dhātuyā - dhātuyā - dhātuyā - dhātuyā - dhātuyā / dhātuyaṃ - dhātu
+      and in the plural: dhātū / dhātuyo - dhātū / dhātuyo - dhātūhi / dhātūbhi - dhātūnaṃ - dhātūhi / dhātūbhi - dhātūnaṃ - dhātūsu - dhātū / dhātuyo
+      <a class="backarrow-ipg" href="#section6-note-39-rtn">↩</a></li>
+    <li id="section6-note-40" class="footnotes-ipg"><sup>40</sup>Bhikku Ñāṇatusita has prepared an excellent table for quick reference that presents most grammatical declinations and conjugations as well and is available in different sizes. 
+      <a class="backarrow-ipg" href="#section6-note-40-rtn">↩</a></li>
   </ul>
 </section>
 <!-- /Section 6 -->
