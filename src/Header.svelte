@@ -1,12 +1,5 @@
 <script>
-  // export const lessonNames = [];
-	// $: lessonLinks = lessonNames.filter(obj => obj.name)
-	// $: console.log(lessonLinks)
-
-	const lessonLinks = [
-		"Opening", "Introduction", "Pāli Pronunciation", "Pāli Alphabet", "Word Formation", "Syntax: Simple Sentences", "Declension of nouns"
-	];
-
+  export let menuOptions = [];
 </script>
 
 
@@ -17,7 +10,7 @@
 	<nav class="custom-select">
 		<select on:change>
 			<option value="" disabled>Go to section:</option> 
-				{#each lessonLinks as linkName, i}
+				{#each menuOptions as linkName, i}
 					<option value={i}>{linkName}</option>
 				{/each}
 		</select>

@@ -21,13 +21,17 @@
 
 	];
 	
+	const menuOptions = webpages.reduce((allNames, currObj) => {
+		return [...allNames, currObj.name]
+	}, [])
+	
 	let index = 0
 	$: selectedPage = webpages[index];
 </script>
 
 
 <article id="main-container-intro-grammar">
-	<Header on:change={(e) => index = e.target.value} lessonNames={webpages} />
+	<Header on:change={(e) => index = e.target.value} {menuOptions} />
 	<!-- Main Content -->
 	<main id="main-content-ipg">
 		<svelte:component this={selectedPage.component} />	
