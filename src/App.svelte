@@ -18,9 +18,10 @@
 		{ name: "Syntax: Simple Sentences", component: SimpleSentences },
 		{ name: "Declension of nouns", component: NounDeclension },
 		{ name: "Compounds of nouns", component: NounCompounds },
+		{ name: "Conjugation of verbs", component: VerbConjugations },
 
 	];
-	
+
 	const menuOptions = webpages.reduce((allNames, currObj) => {
 		return [...allNames, currObj.name]
 	}, [])
