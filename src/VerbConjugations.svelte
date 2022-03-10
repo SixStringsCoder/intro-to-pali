@@ -59,6 +59,32 @@
     <li>The optative expresses mainly probability and advice, wishes and ideas. It is formed by adding <span class="italic-w-ipg">-eyya-</span> to the verbal base before personal endings. When translated: - if, might, would, etc. - may be used to convey the sense of it.</li>
     <li>The imperative mood expresses commands, benediction or wishes. It is mainly used in the active voice with the following personal endings: <span class="italic-w-ipg">-tu; -hi; -ntu;</span> -tha for the 3rd and 2nd. These are added to the stem.</li>
   </ul>
+  
+  <!-- Example 4 -->
+  <h4 id="section-8-4" class="subheading-1-ipg">4. Infinitive, gerund and participles</h4>
+  <ul class="para-list-ipg"> 
+    <li>The infinitive can be used actively and passively and denotes purpose and intention. It gets built by adding the suffix <span class="italic-w-ipg">-tum-</span> to the respective roots: <span class="italic-w-ipg">gantuṃ</span> – to go. Further especially with verbs of frequent occurrence the following suffixes are added as well: <span class="italic-w-ipg">-itum; -tave; -tuye</span>. </li>
+    <li>The gerund describes the completion of an action: <span class="italic-w-ipg">gantvā</span> – having gone. It also expresses the perpetuation of activity and thus connects different activities. The suffix <span class="italic-w-ipg">-tvā-</span> is added to the root of the verb or verbal base with or sometimes without the connecting vowel <span class="italic-w-ipg">-i-</span> to form the gerund. </li>
+    <li>Present participles are formed by adding <span class="italic-w-ipg">-nta-</span>; <span class="italic-w-ipg">-ntī-</span> or <span class="italic-w-ipg">-māna-</span>; <span class="italic-w-ipg">-mānā-</span> to the verbal base . They function as adjectives and agree in gender, number and case with the nouns they qualify. They are declined like the respective nouns and may be translated with the help of: ‘while’: <span class="italic-w-ipg">gacchanta</span>; <span class="italic-w-ipg">gacchant</span> – (while) going.</li>
+    <li>Past participles can take an active meaning or a passive meaning. The active past participles add the suffixes: <span class="italic-w-ipg">-vant-</span>; <span class="italic-w-ipg">-vin-</span> to the root. It can be translated as: <span class="italic-w-ipg">vusitavant</span> – one who has lived. The passive perfect participles are formed by adding <span class="italic-w-ipg">-ta-</span>; <span class="italic-w-ipg">-na-</span> to the root, with or without the connecting vowel <span class="italic-w-ipg">-i-</span> and are translated like the English perfect past participles: <span class="italic-w-ipg">gacchita; gata; gamita</span> – gone. Past participles have a passive meaning when they are formed from transitive verbs, but from intransitive verbs they have an active meaning.</li> 
+  </ul>
+
+  <div class="paragraph-1-ipg">
+    <pre>
+    For example: <span class="italic-w-ipg">gacchati, tiṭṭhati</span> are intransitive verbs. Therefore:
+        <span class="italic-w-ipg">puriso gato</span> –  the man has gone - (active meaning)
+        <span class="italic-w-ipg">vanitā ṭhitā</span> – the woman has stood - (active meaning)
+    </pre>
+    <pre>
+    <span class="italic-w-ipg">pacati, dadāti,</span> are transitive verbs. 
+        <span class="italic-w-ipg">odano pacito</span> – the rice is cooked - (passive meaning)
+        <span class="italic-w-ipg">mettā datā</span> – <span class="italic-w-ipg">metta</span> is given - (passive meaning)
+    </pre>
+  </div>
+  
+<p class="paragraph-1-ipg">
+  Future passive participles or potential future participles express something that has to be done or ideally should be done. The suffixes <span class="italic-w-ipg">-tabba-</span> / <span class="italic-w-ipg">-anīya-</span> / <span class="italic-w-ipg">-ya-</span> get added to the verbal root, with or without the connecting vowel –iy. Thus the root: <span class="italic-w-ipg">kar-</span> – to do; can develop the following forms (should be done): <span class="italic-w-ipg">kar-tabba</span>: <span class="italic-w-ipg">kātabba/kattabba; kar-aniya: karaṇiya; kar-ya: kariya: kayira;</span> (sanskrit) <span class="italic-w-ipg">kṛtya</span> (with insertion of t): <span class="italic-w-ipg">kicca</span>. Future passive participles carry more optative or imperative meaning and are declined along with the respective nouns: <span class="italic-w-ipg">kammaṃ kattabbaṃ</span> – the work should be performed. 
+</p>
 
 
 
