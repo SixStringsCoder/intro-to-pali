@@ -14,7 +14,7 @@
   </p>
 
   <!-- List -->
-  <ol class="para-list-ipg">
+  <ul class="para-list-ipg">
     <li>
       <span class="italic-w-ipg">paṭhamā – </span>first or nominative case:  – expresses the agent of a sentence or the subject of the verb that is describing that action, both agree in number and gender.
     </li>
@@ -39,7 +39,7 @@
     <li>
       <span class="italic-w-ipg">aṭṭhamī – </span>eighth or vocative case: – is used to address one or more persons.
     </li>
-  </ol>
+  </ul>
 
   <p class="paragraph-1-ipg increase-mar-top-ipg reduce-mar-bottom-ipg">
   The following tables present a survey for quick reference when working with the text:

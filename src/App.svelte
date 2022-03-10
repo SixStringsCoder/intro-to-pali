@@ -8,8 +8,9 @@
 	import SimpleSentences from './SimpleSentences.svelte';
 	import NounDeclension from './NounDeclension.svelte';
 	import NounCompounds from './NounCompounds.svelte';
+	import VerbConjugations from './VerbConjugations.svelte';
 	
-	const webpages = [
+	const components = [
 		{ name: "Opening", component: Opening },
 		{ name: "Introduction", component: Introduction },
 		{ name: "Pāli Pronunciation", component: PaliPronunciation },
@@ -22,12 +23,12 @@
 
 	];
 
-	const menuOptions = webpages.reduce((allNames, currObj) => {
+	const menuOptions = components.reduce((allNames, currObj) => {
 		return [...allNames, currObj.name]
 	}, [])
 	
 	let index = 0
-	$: selectedPage = webpages[index];
+	$: selectedPage = components[index];
 </script>
 
 
