@@ -21,8 +21,7 @@
     Pāli differentiates between the following tenses, which have individual conjugational endings and inflections and thus classify:
   </p>
   
-  <ul class="para-list-ipg">
-    
+  <ul class="para-list-ipg">  
     <li><a href="#section8-note-44" class="notes-ipg" id="section8-note-44-rtn">three persons (third, second and first)</a><sup class="sup-spacing-ipg">44</sup>;</li>
     <li>two numbers: singular and plural;</li> 
     <li>six tenses: present (<span class="italic-w-ipg">gacchati</span>), imperfect , aorist  (<span class="italic-w-ipg">agacchi</span>, altern: <span class="italic-w-ipg">agāma</span>; <span class="italic-w-ipg">agamī</span>; <span class="italic-w-ipg">agañchi</span>), perfect , future (<span class="italic-w-ipg">gacchissati</span>), and conditional (<span class="italic-w-ipg">agacchissa</span>);</li>
@@ -32,9 +31,36 @@
     <li>three moods: indicative (<span class="italic-w-ipg">gacchati</span>), imperative (<span class="italic-w-ipg">gaccha</span>, 2nd person) and optative (<span class="italic-w-ipg">gaccheyyuṃ</span>). </li>
     <li>three voices: active, reflective and passive voice;</li>
   </ul>
-  <p class="paragraph-1-ipg">
 
+  <!-- Example 1 -->
+  <h4 id="section-8-1" class="subheading-1-ipg">1. The Persons:</h4>
+  <p class="paragraph-1-ipg">
+    The three genders, masculine, neuter and feminine carry their individual personal endings in both numbers. In the active voice the primary endings (<span class="italic-w-ipg">-ti; -si; -mi; -nti; -tha; -ma</span>) appear in the present indicative and in the future tense. The so called secondary endings (<span class="italic-w-ipg">-t; -s; -aṃ; -u/uṃ; -tha; -ma</span>) are used in the aorist and the conditional, the optative varies with both endings.
   </p>
+  
+  <!-- Example 2 -->
+  <h4 id="section-8-2" class="subheading-1-ipg">2. The tenses:</h4>
+  <ul class="para-list-ipg">  
+    <li>The present tense describes an action that is taking place, an action that continues (equivalent to present progressive) or a fact. It is often used describing historical facts.</li>
+    <li>The aorist, the historical or principal past is mostly used to denote the past tense. It always makes use of the secondary personal endings and is built in different ways, different forms may be used:</li>
+    a) the root-aorist always prefixes the augment <span class="italic-w-ipg">-a-</span> to the root and uses the secondary personal ending: (<span class="italic-w-ipg">a-gam-t: agā; a-gam-s: agā; a-gam-m: agaṃ</span>) 
+    b) the a-aorist inserts the suffix <span class="italic-w-ipg">-a-</span> before the personal endings and mostly prefixes the augment <span class="italic-w-ipg">-a-</span>: (<span class="italic-w-ipg">a-gam-aṃ</span>: <span class="italic-w-ipg">agama</span>ṃ) 
+    c) the s-aorist inserts the suffix <span class="italic-w-ipg">-s-</span> before the personal secondary endings: (<span class="italic-w-ipg">a-gama-s-i-ṃ</span>: <span class="italic-w-ipg">agamāsiṃ</span>)
+    d) the is-aorist inserts the suffix <span class="italic-w-ipg">-is-</span> before the personal secondary endings: (<span class="italic-w-ipg">a-gam-is-ṃ</span>: <span class="italic-w-ipg">agamiṃ / gacch-is-ṃ: gacchiṃ / gañchiṃ</span>)
+    <li>The future tense expresses futurity and is formed by adding -ssa- to the root or verbal base with, or in some cases without, the connecting vowel <span class="italic-w-ipg">-i-</span>; the terminations are the same as those in the present tense: <span class="italic-w-ipg">gacch-i-ssa-mi</span>: <span class="italic-w-ipg">gacchissāmi</span>. The future tense can also express a command or condition.</li>
+    <li>The conditional expresses a possibility or wish. It uses the secondary personal endings and adds the augment <span class="italic-w-ipg">-a-</span> before the future forms: <span class="italic-w-ipg">a-gacch-iss-aṃ</span>; <span class="italic-w-ipg">a-gacch-iss-a</span>. </li>
+    <li>The causative prompts something to happen and is formed by adding either the suffix: <span class="italic-w-ipg">-aya-</span> or <span class="italic-w-ipg">-e-</span> to the root or alternatively inserts: <span class="italic-w-ipg">-paya-</span> or <span class="italic-w-ipg">-pe-</span>: <span class="italic-w-ipg">gameti, gāmayati, gacchāpeti, gamāpeti</span>.</li>
+  </ul>
+  
+  <!-- Example 3 -->
+  <h4 id="section-8-3" class="subheading-1-ipg">3. The moods:</h4>
+  <ul class="para-list-ipg">  
+    <li>The indicative mood expresses an action, describes an occasion or occurrence. The personal primary endings are added to the stem of the present tense.</li>
+    <li>The optative expresses mainly probability and advice, wishes and ideas. It is formed by adding <span class="italic-w-ipg">-eyya-</span> to the verbal base before personal endings. When translated: - if, might, would, etc. - may be used to convey the sense of it.</li>
+    <li>The imperative mood expresses commands, benediction or wishes. It is mainly used in the active voice with the following personal endings: <span class="italic-w-ipg">-tu; -hi; -ntu;</span> -tha for the 3rd and 2nd. These are added to the stem.</li>
+  </ul>
+
+
 
   <!-- footnotes section 8 -->
   <ul class="footnotes-container-ipg">
