@@ -29,11 +29,28 @@
 	
 	let index = 0
 	$: selectedPage = components[index];
+
+	const goToNext = () => {
+		if (index >= components.length-1) {
+			return index = 0;
+		}
+		return index += 1;
+	}
+	
+	const goToPrev = () => {
+		if (index === 0) {
+			return index = components.length-1;
+		}
+		return index -= 1;
+	}
 </script>
 
 
 <article id="main-container-intro-grammar">
-	<Header on:change={(e) => index = e.target.value} {menuOptions} />
+	<Header on:change={(e) => index = Number(e.target.value)} 
+					on:prev={goToPrev}
+					on:next={goToNext}
+					{menuOptions} />
 	<!-- Main Content -->
 	<main id="main-content-ipg">
 		<svelte:component this={selectedPage.component} />	
