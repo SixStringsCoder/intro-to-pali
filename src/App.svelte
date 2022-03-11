@@ -29,6 +29,7 @@
 	
 	let index = 0
 	$: selectedPage = components[index];
+	$: console.log(index)
 
 	const goToNext = () => {
 		if (index >= components.length-1) {
@@ -50,6 +51,7 @@
 	<Header on:change={(e) => index = Number(e.target.value)} 
 					on:prev={goToPrev}
 					on:next={goToNext}
+					bind:index
 					{menuOptions} />
 	<!-- Main Content -->
 	<main id="main-content-ipg">
