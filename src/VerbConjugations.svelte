@@ -83,8 +83,22 @@
   </div>
   
 <p class="paragraph-1-ipg">
-  Future passive participles or potential future participles express something that has to be done or ideally should be done. The suffixes <span class="italic-w-ipg">-tabba-</span> / <span class="italic-w-ipg">-anīya-</span> / <span class="italic-w-ipg">-ya-</span> get added to the verbal root, with or without the connecting vowel –iy. Thus the root: <span class="italic-w-ipg">kar-</span> – to do; can develop the following forms (should be done): <span class="italic-w-ipg">kar-tabba</span>: <span class="italic-w-ipg">kātabba/kattabba; kar-aniya: karaṇiya; kar-ya: kariya: kayira;</span> (sanskrit) <span class="italic-w-ipg">kṛtya</span> (with insertion of t): <span class="italic-w-ipg">kicca</span>. Future passive participles carry more optative or imperative meaning and are declined along with the respective nouns: <span class="italic-w-ipg">kammaṃ kattabbaṃ</span> – the work should be performed. 
+  Future passive participles or potential future participles express something that has to be done or ideally should be done. The suffixes <span class="italic-w-ipg">-tabba-</span> / <span class="italic-w-ipg">-anīya-</span> / <span class="italic-w-ipg">-ya-</span> get added to the verbal root, with or without the connecting vowel <span class="italic-w-ipg">–iy</span>. Thus the root: <span class="italic-w-ipg">kar-</span> – to do; can develop the following forms (should be done): <span class="italic-w-ipg">kar-tabba</span>: <span class="italic-w-ipg">kātabba/kattabba; kar-aniya: karaṇiya; kar-ya: kariya: kayira;</span> (sanskrit) <span class="italic-w-ipg">kṛtya</span> (with insertion of t): <span class="italic-w-ipg">kicca</span>. Future passive participles carry more optative or imperative meaning and are declined along with the respective nouns: <span class="italic-w-ipg">kammaṃ kattabbaṃ</span> – the work should be performed. 
 </p>
+
+
+<h4 id="section-8-5" class="subheading-1-ipg">5. The three voices</h4>
+<ul class="para-list-ipg"> 
+    <li>The active voice is the form that is of common occurrence. The word for the active voice in Pāli is: <span class="italic-w-ipg">parassapada</span> – lit: word expressing action on others – and thus describes the result or consequence of an action that is produced on others by this very action. It is also called: <span class="italic-w-ipg">kattukāraka</span>.</li>
+    <li>The reflexive or middle voice is rarely used and mostly found in poetry. The word for the middle or reflexive voice in Pāli is: <span class="italic-w-ipg">attanopada</span> – lit: word expressing action on oneself - and thus describes the result or consequence of an action that is produced on the agent himself by this very action. It is also called: <span class="italic-w-ipg">kammakāraka</span> . The primary endings of the reflexive voice are: <span class="italic-w-ipg">-te; -se; -e; -nte; -vhe; -mhe</span>; the secondary endings are: <span class="italic-w-ipg">-tha; -tho; -m/aṃ; -re/raṃ; -vho; -mhase</span>. Because of its rare occurrence the respective conjugations are neglected here.</li> 
+    <li>The passive voice adds the suffix: <span class="italic-w-ipg">-ya-</span> to transitive verbs so they can adopt passive meaning: <span class="italic-w-ipg">gacchīyati</span>  – to be gone to; <span class="italic-w-ipg">dīyati</span> – to be given. </li>
+  </ul>
+
+<p class="paragraph-1-ipg">
+  In general the terminations of the verbs remain the same throughout the different groups and in the process of reading the suttas one gets easily accustomed to these tenses. For the purpose of the collection as presented in ‘Exploring the Path’ while reading suttas and complete sentences it becomes easy to understand those usages without needing to know all the grammatical details. The subsequent tables should suffice for the purpose of this introduction: 
+</p>
+
+
 
 
 

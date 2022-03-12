@@ -33,7 +33,7 @@
 	header {
 		text-align: center;
 		padding: 1rem 0.5rem;
-		background-color: #dcd3c0;
+		background-color: #ded2b9;
 	}
 	
 	h1 {
