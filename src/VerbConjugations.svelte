@@ -89,17 +89,108 @@
 
 <h4 id="section-8-5" class="subheading-1-ipg">5. The three voices</h4>
 <ul class="para-list-ipg"> 
-    <li>The active voice is the form that is of common occurrence. The word for the active voice in Pāli is: <span class="italic-w-ipg">parassapada</span> – lit: word expressing action on others – and thus describes the result or consequence of an action that is produced on others by this very action. It is also called: <span class="italic-w-ipg">kattukāraka</span>.</li>
-    <li>The reflexive or middle voice is rarely used and mostly found in poetry. The word for the middle or reflexive voice in Pāli is: <span class="italic-w-ipg">attanopada</span> – lit: word expressing action on oneself - and thus describes the result or consequence of an action that is produced on the agent himself by this very action. It is also called: <span class="italic-w-ipg">kammakāraka</span> . The primary endings of the reflexive voice are: <span class="italic-w-ipg">-te; -se; -e; -nte; -vhe; -mhe</span>; the secondary endings are: <span class="italic-w-ipg">-tha; -tho; -m/aṃ; -re/raṃ; -vho; -mhase</span>. Because of its rare occurrence the respective conjugations are neglected here.</li> 
-    <li>The passive voice adds the suffix: <span class="italic-w-ipg">-ya-</span> to transitive verbs so they can adopt passive meaning: <span class="italic-w-ipg">gacchīyati</span>  – to be gone to; <span class="italic-w-ipg">dīyati</span> – to be given. </li>
-  </ul>
+  <li>The active voice is the form that is of common occurrence. The word for the active voice in Pāli is: <span class="italic-w-ipg">parassapada</span> – lit: word expressing action on others – and thus describes the result or consequence of an action that is produced on others by this very action. It is also called: <span class="italic-w-ipg">kattukāraka</span>.</li>
+  <li>The reflexive or middle voice is rarely used and mostly found in poetry. The word for the middle or reflexive voice in Pāli is: <span class="italic-w-ipg">attanopada</span> – lit: word expressing action on oneself - and thus describes the result or consequence of an action that is produced on the agent himself by this very action. It is also called: <span class="italic-w-ipg">kammakāraka</span> . The primary endings of the reflexive voice are: <span class="italic-w-ipg">-te; -se; -e; -nte; -vhe; -mhe</span>; the secondary endings are: <span class="italic-w-ipg">-tha; -tho; -m/aṃ; -re/raṃ; -vho; -mhase</span>. Because of its rare occurrence the respective conjugations are neglected here.</li> 
+  <li>The passive voice adds the suffix: <span class="italic-w-ipg">-ya-</span> to transitive verbs so they can adopt passive meaning: <span class="italic-w-ipg">gacchīyati</span>  – to be gone to; <span class="italic-w-ipg">dīyati</span> – to be given. </li>
+</ul>
 
 <p class="paragraph-1-ipg">
   In general the terminations of the verbs remain the same throughout the different groups and in the process of reading the suttas one gets easily accustomed to these tenses. For the purpose of the collection as presented in ‘Exploring the Path’ while reading suttas and complete sentences it becomes easy to understand those usages without needing to know all the grammatical details. The subsequent tables should suffice for the purpose of this introduction: 
 </p>
 
+<h4 id="section-8-6" class="subheading-1-ipg">6. Table survey: present indicative, imperative, optative and future</h4>
 
 
+<!-- table 7, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">Indicative</th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">Imperative</th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">Optative</th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">Future</th>
+        <th class="list-chart-4-ipg"></th>
+      </tr>
+      <tr>								
+        <th class="list-chart-3-ipg">3rd sing.</th>
+        <td class="list-chart-1-ipg">sā\so</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ti</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchati</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-tu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchatu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-eyya</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaccheyya</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issati</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchissati</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">2nd sing.</th>
+        <td class="list-chart-1-ipg">tvaṃ</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-si</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchasi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-hi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchahi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-eyyāsi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaccheyyāsi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issasi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchissasi</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st sing.</th>
+        <td class="list-chart-1-ipg">ahaṃ</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-mi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchāmi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-mi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchāmi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-eyyaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaccheyyaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issaāmi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchissāmi</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">3rd plural</th>
+        <td class="list-chart-1-ipg">te</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-nti</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchanti</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ntu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchantu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-eyyuṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaccheyyuṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issanti</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchissanti</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">2nd plural</th>
+        <td class="list-chart-1-ipg">tumhe</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-tha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchatha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-tha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchatha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-eyyātha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaccheyyātha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issatha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchissatha</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st plural</th>
+        <td class="list-chart-1-ipg">mayaṃ</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchāma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchāma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-eyyāma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaccheyyāma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issāma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchissāma</span></td>
+      </tr>
+    </table>
+  </div>
+  <!-- /table -->
 
 
   <!-- footnotes section 8 -->
