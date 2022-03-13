@@ -395,6 +395,227 @@
     </table>
   </div>
   <!-- /table -->
+  
+  <h4 id="section-8-9" class="subheading-1-ipg">9. Further examples of past participles	</h4>
+<!-- table 9, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>								
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āmasati</span></td>
+        <td class="list-chart-1-ipg">to rub</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">āmasita, āmaṭṭha</span></td>
+        <td class="list-chart-1-ipg">rubbed</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">ārabhati</td> 	
+        <td class="list-chart-1-ipg">to start</td>	
+        <td class="list-chart-1-ipg">āraddha</td>			
+        <td class="list-chart-1-ipg">started</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">āsiñcati</td> 		
+        <td class="list-chart-1-ipg">to sprinkle </td>	
+        <td class="list-chart-1-ipg">āsitta</td>			
+        <td class="list-chart-1-ipg">sprinkled</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">bhavati</td> 		
+        <td class="list-chart-1-ipg">to become</td>	
+        <td class="list-chart-1-ipg">bhūta</td>			
+        <td class="list-chart-1-ipg">become</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">bhuñjati</td> 	
+        <td class="list-chart-1-ipg">to enjoy</td> 
+          <td class="list-chart-1-ipg">bhuñjita, bhutta</td>			
+        <td class="list-chart-1-ipg">enjoyed</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">cavati</td> 		
+        <td class="list-chart-1-ipg">to fall away</td>	
+        <td class="list-chart-1-ipg">cuta</td>			 
+        <td class="list-chart-1-ipg">fell away</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">dadāti</td> 		
+        <td class="list-chart-1-ipg">to give</td>	
+        <td class="list-chart-1-ipg">dinna</td>			
+        <td class="list-chart-1-ipg">given</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">ḍasati</td> 		
+        <td class="list-chart-1-ipg">to bite</td>	
+        <td class="list-chart-1-ipg">daṭṭha</td>			
+        <td class="list-chart-1-ipg">bitten</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">dhovati</td> 		
+        <td class="list-chart-1-ipg">to wash</td>	
+        <td class="list-chart-1-ipg">dhovita, dhota</td>			
+        <td class="list-chart-1-ipg">washed</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">gaṇhāti</td> 		
+        <td class="list-chart-1-ipg">to seize</td>	
+        <td class="list-chart-1-ipg">gahita</td>			 
+        <td class="list-chart-1-ipg">seized, held</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">hanati</td> 		
+        <td class="list-chart-1-ipg">to kill</td>	
+        <td class="list-chart-1-ipg">hata</td>			
+        <td class="list-chart-1-ipg">killed</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">harati</td> 		
+        <td class="list-chart-1-ipg">to take away</td>	
+        <td class="list-chart-1-ipg">haṭa</td>			 
+        <td class="list-chart-1-ipg">took away</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">jānāti</td> 		
+        <td class="list-chart-1-ipg">to know</td>	
+        <td class="list-chart-1-ipg">ñāta</td>			
+        <td class="list-chart-1-ipg">known</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">karoti</td> 		
+        <td class="list-chart-1-ipg">to do</td>	
+        <td class="list-chart-1-ipg">kata</td>			
+        <td class="list-chart-1-ipg">done</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">kasati</td> 		
+        <td class="list-chart-1-ipg">to plough</td>
+          <td class="list-chart-1-ipg">kasita, kaṭṭha</td>			
+        <td class="list-chart-1-ipg">ploughed</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">khipati</td> 		
+        <td class="list-chart-1-ipg">to throw</td>	
+        <td class="list-chart-1-ipg">khitta</td>			
+        <td class="list-chart-1-ipg">thrown</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">kiṇāti</td> 		
+        <td class="list-chart-1-ipg">to buy</td>	
+        <td class="list-chart-1-ipg">kīta</td>			
+        <td class="list-chart-1-ipg">bought</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">kujjhati</td> 		
+        <td class="list-chart-1-ipg">to be angry</td>	
+        <td class="list-chart-1-ipg">kuddha</td>			 
+        <td class="list-chart-1-ipg">was angry</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">labhati</td> 		
+        <td class="list-chart-1-ipg">to gain</td>
+          <td class="list-chart-1-ipg">laddha, labhita </td>			
+        <td class="list-chart-1-ipg">gained</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">mināti</td> 		
+        <td class="list-chart-1-ipg">to measure</td>	
+        <td class="list-chart-1-ipg">mita</td>			
+        <td class="list-chart-1-ipg">measured</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">muñcati</td>
+        <td class="list-chart-1-ipg">to deliver, emit</td>	
+        <td class="list-chart-1-ipg">mutta</td>			
+        <td class="list-chart-1-ipg">delivered</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">nikkhamati</td> 	
+        <td class="list-chart-1-ipg">to leave</td>	
+        <td class="list-chart-1-ipg">nikkhanta </td>			 
+        <td class="list-chart-1-ipg">gone out, left</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">pāpuṇāti</td> 	
+        <td class="list-chart-1-ipg">to reach</td>	
+        <td class="list-chart-1-ipg">patta</td>			
+        <td class="list-chart-1-ipg">reached, attained</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">pacati</td> 		
+        <td class="list-chart-1-ipg">to cook</td>	
+        <td class="list-chart-1-ipg">pācita, pakka </td>			
+        <td class="list-chart-1-ipg">cooked</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">pajahati</td> 	
+        <td class="list-chart-1-ipg">to abandon</td>	
+        <td class="list-chart-1-ipg">pahīna</td>			
+        <td class="list-chart-1-ipg">abandoned</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">pasīdati</td>			
+        <td class="list-chart-1-ipg">to become bright</td>	
+        <td class="list-chart-1-ipg">pasanna</td>			
+        <td class="list-chart-1-ipg">brightened</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">pavisati</td> 		
+        <td class="list-chart-1-ipg">to enter</td>	
+        <td class="list-chart-1-ipg">paviṭṭha </td>			
+        <td class="list-chart-1-ipg">entered</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">phusati</td>
+        <td class="list-chart-1-ipg">to touch</td>	
+        <td class="list-chart-1-ipg">phuṭṭa</td>			
+        <td class="list-chart-1-ipg">touched</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">pivati</td> 		
+        <td class="list-chart-1-ipg">to drink</td>	
+        <td class="list-chart-1-ipg">pīta</td>			
+        <td class="list-chart-1-ipg">drunk</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">pucchati</td> 	
+        <td class="list-chart-1-ipg">to ask</td>	 
+        <td class="list-chart-1-ipg">pucchita, puṭṭha</td>			
+        <td class="list-chart-1-ipg">asked</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">suṇāti</td> 		
+        <td class="list-chart-1-ipg">to hear</td>	
+        <td class="list-chart-1-ipg">suta</td>			
+        <td class="list-chart-1-ipg">heard</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">tiṭṭhati</td> 		
+        <td class="list-chart-1-ipg">to stand</td>	
+        <td class="list-chart-1-ipg">ṭhita</td>			
+        <td class="list-chart-1-ipg">stood</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">vapati</td> 		
+        <td class="list-chart-1-ipg">to sow</td>	
+        <td class="list-chart-1-ipg">vutta</td>			
+        <td class="list-chart-1-ipg">sown</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">vasati</td> 		
+        <td class="list-chart-1-ipg">to live</td>	
+        <td class="list-chart-1-ipg">vuttha</td>			 
+        <td class="list-chart-1-ipg">lived, dwelled</td>
+      </tr>
+      <tr>
+        <td class="list-chart-1-ipg">vivarati</td> 		
+        <td class="list-chart-1-ipg">to uncover</td>	
+        <td class="list-chart-1-ipg">vivaṭa</td>			 
+        <td class="list-chart-1-ipg">uncovered, opened</td>
+      </tr>
+    
+    </table>
+  </div>
+  <!-- /table -->
+
+
 
   <!-- footnotes section 8 -->
   <ul class="footnotes-container-ipg">

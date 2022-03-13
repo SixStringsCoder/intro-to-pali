@@ -65,6 +65,13 @@ display: block;
   border: 1px solid black;
 }
 
+table tr:first-child{
+  background-color: hsl(41, 36%, 10%)
+}
+
+tr:nth-child(even) {
+  background-color: hsl(41, 36%, 80%)
+}
 
 /*----- Header -----*/
 .title-ipg {

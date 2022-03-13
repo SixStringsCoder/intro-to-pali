@@ -13,7 +13,7 @@
 	<h1 class="title-ipg">Introduction to Pali <br />Pronunciation and Grammar</h1>
 	
 	<nav class="custom-select">
-		<div id="prev-arrow" class="arrows" on:click={() => dispatch('prev')}>&#10132;</div>
+		<button id="prev-arrow" class="btn-arrow" on:click={() => dispatch('prev')}>&#8592;</button>
 		
 		<select on:change bind:value={index}>
 			<option value="" disabled>Go to section:</option> 
@@ -22,7 +22,7 @@
 			{/each}
 		</select>
 		
-		<div id="next-arrow" class="arrows" on:click={() => dispatch('next')}>&#10132;</div>
+		<button id="next-arrow" class="btn-arrow" on:click={() => dispatch('next')}>&#8594;</button>
 	</nav>
 
 	
@@ -52,13 +52,18 @@
 		justify-content: space-between;
 		align-items: center;
 	}
+	
 
-	.arrows {
-		font-size: 1.5rem;
+	button.btn-arrow {
+		background-color: hsl(41, 36%, 20%);
+		color: white;
+		padding: 3px 5px 5px;
+		font-size: 1.1rem;
+		border-radius: 50%;
 		cursor: pointer;
 	}
 	
-	div#prev-arrow {
-		transform: rotate(180deg)
+	button.btn-arrow:active {
+		background-color: hsl(22, 75%, 42%);
 	}
 </style>
