@@ -99,8 +99,6 @@
 </p>
 
 <h4 id="section-8-6" class="subheading-1-ipg">6. Table survey: present indicative, imperative, optative and future</h4>
-
-
 <!-- table 7, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
@@ -192,6 +190,107 @@
   </div>
   <!-- /table -->
 
+
+  <h4 id="section-8-7" class="subheading-1-ipg">7. Table survey: different forms of aorist</h4>
+<!-- table 7, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">sec. end</th>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">root - aorist</th>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">a - aorist</th>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">s - aorist</th>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">is - aorist</th>
+      </tr>
+      <tr>								
+        <th class="list-chart-3-ipg">3rd sing.</th>
+        <td class="list-chart-1-ipg">sā\so</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-t</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agama</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamāsi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchi/agami</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">2nd sing.</th>
+        <td class="list-chart-1-ipg">tvaṃ</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-s</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agama</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamāsi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchi/agami</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st sing.</th>
+        <td class="list-chart-1-ipg">ahaṃ</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-m/aṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchāmi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">a-<br>gam</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">a-<br>gam<br>a-<br>m</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamā<br>s-<br>iṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamāsiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacch-<br>is-m /<br>agam-<br>is-m</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchiṃ /<br>agamiṃ</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">3rd plural</th>
+        <td class="list-chart-1-ipg">te</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-nti</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">u/uṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">aguṃ<br>agu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamuṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamaṃsu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchisuṃ / <br>agamisuṃ</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">2nd plural</th>
+        <td class="list-chart-1-ipg">tumhe</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">tha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span>/td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamatha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamattha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchittha / <br>agamittha</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st plural</th>
+        <td class="list-chart-1-ipg">mayaṃ</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">ma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamāma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamamha</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchimha / <br>agamimha</span></td>
+      </tr>
+    </table>
+  </div>
+  <!-- /table -->
 
   <!-- footnotes section 8 -->
   <ul class="footnotes-container-ipg">
