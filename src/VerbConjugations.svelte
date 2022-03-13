@@ -192,7 +192,7 @@
 
 
   <h4 id="section-8-7" class="subheading-1-ipg">7. Table survey: different forms of aorist</h4>
-<!-- table 7, left header and top-row header -->
+<!-- table 8, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
       <tr>
@@ -238,7 +238,6 @@
         <th class="list-chart-3-ipg">1st sing.</th>
         <td class="list-chart-1-ipg">ahaṃ</td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-m/aṃ</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchāmi</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">a-<br>gam</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">agaṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">a-<br>gam<br>a-<br>m</span></td>
@@ -251,7 +250,6 @@
       <tr>
         <th class="list-chart-3-ipg">3rd plural</th>
         <td class="list-chart-1-ipg">te</td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-nti</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">u/uṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">aguṃ<br>agu</span></td>
@@ -287,6 +285,112 @@
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">agamamha</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchimha / <br>agamimha</span></td>
+      </tr>
+    </table>
+  </div>
+  <!-- /table -->
+  
+  <h4 id="section-8-8" class="subheading-1-ipg">8. Table survey: gerund, present participle, past participle, future passive participle</h4>
+<!-- table 9, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">gerund</th>
+        <th class="list-chart-4-ipg">translation</th>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">present participle</th>
+        <th class="list-chart-4-ipg">translation</th>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">past participle</th>
+        <th class="list-chart-4-ipg">translation</th>
+        <th class="list-chart-4-ipg">form</th>
+        <th class="list-chart-4-ipg">future participle</th>
+        <th class="list-chart-4-ipg">translation</th>
+      </tr>
+      <tr>								
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">-tvā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-gantvā</span></td>
+        <td class="list-chart-1-ipg">having gone</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-nta</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchanta</span></td>
+        <td class="list-chart-1-ipg">going</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ta</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gata</span></td>
+        <td class="list-chart-1-ipg">gone</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-tabba</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gantabba</span></td>
+        <td class="list-chart-1-ipg">to be gone</td>
+      </tr>
+      <tr>
+        <td class="list-chart-3-ipg"></td>
+        <td class="list-chart-1-ipg">datvā</td>
+        <td class="list-chart-1-ipg">having given</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dadanta</span></td>
+        <td class="list-chart-1-ipg">giving</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">datta</span></td>
+        <td class="list-chart-1-ipg">given</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dātabba</span></td>
+        <td class="list-chart-1-ipg">to be given</td>
+      </tr>
+      <tr>
+        <td class="list-chart-3-ipg"></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pacitvā</span></td>
+        <td class="list-chart-1-ipg">having cooked</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pacanta</span></td>
+        <td class="list-chart-1-ipg">cooking</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ita</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pacita</span></td>
+        <td class="list-chart-1-ipg">cooked</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">bhuñjitabba</span></td>
+        <td class="list-chart-1-ipg">to be enjoyed</td>
+      </tr>
+      <tr>
+        <td class="list-chart-3-ipg">-ya</td>
+        <td class="list-chart-1-ipg">āgamma</td>
+        <td class="list-chart-1-ipg">having come</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-māna</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchamāna</span></td>
+        <td class="list-chart-1-ipg">going</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchita</span></td>
+        <td class="list-chart-1-ipg">gone</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-anīya</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gamanīya</span></td>
+        <td class="list-chart-1-ipg">to be gone</td>
+      </tr>
+      <tr>
+        <td class="list-chart-3-ipg"></td>
+        <td class="list-chart-1-ipg">ādāya</td>
+        <td class="list-chart-1-ipg">having given</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pacamāna</span>/td>
+        <td class="list-chart-1-ipg">cooking</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-na</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dinna</span></td>
+        <td class="list-chart-1-ipg">given</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dassanīya</span></td>
+        <td class="list-chart-1-ipg">to be seen</td>
+      </tr>
+      <tr>
+        <td class="list-chart-3-ipg"></td>
+        <td class="list-chart-1-ipg">āruyha</td>
+        <td class="list-chart-1-ipg">having climbed</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">bhuñjamāna</span></td>
+        <td class="list-chart-1-ipg">eating</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">nisinna</span></td>
+        <td class="list-chart-1-ipg">seated</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ya</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">bhuñjiya</span></td>
+        <td class="list-chart-1-ipg">to be enjoyed</td>
       </tr>
     </table>
   </div>
