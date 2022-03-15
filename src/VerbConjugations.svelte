@@ -369,7 +369,7 @@
         <td class="list-chart-1-ipg">ādāya</td>
         <td class="list-chart-1-ipg">having given</td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg"></span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pacamāna</span>/td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pacamāna</span></td>
         <td class="list-chart-1-ipg">cooking</td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-na</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">dinna</span></td>
@@ -609,12 +609,153 @@
         <td class="list-chart-1-ipg">to uncover</td>	
         <td class="list-chart-1-ipg">vivaṭa</td>			 
         <td class="list-chart-1-ipg">uncovered, opened</td>
-      </tr>
-    
+      </tr>  
     </table>
   </div>
   <!-- /table -->
 
+
+  <h4 id="section-8-10" class="subheading-1-ipg">10. Table survey: special conjugation: <span class="italic-w-ipg">atthi</span> – to be</h4>
+<!-- table 10, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">indicative</th>
+        <th class="list-chart-4-ipg">aorist</th>
+        <th class="list-chart-4-ipg">optative</th>
+        <th class="list-chart-4-ipg">imperative</th>
+        <th class="list-chart-4-ipg">future</th>
+      </tr>
+      <tr>								
+        <th class="list-chart-3-ipg"><span class="italic-w-ipg">3rd sing.</span></th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">sā\so</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">atthi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āsi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">assa, siyā</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">atthu</span></td>
+        <td class="list-chart-3-ipg"></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg"><span class="italic-w-ipg">2nd sing.</span></th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">tvaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">asi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āsi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">assa, siyā</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āhi</span></td>
+        <td class="list-chart-3-ipg">see: <span class="italic-w-ipg">bhavati</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st sing.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">asmi, amhi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āsiṁ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">assaṃ, siyaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">asmi, amhi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">3rd pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">te</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">santi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āsuṃ, āsiṃsu</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">assu, siyuṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">santu</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">2nd pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhe</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">attha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āsittha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">assatha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">attha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st  pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">mayaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">asma, amha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">āsimha, āsimhā</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">assāma</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">asma, amha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+      </tr>
+    </table>
+  </div>
+  <!-- /table -->
+
+  <h4 id="section-8-11" class="subheading-1-ipg">11. Table survey: special conjugation: <span class="italic-w-ipg">bhavati</span> – to be, to exist, to become</h4>
+<!-- table 11, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">indicative</th>
+        <th class="list-chart-4-ipg">aorist</th>
+        <th class="list-chart-4-ipg">optative</th>
+        <th class="list-chart-4-ipg">imperative</th>
+        <th class="list-chart-4-ipg">future</th>
+      </tr>
+      <tr>								
+        <th class="list-chart-3-ipg"><span class="italic-w-ipg">3rd sing.</span></th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">sā\so</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavati</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahū, ahu, (bhavi)</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhaveyya, bhave</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavatu</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavissati</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg"><span class="italic-w-ipg">2nd sing.</span></th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">tvaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavasi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahū, ahu</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhaveyyāsi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhava, bhavāhi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavissasi</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st sing.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavāmi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahuṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhaveyyaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavissāmi</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">3rd pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">te</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavanti</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahuṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhaveyyuṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavantu</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavissanti</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">2nd pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhe</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavatha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavetha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavatha, bhavātha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavissatha</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st  pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">mayaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavāma</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahumha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhaveyyāma, bhavema</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavissāma</span></td>
+      </tr>
+    </table>
+  </div>
+  <!-- /table -->
 
 
   <!-- footnotes section 8 -->
