@@ -757,6 +757,76 @@
   </div>
   <!-- /table -->
 
+  <h4 id="section-8-12" class="subheading-1-ipg">12. Table survey: special conjugation: <span class="italic-w-ipg">hoti</span> to be, to exist, to become 	(root <italic-w-ipg>bhū</italic-w-ipg>- reduced to <italic-w-ipg>hū</italic-w-ipg>-)</h4>
+<!-- table 12, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg"></th>
+        <th class="list-chart-4-ipg">indicative</th>
+        <th class="list-chart-4-ipg">aorist</th>
+        <th class="list-chart-4-ipg">optative</th>
+        <th class="list-chart-4-ipg">imperative</th>
+        <th class="list-chart-4-ipg">future</th>
+      </tr>
+      <tr>								
+        <th class="list-chart-3-ipg"><span class="italic-w-ipg">3rd sing.</span></th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hoti</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahosi, ahū</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">huveyya</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hotu</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hohiti, hessati, hossati </span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg"><span class="italic-w-ipg">2nd sing.</span></th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">tvaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hosi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahosi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">huveyyāsi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hohi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hessasi, hohisi</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st sing.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">homi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahosiṃ, ahuṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">huveyyaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">homi</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hohāmi, hessāmi, hessaṃ</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">3rd pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">te</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">honti</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahesuṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">huveyyuṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hontu</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hessanti, hohinti</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">2nd pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhe</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hotha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahosittha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">huveyyātha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hotha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hessatha, hohitha</span></td>
+      </tr>
+      <tr>
+        <th class="list-chart-3-ipg">1st  pl.</th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">mayaṃ</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">homa</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahesuṃha</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">huveyyāma</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">homa</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hessāma, hohāma</span></td>
+      </tr>
+    </table>
+  </div>
+  <!-- /table -->
+
 
   <!-- footnotes section 8 -->
   <ul class="footnotes-container-ipg">
