@@ -275,7 +275,7 @@
   <!-- /table -->
 
   <!-- Example 3 -->
-  <h4 id="section-6-2" class="subheading-1-ipg">3. Terminations with u-ending:</h4>
+  <h4 id="section-6-3" class="subheading-1-ipg">3. Terminations with u-ending:</h4>
 
   <p class="paragraph-1-ipg">
     Examples: <br>

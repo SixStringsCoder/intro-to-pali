@@ -9,6 +9,7 @@
 	import NounDeclension from './NounDeclension.svelte';
 	import NounCompounds from './NounCompounds.svelte';
 	import VerbConjugations from './VerbConjugations.svelte';
+	import AdjAndAdv from './AdjAndAdv.svelte';
 	
 	const components = [
 		{ name: "Opening", component: Opening },
@@ -20,6 +21,7 @@
 		{ name: "Declension of nouns", component: NounDeclension },
 		{ name: "Compounds of nouns", component: NounCompounds },
 		{ name: "Conjugation of verbs", component: VerbConjugations },
+		{ name: "Adjectives and adverbs", component: AdjAndAdv },
 
 	];
 
