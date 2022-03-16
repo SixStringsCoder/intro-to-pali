@@ -827,6 +827,66 @@
   </div>
   <!-- /table -->
 
+  <h4 id="section-8-13" class="subheading-1-ipg">13.	Table survey: gerund, present participle, past participle, future passive participle, infinitive of <span class="italic-w-ipg">atthi</span> and <span class="italic-w-ipg">bhavati</span>/<span class="italic-w-ipg">hoti</span></h4>
+<!-- table 13, left header and top-row header -->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+    <table class="vowel-list-2 table-regular-ipg width-table-1">
+      <tr>
+        <th class="list-chart-4-ipg">verbs</th>
+        <th class="list-chart-4-ipg">gerund</th>
+        <th class="list-chart-4-ipg">transl.</th>
+        <th class="list-chart-4-ipg">pres. p.</th>
+        <th class="list-chart-4-ipg">transl.</th>
+        <th class="list-chart-4-ipg">past p.</th>
+        <th class="list-chart-4-ipg">transl.</th>
+        <th class="list-chart-4-ipg">fut. pass.p.</th>
+        <th class="list-chart-4-ipg">transl.</th>
+        <th class="list-chart-4-ipg">infinitive</th>
+        <th class="list-chart-4-ipg">transl.</th>    
+      </tr>
+      <tr>								
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">atthi</span></td>
+        <td class="list-chart-3-ipg">see: <span class="italic-w-ipg">bhavati and hoti</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">santa, samāna</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">being</span></td>
+        <td class="list-chart-3-ipg">see: <span class="italic-w-ipg">bhavati</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+      </tr>    
+      <tr>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavati</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavitvā</span></td>
+        <td class="list-chart-3-ipg">having become</td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavaṃ, bhavanta</span></td>
+        <td class="list-chart-3-ipg">becoming</td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhūta</span></td>
+        <td class="list-chart-3-ipg">become</td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavitabba, bhabba</span></td>
+        <td class="list-chart-3-ipg">should be, could be</td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">bhavituṃ</span></td>
+        <td class="list-chart-3-ipg">to become, to exist, to be</td>
+      </tr>
+      <tr>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hoti</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hutvā, hutvāna</span></td>
+        <td class="list-chart-3-ipg">having been</td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">honta, hontī</span></td>
+        <td class="list-chart-3-ipg">being</td>
+        <td class="list-chart-3-ipg">see: <span class="italic-w-ipg">bhavati</span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hotabba, bhuyya</span></td>
+        <td class="list-chart-3-ipg">should be, could be</td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">hotuṃ</span></td>
+        <td class="list-chart-3-ipg">to become, to exist, to be</td>
+      </tr>
+    </table>
+  </div>
+  <!-- /table -->
+
 
   <!-- footnotes section 8 -->
   <ul class="footnotes-container-ipg">
