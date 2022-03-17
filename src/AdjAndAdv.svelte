@@ -83,6 +83,8 @@
     <li>Possession express the suffixes: -<span class="italic-w-ipg">vā</span> (<span class="italic-w-ipg">guṇavā</span> – virtuous, with qualities) -<span class="italic-w-ipg">vī</span> (<span class="italic-w-ipg">medhāvī</span> – wise, with wisdom).</li> 
   </ul>
 
+  <h4 id="section-9-2" class="subheading-1-ipg">2. Declination of adverbs</h4>
+
   <p class="paragraph-1-ipg">
     Adjectives denote comparisons by adding -tara for the comparative and (in rare cases only) -<span class="italic-w-ipg">tama</span> for the superlative:
   </p>
