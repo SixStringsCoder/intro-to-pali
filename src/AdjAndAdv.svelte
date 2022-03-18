@@ -133,7 +133,7 @@
   </li>
 </ul>
 
-<p class="paragraph-1-ipg">Some grammarians  divide adverbs in groups according to their meaning instead of their derivation, such as:</p>
+<p class="paragraph-1-ipg">Some <a href="#section8-note-42" class="notes-ipg" id="section9-note-51-rtn">grammarians</a><sup class="sup-spacing-ipg">51</sup> divide adverbs in groups according to their meaning instead of their derivation, such as:</p>
 <ul class="para-list-ipg">
   <li>adverbs of time: <span class="italic-w-ipg">yada</span> – when; <span class="italic-w-ipg">ajja</span> – today; <span class="italic-w-ipg">ratto</span> – by night;</li>
   <li>adverbs of place: <span class="italic-w-ipg">tatra</span> – there; <span class="italic-w-ipg">adho</span> – below; <span class="italic-w-ipg">idha</span> – here; <span class="italic-w-ipg">tiraṃ</span> – across</li>
@@ -148,7 +148,7 @@
 
   <!-- footnotes section 9 -->
   <ul class="footnotes-container-ipg">
-    <li id="section9-note-51" class="footnotes-ipg"><sup>51</sup>  <a class="backarrow-ipg" href="#section9-note-51-rtn">↩</a></li>
+    <li id="section9-note-51" class="footnotes-ipg"><sup>51</sup>Vito Perniola (Pāli Grammar, PTS) presents a detailed survey about common adverbs grouped in this order. <a class="backarrow-ipg" href="#section9-note-51-rtn">↩</a></li>
   </ul>
 </section>
 <!-- /Section 9 -->

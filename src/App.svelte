@@ -10,6 +10,7 @@
 	import NounCompounds from './NounCompounds.svelte';
 	import VerbConjugations from './VerbConjugations.svelte';
 	import AdjAndAdv from './AdjAndAdv.svelte';
+	import Pronouns from './Pronouns.svelte';
 	
 	const components = [
 		{ name: "Opening", component: Opening },
@@ -22,6 +23,7 @@
 		{ name: "Compounds of nouns", component: NounCompounds },
 		{ name: "Conjugation of verbs", component: VerbConjugations },
 		{ name: "Adjectives and adverbs", component: AdjAndAdv },
+		{ name: "Pronouns (nāma)", component: Pronouns },
 
 	];
 
