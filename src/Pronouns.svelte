@@ -15,7 +15,7 @@
 
 <p class="paragraph-1-ipg">The indefinite pronouns formed with particles <span class="italic-w-ipg">ci/cid</span> and <span class="italic-w-ipg">api/pi</span> are often used and are listed below.</p>
 
-<h4 id="section-9-1" class="subheading-1-ipg">1.	Personal Pronoun: 1st person: <span class="italic-w-ipg">ahaṃ</span> I / <span class="italic-w-ipg">mayaṃ, amhe</span> we</h4>
+<h4 id="section-10-1" class="subheading-1-ipg">1.	Personal Pronoun: 1st person: <span class="italic-w-ipg">ahaṃ</span> I / <span class="italic-w-ipg">mayaṃ, amhe</span> we</h4>
 
 <!-- table 1, left header and top-row header -->
 <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -63,6 +63,62 @@
     </tr>
   </table>
 </div>
+
+<h4 id="section-10-2" class="subheading-1-ipg">2.	2nd person: <span class="italic-w-ipg">tvaṃ</span>, <span class="italic-w-ipg">tuvaṃ</span>	you / <span class="italic-w-ipg">tumhe</span> 	you</h4>
+
+<!-- table 1, left header and top-row header -->
+<div class="responsive-table-ipg table-regular-ipg width-table-1">
+  <table class="vowel-list-2 table-regular-ipg width-table-1">      
+    <tr>
+      <th class="list-chart-4-ipg"></th>
+      <th class="list-chart-4-ipg">Singular</th>
+      <th class="list-chart-4-ipg">Plural</th>  
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Nominative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tvaṃ, tuvaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhe</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Accusative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">taṃ, tavaṃ, tuvaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhe, tumhākaṃ, vo</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Instrumental</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tvayā, tayā, te</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhehi, vo</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Dative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">taya, tuyhaṃ, te</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhaṃ, tumhākaṃ, vo</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Ablative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tvayā, tayā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhehi, vo</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Genitive</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tava, tuyhaṃ, te</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhaṃ, tumhākaṃ, vo</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Locative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tvayi, tayi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">tumhesu</span></td>
+    </tr>
+  </table>
+</div>
+
+<p class="paragraph-1-ipg">   
+  The following tables show the declensions for the 3rd person in the respective order of demonstrative pronoun, relative pronoun and interrogative pronoun, in singular and plural number:
+</p>
+
+
+
+
 </section>
 
   
