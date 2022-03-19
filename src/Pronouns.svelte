@@ -24,8 +24,7 @@
     <tr>
       <th class="list-chart-4-ipg"></th>
       <th class="list-chart-4-ipg">Singular</th>
-      <th class="list-chart-4-ipg">Plural</th>
-     
+      <th class="list-chart-4-ipg">Plural</th>   
     </tr>
     <tr>
       <th class="list-chart-4-ipg">Nominative</th>
@@ -495,6 +494,224 @@
   </table>
 </div>
 
+
+<h4 id="section-10-9" class="subheading-1-ipg">9.	Declension of: <span class="italic-w-ipg">ayaṃ, idaṃ</span>: 	this</h4>
+<!-- table 1, left header and top-row header -->
+<div class="responsive-table-ipg table-regular-ipg width-table-1">
+  <table class="vowel-list-2 table-regular-ipg width-table-1">      
+    <tr>
+      <th class="list-chart-4-ipg">case</th>
+      <th class="list-chart-4-ipg">masculine</th>
+      <th class="list-chart-4-ipg">feminine</th>
+      <th class="list-chart-4-ipg">neuter</th>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">singular</th>
+      <td class="list-chart-3-ipg">this / he</td> 
+      <td class="list-chart-3-ipg">this / she</td>
+      <td class="list-chart-3-ipg">this / it</td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Nominative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">ayaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">ayaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">idaṃ / imaṃ</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Accusative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">idaṃ / imaṃ</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Instrumental</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">iminā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāya </span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">iminā / aminā</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Dative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imassa / assa</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imissā / imissāya</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imassa / assa</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Ablative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imasmā/ imamhā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāya</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imasmā / imamhā</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Genitive</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imassa / assa</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imissā / imissāya / imāya</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imassa / assa</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Locative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imasmiṃ / imamhi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imissaṃ / imissā / imāyaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imasmiṃ / imamhi</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">plural</th>
+      <td class="list-chart-3-ipg"></td>
+      <td class="list-chart-3-ipg"></td>
+      <td class="list-chart-3-ipg"></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Nominative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">ime</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imā / imāyo</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāni</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Accusative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">ime</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imā / imāyo</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāni</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Instrumental</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imehi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāhi </span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imehi</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Dative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imesaṃ / imesānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāsaṃ / imāsānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imesaṃ / imesānaṃ</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Ablative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imehi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāhi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imehi</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Genitive</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imesaṃ / imesānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāsaṃ / imāsānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imesaṃ / imesānaṃ</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Locative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imesu</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imāsu</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">imesu</span></td>
+    </tr>
+  </table>
+</div>
+
+<h4 id="section-10-10" class="subheading-1-ipg">9.	Declension of: <span class="italic-w-ipg">asu, amu</span>: 	that</h4>
+<!-- table 1, left header and top-row header -->
+<div class="responsive-table-ipg table-regular-ipg width-table-1">
+  <table class="vowel-list-2 table-regular-ipg width-table-1">      
+    <tr>
+      <th class="list-chart-4-ipg">case</th>
+      <th class="list-chart-4-ipg">masculine</th>
+      <th class="list-chart-4-ipg">feminine</th>
+      <th class="list-chart-4-ipg">neuter</th>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">singular</th>
+      <td class="list-chart-3-ipg"></td>
+      <td class="list-chart-3-ipg"></td>
+      <td class="list-chart-3-ipg"></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Nominative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">asu, amu</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">asu</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">aduṃ / amuṃ</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Accusative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amuṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amuṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">aduṃ / amuṃ</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Instrumental</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amunā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amuyā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amunā</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Dative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amussa</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amussā / amuyā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amussa</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Ablative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amusmā / amumhā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amuyā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amusmā / amumhā</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Genitive</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amussa</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amussā / amuyā</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amussa</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Locative</th>
+      <td class="list-shart-3-ipg"><span class="italic-w-ipg">amusmiṃ / amumhi</span></td>
+      <td class="list-shart-3-ipg"><span class="italic-w-ipg">amussaṃ / amuyaṃ</span></td>
+      <td class="list-shart-3-ipg"><span class="italic-w-ipg">amusmiṃ / amumhi</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">plural</th>
+      <td class="list-chart-3-ipg"></td>
+      <td class="list-chart-3-ipg"></td>
+      <td class="list-chart-3-ipg"></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Nominative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amū</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amū / amūyo</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amū / amūni</span></td>
+    </tr> 
+    <tr>
+      <th class="list-chart-4-ipg">Accusative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amū</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amū / amūyo</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amū / amūni</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Instrumental</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūhi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūhi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūhi/amūbhi</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Dative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsaṃ / amūsānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsaṃ / amūsānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsaṃ / amūsānaṃ</span></td>
+    </tr> 
+    <tr>
+      <th class="list-chart-4-ipg">Ablative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūhi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūhi</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūhi / amūbhi</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Genitive</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsaṃ / amūsānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsaṃ / amūsānaṃ</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsaṃ / amūsānaṃ</span></td>
+    </tr>
+    <tr>
+      <th class="list-chart-4-ipg">Locative</th>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsu</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsu</span></td>
+      <td class="list-chart-3-ipg"><span class="italic-w-ipg">amūsu</span></td>
+    </tr>
+  </table>
+</div>
 
 
 </section>
