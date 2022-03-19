@@ -283,6 +283,14 @@ list-style-type: disc;
   letter-spacing: 1px;
 }
 
+dl {
+  margin: 0 0 0 5%;
+}
+
+dt {
+  font-weight: bold;
+}
+
 
 .vowel-list-ipg tr td {
   padding: 0 1rem;
