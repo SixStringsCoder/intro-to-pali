@@ -6,11 +6,24 @@
 
 body {
   margin: 0;
+  font-family: Times, serif;
+  font-size: 1.5rem;
+}
+
+pre {
+  font-family: inherit;
+  font-size: 1.3rem;
+  font-style: italic;
+  margin: 0;
+}
+
+address {
+  font-size: 1.1rem;
 }
 
 #main-container-intro-grammar {
   font-family: Times, serif;
-  font-size: 1.5vw;
+  font-size: 1.5rem;
   color: #333;
   line-height: 1.5;
 
@@ -351,7 +364,6 @@ border-bottom: 2px solid grey;
 
 
 .section-divider-ipg {
-border-bottom: 2px solid grey;
   display: flex;
   justify-content: start;
   flex-direction: column;
