@@ -1,5 +1,7 @@
 <script>
 	import Header from './Header.svelte';
+	import Footer from './Footer.svelte';
+	
 	import Opening from './Opening.svelte'
 	import Introduction from './Introduction.svelte'
 	import PaliPronunciation from './PaliPronunciation.svelte'
@@ -11,6 +13,11 @@
 	import VerbConjugations from './VerbConjugations.svelte';
 	import AdjAndAdv from './AdjAndAdv.svelte';
 	import Pronouns from './Pronouns.svelte';
+	import Indeclinables from './Indeclinables.svelte';
+	import Prefixes from './Prefixes.svelte';
+	import Suffixes from './Suffixes.svelte';
+	import Epilogue from './Epilogue.svelte';
+	
 	
 	const components = [
 		{ name: "Opening", component: Opening },
@@ -24,6 +31,10 @@
 		{ name: "Conjugation of verbs", component: VerbConjugations },
 		{ name: "Adjectives and adverbs", component: AdjAndAdv },
 		{ name: "Pronouns (nāma)", component: Pronouns },
+		{ name: "Indeclinables (nipāta)", component: Indeclinables },
+		{ name: "Prefixes (upasagga)", component: Prefixes },
+		{ name: "Suffixes", component: Suffixes },
+		{ name: "Epilogue", component: Epilogue },
 
 	];
 
@@ -62,3 +73,5 @@
 		<svelte:component this={selectedPage.component} />	
 	</main>
 </article>	
+
+<Footer />
