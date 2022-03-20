@@ -86,7 +86,7 @@ border: none 0 #fff;
 }
 
 #main-container-intro-grammar h1, h2, h3, h4, h5, h6 {
-  margin: 1rem 0;
+  margin: 1rem 0 .5rem;
   /*text-align: left;*/
 }
 
@@ -217,7 +217,7 @@ text-align: center;
 .subheading-1-ipg {
   font-size: 1.2rem;
   font-weight: 600;
-  margin: 1rem 2rem;
+  margin: 1rem 1rem .5rem;
 }
 
 .paragraph-2-ipg {
