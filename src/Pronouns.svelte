@@ -1,5 +1,3 @@
-<script></script>
-
 <!-- Section 10 -->
 <section id="section-10" class="section-divider-ipg">
   <h3 class="heading-2-ipg">Section Ten</h3>
