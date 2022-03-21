@@ -82,15 +82,15 @@ address {
   line-height: 1.5;
 
   background-color: #ded2b9;
-  /*margin: 0;*/
+  padding: 10px;
   position:relative;
-  width:100vw;
+  /* width:100vw; */
   /*height: 100vh;*/
 
-  display: flex;
+  /* display: flex;
   justify-content: center;
   flex-direction: column;
-  align-items: center;
+  align-items: center; */
 }
 
 #main-container-intro-grammar td, th, p {
@@ -179,13 +179,13 @@ tr:nth-child(even) {
 }
 
 .byline-container-ipg {
-  margin: 0 4rem;
+  /* margin: 0 4rem; */
   align-self: flex-end;
 }
 
 .byline-ipg {
   font-size: .8rem;
-  margin-right: 20rem;
+  /* margin-right: 20rem; */
 }
 
 .aspiration-ipg {
