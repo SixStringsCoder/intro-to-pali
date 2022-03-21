@@ -47,13 +47,15 @@
 	$: selectedPage = components[index];
 	// $: console.log(webpage)
 
+	const goToPageTop = () => topOfPage.scrollIntoView();
 
 	const handleMenu = (e) => {
 		index = Number(e.target.value)
-		topOfPage.scrollIntoView();
+		goToPageTop();
 	}
 
 	const goToNext = () => {
+		goToPageTop();
 		if (index >= components.length-1) {
 			return index = 0;
 		}
@@ -61,6 +63,7 @@
 	}
 	
 	const goToPrev = () => {
+		goToPageTop();
 		if (index === 0) {
 			return index = components.length-1;
 		}
