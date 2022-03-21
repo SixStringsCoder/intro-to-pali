@@ -1,5 +1,5 @@
 <script>
-	import Header from './Header.svelte';
+	import Nav from './Nav.svelte';
 	import Footer from './Footer.svelte';
 	
 	import Opening from './Opening.svelte'
@@ -44,7 +44,12 @@
 	
 	let index = 0
 	$: selectedPage = components[index];
-	$: console.log(index)
+	// $: console.log(webpage)
+
+
+	const handleMenu = (e) => {
+		index = Number(e.target.value)
+	}
 
 	const goToNext = () => {
 		if (index >= components.length-1) {
@@ -59,19 +64,47 @@
 		}
 		return index -= 1;
 	}
-</script>
+	
+</script>	
 
+
+<header>
+	<h1 class="title-ipg">Introduction to Pali <br />Pronunciation and Grammar</h1>
+
+	<Nav on:change={handleMenu} 
+			 on:prev={goToPrev}
+			 on:next={goToNext}
+			 bind:index
+			 {menuOptions} />
+</header>
 
 <article id="main-container-intro-grammar">
-	<Header on:change={(e) => index = Number(e.target.value)} 
-					on:prev={goToPrev}
-					on:next={goToNext}
-					bind:index
-					{menuOptions} />
+
 	<!-- Main Content -->
 	<main id="main-content-ipg">
 		<svelte:component this={selectedPage.component} />	
+		<Nav on:change={handleMenu} 
+			 on:prev={goToPrev}
+			 on:next={goToNext}
+			 bind:index
+			 {menuOptions} />
 	</main>
+
 </article>	
 
 <Footer />
+
+
+<style>
+	header {
+		text-align: center;
+		padding: 1rem 0.5rem;
+		background-color: #ded2b9;
+	}
+	
+	h1 {
+		margin: 5px;
+		font-size: 1.4rem
+	}
+	
+</style>
