@@ -43,12 +43,14 @@
 	}, [])
 	
 	let index = 0
+	let topOfPage;
 	$: selectedPage = components[index];
 	// $: console.log(webpage)
 
 
 	const handleMenu = (e) => {
 		index = Number(e.target.value)
+		topOfPage.scrollIntoView();
 	}
 
 	const goToNext = () => {
@@ -64,11 +66,15 @@
 		}
 		return index -= 1;
 	}
+
+	// Go to top of webpage when new component mounts
+	import { onMount } from "svelte";
+  onMount(() => window.scrollTo(0,document.body.scrollHeight));
 	
 </script>	
 
 
-<header>
+<header bind:this={topOfPage}>
 	<h1 class="title-ipg">Introduction to Pali <br />Pronunciation and Grammar</h1>
 
 	<Nav on:change={handleMenu} 
