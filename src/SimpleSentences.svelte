@@ -12,7 +12,7 @@
   Experience of reading and working with the original texts will show that the apparently ambiguous complexity of the Pāli grammar becomes clear sooner rather than later and the development of understanding the meaning of sentences usually improves <a href="#section5-note-26" class="notes-ipg" id="section5-note-26-rtn">rapidly<sup class="sup-spacing-ipg">26</sup></a>. The preceding surveys of declension and conjunction illustrate a simple example of the following sentence <a href="#section5-note-27" class="notes-ipg" id="section5-note-27-rtn">construction<sup class="sup-spacing-ipg">27</sup></a>.
   </p>
   <!-- table 4, left header and top-row header -->
-  <!--<div class="responsive-table-ipg table-regular-ipg width-table-1">-->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
       <tr>
         <th class="list-chart-4-ipg">Case</th>
@@ -69,7 +69,7 @@
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">Bho samaṇā!</span><br>Oh monks!</td>
       </tr>
     </table>
-  <!--</div>-->
+  </div>
   <!-- /table -->
 
   <p class="english-translation-center-1-ipg">

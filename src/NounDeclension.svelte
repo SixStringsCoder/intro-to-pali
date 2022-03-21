@@ -52,7 +52,7 @@
   </p>
 
   <!-- table 4, left header and top-row header -->
-  <!--<div class="responsive-table-ipg table-regular-ipg width-table-1">-->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
       <tr>
         <th class="list-chart-4-ipg">Case</th>
@@ -136,7 +136,7 @@
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
       </tr>
     </table>
-  <!--</div>-->
+  </div>
   <!-- /table -->
 
   <!-- Example 2 -->
@@ -151,7 +151,7 @@
   </p>
 
   <!-- table 5, left header and top-row header -->
-  <!--<div class="responsive-table-ipg table-regular-ipg width-table-1">-->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
       <tr>
         <th class="list-chart-4-ipg">Case</th>
@@ -271,7 +271,7 @@
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-īyo, <br>-iyo,<br>-yo,<br>-āyo</span></td>
       </tr>
     </table>
-  <!--</div>-->
+  </div>
   <!-- /table -->
 
   <!-- Example 3 -->
@@ -285,7 +285,7 @@
   </p>
 
   <!-- table 6, left header and top-row header -->
-  <!--<div class="responsive-table-ipg table-regular-ipg width-table-1">-->
+  <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
       <tr>
         <th class="list-chart-4-ipg">Case</th>
@@ -369,7 +369,7 @@
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-uvo, <br>-uyo</span></td>
       </tr>
     </table>
-  <!--</div>-->
+  </div>
   <!-- /table -->
 
   <p class="italic-w-ipg">The declensions of nouns that end in – <span class="italic-w-ipg">ū</span> (male and female) follow somewhat the same declension like those ending in – <span class="italic-w-ipg">u</span>.</p>
