@@ -203,7 +203,7 @@
   }
 
   ul#list-cont-1 li span.no-2 {
-    margin-left: 140px;
+    margin-left: 65px;
   }
 
   p {

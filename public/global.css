@@ -292,9 +292,10 @@ list-style-type: disc;
 }
 
 div.responsive-table-ipg {
-  max-width: 100%;
+  max-width: 95%;
   overflow-x: auto;
-  width: 100%;
+  margin: 0 auto;
+  transform: rotateX(180deg);
 }
 
 .table-regular-ipg {
@@ -303,6 +304,7 @@ div.responsive-table-ipg {
   border-spacing: 2px;
   background-color: rgba(51, 51, 51, 0.38); 
   align-self: center;
+  transform: rotateX(180deg);
 }
 
 table.table-regular-ipg th, td {

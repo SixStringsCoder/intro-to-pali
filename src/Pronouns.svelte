@@ -14,7 +14,7 @@
   <p class="paragraph-1-ipg">The indefinite pronouns formed with particles <span class="italic-w-ipg">ci/cid</span> and <span class="italic-w-ipg">api/pi</span> are often used and are listed below.</p>
 
   <h4 id="section-10-1" class="subheading-1-ipg">1.
-    Personal Pronoun: 1st person: <span class="italic-w-ipg">ahaṃ</span> I / <span class="italic-w-ipg">mayaṃ, amhe</span> we</h4>
+    Personal Pronoun: 1st person:<br> <span class="italic-w-ipg">ahaṃ</span> I / <span class="italic-w-ipg">mayaṃ, amhe</span> we</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -62,7 +62,7 @@
     </table>
   </div>
 
-  <h4 id="section-10-2" class="subheading-1-ipg">2.	2nd person: <span class="italic-w-ipg">tvaṃ</span>, <span class="italic-w-ipg">tuvaṃ</span>	you / <span class="italic-w-ipg">tumhe</span> 	you</h4>
+  <h4 id="section-10-2" class="subheading-1-ipg">2.	2nd person:<br> <span class="italic-w-ipg">tvaṃ</span>, <span class="italic-w-ipg">tuvaṃ</span>	you / <span class="italic-w-ipg">tumhe</span> 	you</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -116,7 +116,7 @@
 
 
 
-  <h4 id="section-10-3" class="subheading-1-ipg">3.	Masculine, 3rd person, singular: <span class="italic-w-ipg">so</span>		he</h4>
+  <h4 id="section-10-3" class="subheading-1-ipg">3.	Masculine, 3rd person, singular:<br> <span class="italic-w-ipg">so</span>		he</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -178,7 +178,7 @@
     </table>
   </div>
 
-  <h4 id="section-10-4" class="subheading-1-ipg">4.	Neuter, 3rd person, singular: <span class="italic-w-ipg">yaṃ</span>		it, that</h4>
+  <h4 id="section-10-4" class="subheading-1-ipg">4.	Neuter, 3rd person, singular:<br> <span class="italic-w-ipg">yaṃ</span>		it, that</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -241,7 +241,7 @@
   </div>
 
 
-  <h4 id="section-10-5" class="subheading-1-ipg">5.	Feminine, 3rd person, singular: <span class="italic-w-ipg">yā</span>			she, who</h4>
+  <h4 id="section-10-5" class="subheading-1-ipg">5.	Feminine, 3rd person, singular:<br> <span class="italic-w-ipg">yā</span>			she, who</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -304,7 +304,7 @@
   </div>
 
 
-  <h4 id="section-10-6" class="subheading-1-ipg">6.	Masculine, 3rd person, plural: <span class="italic-w-ipg">ye</span>		they</h4>
+  <h4 id="section-10-6" class="subheading-1-ipg">6.	Masculine, 3rd person, plural:<br> <span class="italic-w-ipg">ye</span>		they</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -367,7 +367,7 @@
   </div>
 
 
-  <h4 id="section-10-7" class="subheading-1-ipg">7.	Neuter, 3rd person, plural: <span class="italic-w-ipg">yāni, ye</span> 			those</h4>
+  <h4 id="section-10-7" class="subheading-1-ipg">7.	Neuter, 3rd person, plural:<br> <span class="italic-w-ipg">yāni, ye</span> 			those</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -430,7 +430,7 @@
   </div>
 
 
-  <h4 id="section-10-8" class="subheading-1-ipg">8.	Feminine, 3rd person, plural: <span class="italic-w-ipg">tā, tāyo</span>: 	they, those</h4>
+  <h4 id="section-10-8" class="subheading-1-ipg">8.	Feminine, 3rd person, plural:<br> <span class="italic-w-ipg">tā, tāyo</span>: 	they, those</h4>
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -493,7 +493,7 @@
   </div>
 
 
-  <h4 id="section-10-9" class="subheading-1-ipg">9.	Declension of: <span class="italic-w-ipg">ayaṃ, idaṃ</span>: 	this</h4>
+  <h4 id="section-10-9" class="subheading-1-ipg">9.	Declension of:<br> <span class="italic-w-ipg">ayaṃ, idaṃ</span>: 	this</h4>
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">      
@@ -602,7 +602,7 @@
     </table>
   </div>
 
-  <h4 id="section-10-10" class="subheading-1-ipg">9.	Declension of: <span class="italic-w-ipg">asu, amu</span>: 	that</h4>
+  <h4 id="section-10-10" class="subheading-1-ipg">9.	Declension of:<br> <span class="italic-w-ipg">asu, amu</span>: 	that</h4>
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">      

@@ -34,6 +34,15 @@
 <style>
   div#hindi-doha {
     width: 100%;
+    margin: -20px 0 20px 0;
     text-align: center;
+  }
+
+  pre {
+    font-size: 1.1rem;
+  }
+
+  address {
+    font-size: .9rem;
   }
 </style>

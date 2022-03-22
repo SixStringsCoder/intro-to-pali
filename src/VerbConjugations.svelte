@@ -1,6 +1,3 @@
-<script></script>
-
-
 <!-- Section 8 -->
 <section id="section-8" class="section-divider-ipg">
   <h3 class="heading-2-ipg">Section Eight</h3>
@@ -70,16 +67,16 @@
   </ul>
 
   <div class="paragraph-1-ipg">
-    <pre>
-    For example: <span class="italic-w-ipg">gacchati, tiṭṭhati</span> are intransitive verbs. Therefore:
-        <span class="italic-w-ipg">puriso gato</span> –  the man has gone - (active meaning)
-        <span class="italic-w-ipg">vanitā ṭhitā</span> – the woman has stood - (active meaning)
-    </pre>
-    <pre>
-    <span class="italic-w-ipg">pacati, dadāti,</span> are transitive verbs. 
-        <span class="italic-w-ipg">odano pacito</span> – the rice is cooked - (passive meaning)
-        <span class="italic-w-ipg">mettā datā</span> – <span class="italic-w-ipg">metta</span> is given - (passive meaning)
-    </pre>
+    <p>
+    For example: <span class="italic-w-ipg">gacchati, tiṭṭhati</span> are intransitive verbs. Therefore:<br>
+        <span class="italic-w-ipg">puriso gato</span> –  the man has gone - (active meaning)<br>
+        <span class="italic-w-ipg">vanitā ṭhitā</span> – the woman has stood - (active meaning)<br>
+    </p>
+    <p>
+    <span class="italic-w-ipg">pacati, dadāti,</span> are transitive verbs. <br>
+        <span class="italic-w-ipg">odano pacito</span> – the rice is cooked - (passive meaning)<br>
+        <span class="italic-w-ipg">mettā datā</span> – <span class="italic-w-ipg">metta</span> is given - (passive meaning)<br>
+    </p>
   </div>
   
 <p class="paragraph-1-ipg">
@@ -772,6 +769,7 @@
       </tr>
       <tr>								
         <th class="list-chart-3-ipg"><span class="italic-w-ipg">3rd sing.</span></th>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">sā\so</span></td>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">hoti</span></td>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">ahosi, ahū</span></td>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">huveyya</span></td>

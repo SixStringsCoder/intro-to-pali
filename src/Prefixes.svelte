@@ -14,7 +14,7 @@
   </p>
 
   <!-- table 1, left header and top-row header -->
-  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+  <div class="responsive-table-ipg table-regular-ipg width-table-1" id="prefixes-table-cont">
     <table class="vowel-list-2 table-regular-ipg width-table-1"> 
       <tr>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">a-</span></td>
@@ -127,8 +127,16 @@
 
 
 <style>
-  div {
+  div#prefixes-table-cont{
     height: 300px;
     overflow-y: scroll;
+  }
+
+  div.responsive-table-ipg {
+    transform: rotateX(0deg);
+  }
+
+  table.table-regular-ipg {
+    transform: rotateX(0deg);
   }
 </style>
