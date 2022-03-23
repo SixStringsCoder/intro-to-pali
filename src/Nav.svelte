@@ -9,27 +9,19 @@
 
 
 <nav class="custom-select">
-	<button id="prev-arrow" class="btn-arrow" on:click={() => dispatch('prev')}>&#8592;</button>
+	<button id="prev-arrow" class="btn-arrow" on:click={() => dispatch('prev')}>⇦</button>
 
-	<span class="custom-dropdown small">
-    
+	<span class="custom-dropdown small">   
     <select on:change bind:value={index}>
 			<option value="" disabled>Go to section:</option> 
 			{#each menuOptions as linkName, i}
 		<option value={i}>{linkName}</option>
 		{/each}
 			</select>
-		</span>
+	</span>
 
 	
-	<!-- <select on:change bind:value={index}>
-		<option value="" disabled>Go to section:</option> 
-			{#each menuOptions as linkName, i}
-		<option value={i}>{linkName}</option>
-		{/each}
-	</select> -->
-	
-	<button id="next-arrow" class="btn-arrow" on:click={() => dispatch('next')}>&#8594;</button>
+	<button id="next-arrow" class="btn-arrow" on:click={() => dispatch('next')}>⇨</button>
 </nav>
 
 
@@ -56,7 +48,7 @@
 		position: relative;
 		display: inline-block;
 		vertical-align: middle;
-		margin: 10px; /* demo only */
+		margin: 10px;
 	}
 
 	.custom-dropdown select {
@@ -86,9 +78,9 @@
 		background-color: hsl(41, 36%, 20%);
 		color: white;
 		margin: 0 10px;
-		padding: 3px 5px 5px;
+		padding: 4px 7px;
 		font-size: 1.1rem;
-		border-radius: 50%;
+		border-radius: 3px;
 		cursor: pointer;
 	}
 	
