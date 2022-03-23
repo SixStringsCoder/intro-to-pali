@@ -85,285 +85,292 @@
 		1. Examples of verbs by addition of various prefixes of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
 
-	<!-- table-2 left-header, right-data-->
-	<table class="vowel-list-2 table-regular-ipg">
-		<tbody><tr>
-			<th class="list-chart-2-ipg">āgacchati</th>
-			<td class="list-chart-1-ipg">to come to or towards, approach, go back, arrive</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">āgameti</th>
-			<td class="list-chart-1-ipg">to cause somebody to come to one, i.e. to wait (caus.)</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">abbhuggacchati</th>
-			<td class="list-chart-1-ipg">to go forth, go out, rise into</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">abhigacchati</th>
-			<td class="list-chart-1-ipg">to go forward, to approach </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">abhisamāgacchati</th>
-			<td class="list-chart-1-ipg">to come to (understand) completely, to grasp fully </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">adhigacchati</th>
-			<td class="list-chart-1-ipg">to acquire, to attain, to find</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anugacchati</th>
-			<td class="list-chart-1-ipg">to follow</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anvāgacchati</th>
-			<td class="list-chart-1-ipg">to follow, pursue</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">apagacchati</th>
-			<td class="list-chart-1-ipg">to go away, to leave</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">atigacchati</th>
-			<td class="list-chart-1-ipg">to overcome, to conquer</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">atthaṅgacchati</th>
-			<td class="list-chart-1-ipg">to disappear, to go out of existence</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">avagacchati</th>
-			<td class="list-chart-1-ipg">to come, to approach, visit</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">gameti</th>
-			<td class="list-chart-1-ipg">to send out, to make go (caus.)</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">niggacchati</th>
-			<td class="list-chart-1-ipg">to proceed from</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">ogacchati</th>
-			<td class="list-chart-1-ipg">to go down, to sink</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">paṭivigacchati</th>
-			<td class="list-chart-1-ipg">to go apart again, to go away or asunder</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">paccāgacchati</th>
-			<td class="list-chart-1-ipg">to go back to, to return</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">paccuggacchati</th>
-			<td class="list-chart-1-ipg">to leave, to go out </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">samāgacchati</th>
-			<td class="list-chart-1-ipg">to meet together, to assemble, to associate with </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">samadhigacchati</th>
-			<td class="list-chart-1-ipg">to attain</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">samuggacchati</th>
-			<td class="list-chart-1-ipg">to arise </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">saṇgacchati</th>
-			<td class="list-chart-1-ipg">to meet, to come together</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">udāgacchati</th>
-			<td class="list-chart-1-ipg">to come to completion</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">uggacchati</th>
-			<td class="list-chart-1-ipg">to rise, get up out of</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">upāgacchati</th>
-			<td class="list-chart-1-ipg">to come, to arrive at, reach, obtain</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">upātigacchati</th>
-			<td class="list-chart-1-ipg">to go out over, to surpass, overcome</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">vigacchati</th>
-			<td class="list-chart-1-ipg">to depart, decrease</td>
-		</tr>
-	</tbody></table>
+	<div class="responsive-table-ipg">	
+		<!-- table-2 left-header, right-data-->
+		<table class="vowel-list-2 table-regular-ipg">
+			<tbody><tr>
+				<th class="list-chart-2-ipg">āgacchati</th>
+				<td class="list-chart-1-ipg">to come to or towards, approach, go back, arrive</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">āgameti</th>
+					<td class="list-chart-1-ipg">to cause somebody to come to one, i.e. to wait (caus.)</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">abbhuggacchati</th>
+					<td class="list-chart-1-ipg">to go forth, go out, rise into</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">abhigacchati</th>
+					<td class="list-chart-1-ipg">to go forward, to approach </td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">abhisamāgacchati</th>
+					<td class="list-chart-1-ipg">to come to (understand) completely, to grasp fully </td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">adhigacchati</th>
+					<td class="list-chart-1-ipg">to acquire, to attain, to find</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">anugacchati</th>
+					<td class="list-chart-1-ipg">to follow</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">anvāgacchati</th>
+					<td class="list-chart-1-ipg">to follow, pursue</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">apagacchati</th>
+					<td class="list-chart-1-ipg">to go away, to leave</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">atigacchati</th>
+					<td class="list-chart-1-ipg">to overcome, to conquer</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">atthaṅgacchati</th>
+					<td class="list-chart-1-ipg">to disappear, to go out of existence</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">avagacchati</th>
+					<td class="list-chart-1-ipg">to come, to approach, visit</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">gameti</th>
+					<td class="list-chart-1-ipg">to send out, to make go (caus.)</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">niggacchati</th>
+					<td class="list-chart-1-ipg">to proceed from</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">ogacchati</th>
+					<td class="list-chart-1-ipg">to go down, to sink</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">paṭivigacchati</th>
+					<td class="list-chart-1-ipg">to go apart again, to go away or asunder</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">paccāgacchati</th>
+					<td class="list-chart-1-ipg">to go back to, to return</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">paccuggacchati</th>
+					<td class="list-chart-1-ipg">to leave, to go out </td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">samāgacchati</th>
+					<td class="list-chart-1-ipg">to meet together, to assemble, to associate with </td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">samadhigacchati</th>
+					<td class="list-chart-1-ipg">to attain</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">samuggacchati</th>
+					<td class="list-chart-1-ipg">to arise </td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">saṇgacchati</th>
+					<td class="list-chart-1-ipg">to meet, to come together</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">udāgacchati</th>
+					<td class="list-chart-1-ipg">to come to completion</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">uggacchati</th>
+					<td class="list-chart-1-ipg">to rise, get up out of</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">upāgacchati</th>
+					<td class="list-chart-1-ipg">to come, to arrive at, reach, obtain</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">upātigacchati</th>
+					<td class="list-chart-1-ipg">to go out over, to surpass, overcome</td>
+				</tr>
+				<tr>
+					<th class="list-chart-2-ipg">vigacchati</th>
+					<td class="list-chart-1-ipg">to depart, decrease</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 
 	<!-- Example 2 -->
 	<h4 id="section-4-2" class="subheading-1-ipg">
 		2. Examples of derivations from the participle forms of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
 
-	<!-- table-2 left-header, right-data-->
-	<table class="vowel-list-2 table-regular-ipg">
-		<tbody><tr>
-			<th class="list-chart-2-ipg">āgantu</th>
-			<td class="list-chart-1-ipg">occasional, incidental</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">āgata</th>
-			<td class="list-chart-1-ipg">come </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">abbhāgata</th>
-			<td class="list-chart-1-ipg">having arrived or come; a guest, stranger</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">abbhuggata</th>
-			<td class="list-chart-1-ipg">gone forth, gone out, risen</td>
-		</tr><tr>
-			<th class="list-chart-2-ipg">abhigamanīya</th>
-			<td class="list-chart-1-ipg">to be approached, accessible</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">adhigata</th>
-			<td class="list-chart-1-ipg">attained, in the possession of</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">amahaggata</th>
-			<td class="list-chart-1-ipg">not expanded, minor</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anāgata</th>
-			<td class="list-chart-1-ipg">not come yet, i.e. future</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anugata</th>
-			<td class="list-chart-1-ipg">accompanied by</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anugāmika</th>
-			<td class="list-chart-1-ipg">accompanying, resulting from </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anugāmin</th>
-			<td class="list-chart-1-ipg">following, attending to, going along with</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anvāgata</th>
-			<td class="list-chart-1-ipg">endowed with, having attained</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">atthaṅgata</th>
-			<td class="list-chart-1-ipg">gone home</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">avagata</th>
-			<td class="list-chart-1-ipg">known, understood</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">avāgata</th>
-			<td class="list-chart-1-ipg">are fallen from</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">dukkhamagama</th>
-			<td class="list-chart-1-ipg">not coming into connection with misery</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">duranugama</th>
-			<td class="list-chart-1-ipg">difficult to be </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">dūraṅgama</th>
-			<td class="list-chart-1-ipg">going far </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">gamma</th>
-			<td class="list-chart-1-ipg">belonging to the village, low, inferior</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">gāmin</th>
-			<td class="list-chart-1-ipg">walking, going</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">gāmeyya</th>
-			<td class="list-chart-1-ipg">belonging to a village</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">khemaṅgato</th>
-			<td class="list-chart-1-ipg">attained the state of security</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">mahaggata</th>
-			<td class="list-chart-1-ipg">gone great, expanded</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">paccuggata</th>
-			<td class="list-chart-1-ipg">illustrious</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">pāragu</th>
-			<td class="list-chart-1-ipg">gone beyond</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">paṭṭhagu</th>
-			<td class="list-chart-1-ipg">being near, attending to</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">papamagama</th>
-			<td class="list-chart-1-ipg">not coming into connection with evil</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">parāgata</th>
-			<td class="list-chart-1-ipg">reached the other side</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">samāgata</th>
-			<td class="list-chart-1-ipg">assembled</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">samānagatika</th>
-			<td class="list-chart-1-ipg">identical</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">samannāgata</th>
-			<td class="list-chart-1-ipg">endowed with, possessed of</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">saṅkhaṅgata</th>
-			<td class="list-chart-1-ipg">is called</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">sugata</th>
-			<td class="list-chart-1-ipg">well gone </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">uddhagāmin</th>
-			<td class="list-chart-1-ipg">going upwards</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">uggata</th>
-			<td class="list-chart-1-ipg">come out, risen, high, lofty, exalted</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">vedagu</th>
-			<td class="list-chart-1-ipg">established in the experience of sensation</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">vigatāsava</th>
-			<td class="list-chart-1-ipg">free from depravity, a saint </td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">vigata</th>
-			<td class="list-chart-1-ipg">ceased, free from</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">vihaṅgama</th>
-			<td class="list-chart-1-ipg">moving through the air, flying</td>
-		</tr>
-	</tbody></table>
+	<div class="responsive-table-ipg">	
+		<!-- table-2 left-header, right-data-->
+		<table class="vowel-list-2 table-regular-ipg">
+			<tbody><tr>
+				<th class="list-chart-2-ipg">āgantu</th>
+				<td class="list-chart-1-ipg">occasional, incidental</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">āgata</th>
+				<td class="list-chart-1-ipg">come </td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">abbhāgata</th>
+				<td class="list-chart-1-ipg">having arrived or come; a guest, stranger</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">abbhuggata</th>
+				<td class="list-chart-1-ipg">gone forth, gone out, risen</td>
+			</tr><tr>
+				<th class="list-chart-2-ipg">abhigamanīya</th>
+				<td class="list-chart-1-ipg">to be approached, accessible</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">adhigata</th>
+				<td class="list-chart-1-ipg">attained, in the possession of</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">amahaggata</th>
+				<td class="list-chart-1-ipg">not expanded, minor</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">anāgata</th>
+				<td class="list-chart-1-ipg">not come yet, i.e. future</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">anugata</th>
+				<td class="list-chart-1-ipg">accompanied by</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">anugāmika</th>
+				<td class="list-chart-1-ipg">accompanying, resulting from </td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">anugāmin</th>
+				<td class="list-chart-1-ipg">following, attending to, going along with</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">anvāgata</th>
+				<td class="list-chart-1-ipg">endowed with, having attained</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">atthaṅgata</th>
+				<td class="list-chart-1-ipg">gone home</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">avagata</th>
+				<td class="list-chart-1-ipg">known, understood</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">avāgata</th>
+				<td class="list-chart-1-ipg">are fallen from</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">dukkhamagama</th>
+				<td class="list-chart-1-ipg">not coming into connection with misery</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">duranugama</th>
+				<td class="list-chart-1-ipg">difficult to be </td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">dūraṅgama</th>
+				<td class="list-chart-1-ipg">going far </td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">gamma</th>
+				<td class="list-chart-1-ipg">belonging to the village, low, inferior</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">gāmin</th>
+				<td class="list-chart-1-ipg">walking, going</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">gāmeyya</th>
+				<td class="list-chart-1-ipg">belonging to a village</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">khemaṅgato</th>
+				<td class="list-chart-1-ipg">attained the state of security</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">mahaggata</th>
+				<td class="list-chart-1-ipg">gone great, expanded</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">paccuggata</th>
+				<td class="list-chart-1-ipg">illustrious</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">pāragu</th>
+				<td class="list-chart-1-ipg">gone beyond</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">paṭṭhagu</th>
+				<td class="list-chart-1-ipg">being near, attending to</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">papamagama</th>
+				<td class="list-chart-1-ipg">not coming into connection with evil</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">parāgata</th>
+				<td class="list-chart-1-ipg">reached the other side</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">samāgata</th>
+				<td class="list-chart-1-ipg">assembled</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">samānagatika</th>
+				<td class="list-chart-1-ipg">identical</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">samannāgata</th>
+				<td class="list-chart-1-ipg">endowed with, possessed of</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">saṅkhaṅgata</th>
+				<td class="list-chart-1-ipg">is called</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">sugata</th>
+				<td class="list-chart-1-ipg">well gone </td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">uddhagāmin</th>
+				<td class="list-chart-1-ipg">going upwards</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">uggata</th>
+				<td class="list-chart-1-ipg">come out, risen, high, lofty, exalted</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">vedagu</th>
+				<td class="list-chart-1-ipg">established in the experience of sensation</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">vigatāsava</th>
+				<td class="list-chart-1-ipg">free from depravity, a saint </td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">vigata</th>
+				<td class="list-chart-1-ipg">ceased, free from</td>
+			</tr>
+			<tr>
+				<th class="list-chart-2-ipg">vihaṅgama</th>
+				<td class="list-chart-1-ipg">moving through the air, flying</td>
+			</tr>
+		</tbody>
+	</table>
+	</div>
 
 	<!-- Example 3 -->
 	<h4 id="section-4-3" class="subheading-1-ipg">3. Examples of nouns derived from the root <span class="italic-w-ipg">gam</span></h4>
 
+	<div class="responsive-table-ipg">
 	<!-- table-3 left-header, right-data-->
 	<table class="vowel-list-2 table-regular-ipg">
 		<tbody><tr>
@@ -534,7 +541,9 @@
 			<th class="list-chart-2-ipg">vihaṅga/vihaga</th>
 			<td class="list-chart-1-ipg">a bird</td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
+</div>
 
 	<!-- Example 4 -->
 	<h4 id="section-4-4" class="subheading-1-ipg">4. Example of noun declension of the noun <span class="italic-w-ipg">gāmo</span> ending in a</h4>

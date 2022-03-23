@@ -16,44 +16,50 @@
 			</p>
 
 			<p class="paragraph-2-ipg">The Vowels:</p>
-			<!-- table-1 left-data, right-data-->
-			<table class="vowel-list-ipg table-regular-ipg">
-				<tbody><tr>
-					<td><span class="italic-w-ipg">a</span></td>
-					<td><span class="italic-w-ipg">ā</span></td>
-				</tr>
-				<tr>
-					<td><span class="italic-w-ipg">i</span></td>
-					<td><span class="italic-w-ipg">ī</span></td>
-				</tr>
-				<tr>
-					<td><span class="italic-w-ipg">u</span></td>
-					<td><span class="italic-w-ipg">ū</span></td>
-				</tr>
-				<tr>
-					<td><span class="italic-w-ipg">e</span></td>
-					<td><span class="italic-w-ipg">o</span></td>
-				</tr>
-			</tbody></table>
+			<div class="responsive-table-ipg">
+				<!-- table-1 left-data, right-data-->
+				<table class="vowel-list-ipg table-regular-ipg">
+					<tbody><tr>
+						<td><span class="italic-w-ipg">a</span></td>
+						<td><span class="italic-w-ipg">ā</span></td>
+					</tr>
+					<tr>
+						<td><span class="italic-w-ipg">i</span></td>
+						<td><span class="italic-w-ipg">ī</span></td>
+					</tr>
+					<tr>
+						<td><span class="italic-w-ipg">u</span></td>
+						<td><span class="italic-w-ipg">ū</span></td>
+					</tr>
+					<tr>
+						<td><span class="italic-w-ipg">e</span></td>
+						<td><span class="italic-w-ipg">o</span></td>
+					</tr>
+				</tbody>
+				</table>
+			</div>
 
 			<p class="paragraph-1-ipg">
 				Vowels can be short and long; a line over a vowel - ā, ī, ū - indicates a long vowel that resonates for about twice the time period of a short <a href="#section3-note-10" class="notes-ipg" id="section3-note-10-rtn"><span class="italic-w-ipg">vowel</span><sup class="sup-spacing-ipg">10</sup></a>.  As far as similarity to English is concerned the following pronunciation aid may be <a href="#section3-note-11" class="notes-ipg" id="section3-note-11-rtn"><span class="italic-w-ipg">helpful</span><sup class="sup-spacing-ipg">11</sup></a>:
 			</p>
-			<!-- table-1 left-data, right-data-->
-			<table class="vowel-list-ipg table-regular-ipg">
-				<tbody><tr>
-					<td><span class="italic-w-ipg">a</span> - as the "a" in cut</td>
-					<td><span class="italic-w-ipg">ā</span> - as the "a" in art</td>
-				</tr>
-				<tr>
-					<td><span class="italic-w-ipg">i</span> - as the "i" in mint</td>
-					<td><span class="italic-w-ipg">ī</span> - as the "ee" in see  </td>
-				</tr>
-				<tr>
-					<td><span class="italic-w-ipg">u</span> - as the "u" in put </td>
-					<td><span class="italic-w-ipg">ū</span> - as the "oo" in cool</td>
-				</tr>
-			</tbody></table>
+			<div class="responsive-table-ipg">
+				<!-- table-1 left-data, right-data-->
+				<table class="vowel-list-ipg table-regular-ipg">
+					<tbody><tr>
+						<td><span class="italic-w-ipg">a</span> - as the "a" in cut</td>
+						<td><span class="italic-w-ipg">ā</span> - as the "a" in art</td>
+					</tr>
+					<tr>
+						<td><span class="italic-w-ipg">i</span> - as the "i" in mint</td>
+						<td><span class="italic-w-ipg">ī</span> - as the "ee" in see  </td>
+					</tr>
+					<tr>
+						<td><span class="italic-w-ipg">u</span> - as the "u" in put </td>
+						<td><span class="italic-w-ipg">ū</span> - as the "oo" in cool</td>
+					</tr>
+				</tbody>
+				</table>
+			</div>
 
 			<p class="paragraph-section3 reduce-mar-bottom-ipg"><span class="italic-w-ipg">-e-</span> and  <span class="italic-w-ipg">-o-</span> are pronounced:</p>
 			<ul class="example-1-ipg reduce-mar-top-ipg">
