@@ -1,4 +1,6 @@
 <script>
+  import AudioPlayer from "./AudioPlayer.svelte";
+	const baseURL = "https://learning.pariyatti.org/draftfile.php/8/user/draft/558116997/"
 
 </script>
 
@@ -84,7 +86,7 @@
 	<h4 id="section-4-1" class="subheading-1-ipg">
 		1. Examples of verbs by addition of various prefixes of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
-
+		<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Examples of Verbs"/>		
 	<div class="responsive-table-ipg">	
 		<!-- table-2 left-header, right-data-->
 		<table class="vowel-list-2 table-regular-ipg">
@@ -204,7 +206,9 @@
 	<h4 id="section-4-2" class="subheading-1-ipg">
 		2. Examples of derivations from the participle forms of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
-
+	
+		<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Audio of participle forms"/>		
+	
 	<div class="responsive-table-ipg">	
 		<!-- table-2 left-header, right-data-->
 		<table class="vowel-list-2 table-regular-ipg">
@@ -369,6 +373,8 @@
 
 	<!-- Example 3 -->
 	<h4 id="section-4-3" class="subheading-1-ipg">3. Examples of nouns derived from the root <span class="italic-w-ipg">gam</span></h4>
+
+	<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
 
 	<div class="responsive-table-ipg">
 	<!-- table-3 left-header, right-data-->
@@ -551,6 +557,9 @@
 	<p class="paragraph-1-ipg">
 		The noun <span class="italic-w-ipg">gāmo</span> – a village (lit: a place where people go) is derived from the root <span class="italic-w-ipg">gam</span>. While a more detailed survey of noun-declensions is given further below a first glance here will introduce their declension:
 	</p>
+
+	<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
+
 	<!-- table 4, left header and top-row header -->
 	<div class="responsive-table-ipg">
 		<table class="vowel-list-2 table-regular-ipg">
@@ -644,6 +653,8 @@
 		In the same way a further first glance at the verbal conjugation of the verb:
 		<span class="italic-w-ipg">gacchati</span> – to <a href="#section4-note-24" class="notes-ipg" id="section4-note-24-rtn">go<sup class="sup-spacing-ipg">24</sup></a> - introduces the present tense simple.
 	</p>
+
+	<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
 
 	<p class="paragraph-1-ipg">Here the verbal form is developed by the <a href="#section4-note-25" class="notes-ipg" id="section4-note-25-rtn">root<sup class="sup-spacing-ipg">25</sup></a>:</p>
 	<ol class="para-list-ipg">

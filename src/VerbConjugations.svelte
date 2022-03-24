@@ -1,3 +1,9 @@
+<script>
+  import AudioPlayer from './AudioPlayer.svelte';
+
+  const baseURL = "https://learning.pariyatti.org/draftfile.php/8/user/draft/558116997/"
+</script>
+
 <!-- Section 8 -->
 <section id="section-8" class="section-divider-ipg">
   <h3 class="heading-2-ipg">Section Eight</h3>
@@ -394,7 +400,10 @@
   <!-- /table -->
   
   <h4 id="section-8-9" class="subheading-1-ipg">9. Further examples of past participles	</h4>
-<!-- table 9, left header and top-row header -->
+
+  <AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
+
+  <!-- table 9, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
       <tr>								

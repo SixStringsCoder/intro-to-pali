@@ -5,9 +5,9 @@
 
 
 <section>
-	<h4>
-		Play audio for {topic}
-	</h4>
+	<h6>
+		{topic}
+	</h6>
 	<audio controls>
 		<source src={audioURL} type="audio/mp3">
 		Your browser does not support the audio element.
