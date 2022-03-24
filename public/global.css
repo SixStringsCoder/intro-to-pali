@@ -56,7 +56,8 @@ pre {
 }
 
 address {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  margin-top: 1rem;
 }
 
 /* custom scroll bar handle */

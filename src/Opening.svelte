@@ -42,8 +42,22 @@
 		text-align: center;
 		margin: 0 0 5% 0;
 	}
+
+	p {
+		font-size: 1.2rem;
+	}
+
+	p.byline-ipg {
+		font-style: italic;
+		font-size: 1rem;
+	}
 	
 	.lg-pali-center-ipg {
 		font-style:italic;
+		margin: 0;
+	}
+
+	section#intro-text-ipg {
+		padding: 0;
 	}
 </style>
