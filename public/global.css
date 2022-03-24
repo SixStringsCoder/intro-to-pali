@@ -293,7 +293,7 @@ list-style-type: disc;
 
 div.responsive-table-ipg {
   max-width: 95%;
-  height: 400px;
+  max-height: 400px;
   overflow: auto;
   margin: 0 auto;
   
