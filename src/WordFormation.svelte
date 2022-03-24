@@ -1,6 +1,6 @@
 <script>
   import AudioPlayer from "./AudioPlayer.svelte";
-	const baseURL = "https://learning.pariyatti.org/draftfile.php/8/user/draft/558116997/"
+	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 
 </script>
 
@@ -86,7 +86,7 @@
 	<h4 id="section-4-1" class="subheading-1-ipg">
 		1. Examples of verbs by addition of various prefixes of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
-		<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Examples of Verbs"/>		
+		<AudioPlayer audioURL={`${baseURL}/03-Prefixes-page-10.mp3`} />		
 	<div class="responsive-table-ipg">	
 		<!-- table-2 left-header, right-data-->
 		<table class="vowel-list-2 table-regular-ipg">
@@ -207,7 +207,7 @@
 		2. Examples of derivations from the participle forms of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
 	
-		<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Audio of participle forms"/>		
+		<AudioPlayer audioURL={`${baseURL}/04-Participles-page-11.mp3`} />		
 	
 	<div class="responsive-table-ipg">	
 		<!-- table-2 left-header, right-data-->
@@ -374,7 +374,7 @@
 	<!-- Example 3 -->
 	<h4 id="section-4-3" class="subheading-1-ipg">3. Examples of nouns derived from the root <span class="italic-w-ipg">gam</span></h4>
 
-	<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
+	<AudioPlayer audioURL={`${baseURL}/05-Noun-Examples-page-12.mp3`} />		
 
 	<div class="responsive-table-ipg">
 	<!-- table-3 left-header, right-data-->
@@ -558,7 +558,7 @@
 		The noun <span class="italic-w-ipg">gāmo</span> – a village (lit: a place where people go) is derived from the root <span class="italic-w-ipg">gam</span>. While a more detailed survey of noun-declensions is given further below a first glance here will introduce their declension:
 	</p>
 
-	<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
+	<AudioPlayer audioURL={`${baseURL}/06-Gamo-Declension-page-13.mp3`} />		
 
 	<!-- table 4, left header and top-row header -->
 	<div class="responsive-table-ipg">
@@ -653,9 +653,6 @@
 		In the same way a further first glance at the verbal conjugation of the verb:
 		<span class="italic-w-ipg">gacchati</span> – to <a href="#section4-note-24" class="notes-ipg" id="section4-note-24-rtn">go<sup class="sup-spacing-ipg">24</sup></a> - introduces the present tense simple.
 	</p>
-
-	<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
-
 	<p class="paragraph-1-ipg">Here the verbal form is developed by the <a href="#section4-note-25" class="notes-ipg" id="section4-note-25-rtn">root<sup class="sup-spacing-ipg">25</sup></a>:</p>
 	<ol class="para-list-ipg">
 		<li><span class="italic-w-ipg">gam</span> changes by assimilation into <span class="italic-w-ipg">ga-c-cha</span></li>
@@ -663,6 +660,9 @@
 		<li>the termination <span class="italic-w-ipg">-mi</span> for the 1<sup>st</sup> person singular: – I go</li>
 	</ol>
 	<p class="paragraph-1-ipg">according to the following verbal conjugation:</p>
+
+	<AudioPlayer audioURL={`${baseURL}/07-Verbal-Conjugations-page-14.mp3`} />		
+
 	<!-- table 5,  -->
 	<div class="responsive-table-ipg">
 		<table class="vowel-list-2 table-regular-ipg">

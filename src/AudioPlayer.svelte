@@ -6,7 +6,7 @@
 
 <section>
 	<h6>
-		{topic}
+		Play Audio
 	</h6>
 	<audio controls>
 		<source src={audioURL} type="audio/mp3">

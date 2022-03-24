@@ -1,8 +1,6 @@
 <script>
-  import AudioPlayer from './AudioPlayer.svelte';
-
-  const baseURL = "https://learning.pariyatti.org/draftfile.php/8/user/draft/558116997/"
-
+  import AudioPlayer from './AudioPlayer.svelte'
+	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 </script>
 
 
@@ -25,7 +23,7 @@
     For general outline one may refer to the declensions of nouns, the following example of suffix <span class="italic-w-ipg">-a</span>: <span class="italic-w-ipg">bala</span> – strong - may suffice for the purpose of this introduction:
   </p>
 
-  <AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
+  <AudioPlayer audioURL={`${baseURL}/11-Adjectives-page-30.mp3`} />		
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -161,4 +159,15 @@
 <!-- /Section 9 -->
 
 
-<style></style>
+<style>
+  div {
+    height: 300px;
+    overflow-y: scroll;
+    transform: rotateX(0deg);
+  }
+
+  table {
+    transform: rotateX(0deg);
+  }
+  
+  </style>

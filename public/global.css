@@ -293,6 +293,7 @@ list-style-type: disc;
 
 div.responsive-table-ipg {
   max-width: 95%;
+  height: 300px;
   overflow-x: auto;
   margin: 0 auto;
   transform: rotateX(180deg);

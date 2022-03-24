@@ -1,8 +1,6 @@
 <script>
   import AudioPlayer from './AudioPlayer.svelte';
-
-  const baseURL = "https://learning.pariyatti.org/draftfile.php/8/user/draft/558116997/"
-
+	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 </script>
 
 <!-- Section 5 -->
@@ -17,10 +15,10 @@
   Experience of reading and working with the original texts will show that the apparently ambiguous complexity of the Pāli grammar becomes clear sooner rather than later and the development of understanding the meaning of sentences usually improves <a href="#section5-note-26" class="notes-ipg" id="section5-note-26-rtn">rapidly<sup class="sup-spacing-ipg">26</sup></a>. The preceding surveys of declension and conjunction illustrate a simple example of the following sentence <a href="#section5-note-27" class="notes-ipg" id="section5-note-27-rtn">construction<sup class="sup-spacing-ipg">27</sup></a>.
   </p>
 
-  <AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
+  <AudioPlayer audioURL={`${baseURL}/08-Syntax-page-15.mp3`} />		
 
   <!-- table 4, left header and top-row header -->
-  <div class="responsive-table-ipg table-regular-ipg width-table-1">
+  <div class="responsive-table-ipg table-regular-ipg width-table-1" id="syntax-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">
       <tr>
         <th class="list-chart-4-ipg">Case</th>
@@ -79,12 +77,13 @@
     </table>
   </div>
   <!-- /table -->
-
-  <AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Play audio examples"/>		
+	
 
   <p class="english-translation-center-1-ipg">
     Buddh<span class="italic-w-ipg-1">o</span> rath<span class="italic-w-ipg-1">ena</span> sāvak<span class="italic-w-ipg-1">ebhi</span> saha bhūpāla<span class="italic-w-ipg-1">ssa</span> pāsāda<span class="italic-w-ipg-1">mhā</span> gāma<span class="italic-w-ipg-1">smiṃ</span> vihāra<span class="italic-w-ipg-1">ṃ</span> gacchati, samaṇ<span class="italic-w-ipg-1">ānaṃ</span> metta<span class="italic-w-ipg-1">ṃ</span> dadāti: "Bho samaṇ<span class="italic-w-ipg-1">ā</span>! Bhavatu sabbe maṅgalaṃ."
   </p>
+
+  <AudioPlayer audioURL={`${baseURL}/09-Syntax-page-16.mp3`} />	
 
   <p class="english-translation-center-1-ipg">
   The Buddha goes by chariot, together with the disciples, from the palace of the king to the monastery in the village and gives metta to the monks: "Oh monks! May all be happy!"
@@ -99,4 +98,5 @@
 </section>
 
 
-<style></style>
+<style>
+</style>

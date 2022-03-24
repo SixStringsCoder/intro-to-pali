@@ -1,7 +1,7 @@
 <script>
   import AudioPlayer from './AudioPlayer.svelte';
 	
-	const baseURL = "https://learning.pariyatti.org/draftfile.php/8/user/draft/558116997/"
+	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 </script>
 
 <section id="section-3" class="section-divider-ipg">
@@ -16,7 +16,7 @@
 			</p>
 
 			<p class="paragraph-2-ipg">The Vowels:</p>
-			<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Vowels"/>			
+			<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`} />			
 			
 			<div class="responsive-table-ipg">
 				<!-- table-1 left-data, right-data-->
@@ -74,7 +74,7 @@
 			<p class="paragraph-1-ipg reduce-mar-top-ipg">
 				Pāli uses 25 so called grouped consonants that add the vowel "a" to carry sound and are divided into groups according to their form of creation:
 			</p>
-			<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`}  topic="Consonants"/>
+			<AudioPlayer audioURL={`${baseURL}/02-Consonants-page-7.mp3`} />
 
 			<!-- Add consonant here-->
 			<div class="responsive-table-ipg">
