@@ -1,6 +1,5 @@
 <script>
 	export let audioURL = "";
-	export let topic = "";
 </script>
 
 

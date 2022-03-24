@@ -1,7 +1,8 @@
-<script>
+<script>	
+	import { onMount } from "svelte";
+
 	import Nav from './Nav.svelte';
-	import Footer from './Footer.svelte';
-	
+	import Footer from './Footer.svelte';	
 	import Opening from './Opening.svelte'
 	import Introduction from './Introduction.svelte'
 	import PaliPronunciation from './PaliPronunciation.svelte'
@@ -45,7 +46,6 @@
 	let index = 0
 	let topOfPage;
 	$: selectedPage = components[index];
-	// $: console.log(webpage)
 
 	const goToPageTop = () => topOfPage.scrollIntoView();
 
@@ -70,9 +70,8 @@
 		return index -= 1;
 	}
 
-	// Go to top of webpage when new component mounts
-	import { onMount } from "svelte";
-  onMount(() => window.scrollTo(0,document.body.scrollHeight));
+	// Go to top of webpage whenever new component mounts
+  onMount(() => goToPageTop());
 	
 </script>	
 
