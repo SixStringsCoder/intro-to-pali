@@ -1,6 +1,6 @@
 <!-- svelte-ignore a11y-no-redundant-roles -->
 <footer role="contentinfo">
-  <p class="footer-styles-ipg ">Copyright (c) 2019 Klaus Nothnagel</p>
+  <p class="footer-styles-ipg ">Copyright (c) 2017 Klaus Nothnagel</p>
   <p class="footer-styles-ipg ">All Rights Reserved.</p>
 </footer>
 

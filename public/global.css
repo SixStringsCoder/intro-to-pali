@@ -394,6 +394,7 @@ dt {
 /*----- Footnotes -----*/
 .notes-ipg {
   color: #627f9d;
+
 }
 
 .footnotes-container-ipg {
@@ -414,7 +415,7 @@ dt {
 }
 
 .section-divider-ipg .footnotes-container-ipg :target {
-  background: rgba(16, 110, 70, 0.35);
+  background: rgba(16, 110, 70, 0.25);
   border-radius: 5px;
   box-shadow: 2px 3px grey;
   font-size: 1.2rem;
@@ -422,6 +423,7 @@ dt {
 
 .section-divider-ipg :target {
   background: rgba(142, 142, 142, 0.35);
+  
   padding: .3rem;
 }
 .backarrow-ipg :target {
