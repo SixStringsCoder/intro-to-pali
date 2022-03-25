@@ -10,7 +10,6 @@
     margin: 10px 0 0;
     padding: 15px;
     border-top: 1px solid black;
-    background-color: hsl(41, 36%, 85%);
     font-size: .8rem;
   }
 
