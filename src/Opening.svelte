@@ -29,7 +29,7 @@
 	</p>
 
 	<footer class="byline-container-ipg">
-		<p class="byline-ipg">Hindi dohas by S.N. Goenka during his 10-day courses</p>
+		<p class="byline-ipg">&mdash;Hindi dohas by S.N. Goenka during his 10-day courses</p>
 	</footer>
 
 	<p class="aspiration-ipg">

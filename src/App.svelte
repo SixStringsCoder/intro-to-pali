@@ -107,7 +107,6 @@
 	header {
 		text-align: center;
 		padding: 1rem 0.5rem;
-		background-color: #ded2b9;
 	}
 	
 	h1 {

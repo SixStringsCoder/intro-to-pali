@@ -34,7 +34,7 @@
 		align-items: center;
 	}
 
-	/* custom select menu */
+	/* custom select menu; credit: https://codepen.io/silverdrop/pen/OJJREa */
 	.big {
 		font-size: 1.2em;
 	}
@@ -70,9 +70,6 @@
 		position: absolute;
 		pointer-events: none;
 	}
-
-	
-	
 
 	button.btn-arrow {
 		background-color: hsl(41, 36%, 20%);
