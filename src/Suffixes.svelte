@@ -150,7 +150,7 @@
       </li>
     </ul>
       
-    <p>Suffixes changing or forming nouns into verbs :</p>
+    <p>Suffixes changing or forming nouns into <a href="#section13-note-53" class="notes-ipg" id="section13-note-53-rtn"><span class="italic-w-ipg">verb</span><sup class="sup-spacing-ipg">53</sup>:</p>
     <ul>
       <li>
         <span class="left-list-span italic-w-ipg">taṇhā + āya + ti: taṇhāyati </span> 		
@@ -186,8 +186,8 @@
 
   <!-- Footnotes Section 13 -->
   <ul class="footnotes-container-ipg">
-    <li id="section13-note-52" class="footnotes-ipg"><sup>52</sup>Depending on the way these derivations combine with the suffixes they undergo certain changes according to the rules of sandhi vowel gradation. The suffixes can get added to the normal, the <span class="italic-w-ipg">guṇa</span> grade, where the vocalic element of the root remains unchanged. If this gets strengthened it is called <span class="italic-w-ipg">vuddhi</span> (<span class="italic-w-ipg">a</span> turns into <span class="italic-w-ipg">ā</span>; <span class="italic-w-ipg">i</span> into <span class="italic-w-ipg">e</span>……), if shortened or elided this is called <span class="italic-w-ipg">avuddhika</span> or week, reduced grade.<a class="backarrow-ipg" href="#section10-note-52-rtn">↩</a></li>
-    <li id="section13-note-53" class="footnotes-ipg"><sup>53</sup>See also under causative verbs.<a class="backarrow-ipg" href="#section10-note-53-rtn">↩</a></li>
+    <li id="section13-note-52" class="footnotes-ipg"><sup>52</sup>Depending on the way these derivations combine with the suffixes they undergo certain changes according to the rules of sandhi vowel gradation. The suffixes can get added to the normal, the <span class="italic-w-ipg">guṇa</span> grade, where the vocalic element of the root remains unchanged. If this gets strengthened it is called <span class="italic-w-ipg">vuddhi</span> (<span class="italic-w-ipg">a</span> turns into <span class="italic-w-ipg">ā</span>; <span class="italic-w-ipg">i</span> into <span class="italic-w-ipg">e</span>……), if shortened or elided this is called <span class="italic-w-ipg">avuddhika</span> or week, reduced grade.<a class="backarrow-ipg" href="#section13-note-52-rtn">↩</a></li>
+    <li id="section13-note-53" class="footnotes-ipg"><sup>53</sup>See also under causative verbs.<a class="backarrow-ipg" href="#section13-note-53-rtn">↩</a></li>
   </ul>
 </section>
 <!-- /Section 13 -->

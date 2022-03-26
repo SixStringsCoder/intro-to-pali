@@ -22,8 +22,8 @@
     For general outline one may refer to the declensions of nouns, the following example of suffix <span class="italic-w-ipg">-a</span>: <span class="italic-w-ipg">bala</span> – strong - may suffice for the purpose of this introduction:
   </p>
 
-  <AudioPlayer audioURL={"11-Adjectives-page-30.mp3"} />		
-
+  <AudioPlayer audioURL={"/11-Adjectives-page-30.mp3"} />		
+  
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">      

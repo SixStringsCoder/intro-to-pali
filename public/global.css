@@ -411,7 +411,10 @@ dt {
 
 .footnotes-ipg {
   padding: .5rem 1rem;
+}
 
+.footnotes-container-ipg .footnotes-ipg sup {
+  margin-right: 10px
 }
 
 .section-divider-ipg .footnotes-container-ipg :target {
