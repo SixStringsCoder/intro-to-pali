@@ -1,12 +1,10 @@
 <script>
   import AudioPlayer from "./AudioPlayer.svelte";
-	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
-
 </script>
 
 <section id="section-4" class="section-divider-ipg">
 	<h3 class="heading-2-ipg">Section Four</h3>
-	<h3 class="heading-3-ipg">Word-formation</h3>
+	<h3 class="heading-3-ipg">Word Formation</h3>
 	<p class="paragraph-1-ipg">
 		<span class="italic-w-ipg"></span>
 		It is worthwhile to take a short look at the development of words in <span class="italic-w-ipg">Pāli</span> in order to help individual study. If we understand the derivation of the words from their <a href="#section4-note-16" class="notes-ipg" id="section4-note-16-rtn">roots<sup class="sup-spacing-ipg">16</sup></a>, their development by addition of prefixes, suffixes, case-, gender-, and tense-terminations and inflections as well as certain changes within the root by substituting or altering the carrying vowel, it becomes easy to grasp this ancient language.
@@ -86,7 +84,7 @@
 	<h4 id="section-4-1" class="subheading-1-ipg">
 		1. Examples of verbs by addition of various prefixes of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
-		<AudioPlayer audioURL={`${baseURL}/03-Prefixes-page-10.mp3`} />		
+		<AudioPlayer audioURL={"/03-Prefixes-page-10.mp3"} />		
 	<div class="responsive-table-ipg">	
 		<!-- table-2 left-header, right-data-->
 		<table class="vowel-list-2 table-regular-ipg">
@@ -207,7 +205,7 @@
 		2. Examples of derivations from the participle forms of the verb
 		<span class="italic-w-ipg">gacchati</span></h4>
 	
-		<AudioPlayer audioURL={`${baseURL}/04-Participles-page-11.mp3`} />		
+		<AudioPlayer audioURL={"/04-Participles-page-11.mp3"} />		
 	
 	<div class="responsive-table-ipg">	
 		<!-- table-2 left-header, right-data-->
@@ -374,7 +372,7 @@
 	<!-- Example 3 -->
 	<h4 id="section-4-3" class="subheading-1-ipg">3. Examples of nouns derived from the root <span class="italic-w-ipg">gam</span></h4>
 
-	<AudioPlayer audioURL={`${baseURL}/05-Noun-Examples-page-12.mp3`} />		
+	<AudioPlayer audioURL={"/05-Noun-Examples-page-12.mp3"} />		
 
 	<div class="responsive-table-ipg">
 	<!-- table-3 left-header, right-data-->
@@ -558,7 +556,7 @@
 		The noun <span class="italic-w-ipg">gāmo</span> – a village (lit: a place where people go) is derived from the root <span class="italic-w-ipg">gam</span>. While a more detailed survey of noun-declensions is given further below a first glance here will introduce their declension:
 	</p>
 
-	<AudioPlayer audioURL={`${baseURL}/06-Gamo-Declension-page-13.mp3`} />		
+	<AudioPlayer audioURL={"/06-Gamo-Declension-page-13.mp3"} />		
 
 	<!-- table 4, left header and top-row header -->
 	<div class="responsive-table-ipg">
@@ -661,7 +659,7 @@
 	</ol>
 	<p class="paragraph-1-ipg">according to the following verbal conjugation:</p>
 
-	<AudioPlayer audioURL={`${baseURL}/07-Verbal-Conjugations-page-14.mp3`} />		
+	<AudioPlayer audioURL={"/07-Verbal-Conjugations-page-14.mp3"} />		
 
 	<!-- table 5,  -->
 	<div class="responsive-table-ipg">

@@ -1,6 +1,5 @@
 <script>
   import AudioPlayer from './AudioPlayer.svelte'
-	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 </script>
 
 
@@ -23,7 +22,7 @@
     For general outline one may refer to the declensions of nouns, the following example of suffix <span class="italic-w-ipg">-a</span>: <span class="italic-w-ipg">bala</span> – strong - may suffice for the purpose of this introduction:
   </p>
 
-  <AudioPlayer audioURL={`${baseURL}/11-Adjectives-page-30.mp3`} />		
+  <AudioPlayer audioURL={"11-Adjectives-page-30.mp3"} />		
 
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
@@ -138,7 +137,7 @@
   </li>
 </ul>
 
-<p class="paragraph-1-ipg">Some <a href="#section8-note-42" class="notes-ipg" id="section9-note-51-rtn">grammarians</a><sup class="sup-spacing-ipg">51</sup> divide adverbs in groups according to their meaning instead of their derivation, such as:</p>
+<p class="paragraph-1-ipg">Some <a href="#section9-note-51" class="notes-ipg" id="section9-note-51-rtn">grammarians</a><sup class="sup-spacing-ipg">51</sup> divide adverbs in groups according to their meaning instead of their derivation, such as:</p>
 <ul class="para-list-ipg">
   <li>adverbs of time: <span class="italic-w-ipg">yada</span> – when; <span class="italic-w-ipg">ajja</span> – today; <span class="italic-w-ipg">ratto</span> – by night;</li>
   <li>adverbs of place: <span class="italic-w-ipg">tatra</span> – there; <span class="italic-w-ipg">adho</span> – below; <span class="italic-w-ipg">idha</span> – here; <span class="italic-w-ipg">tiraṃ</span> – across</li>

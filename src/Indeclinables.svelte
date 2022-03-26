@@ -1,6 +1,5 @@
 <script>
   import AudioPlayer from './AudioPlayer.svelte';
-	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 </script>
 
 
@@ -16,7 +15,7 @@
     Indeclinables are words, which carry their own meaning and are placed either before or behind the noun they refer to. They could be compared to adverbs, prepositions or conjunctions in other languages, often they are used adverbially. They are of frequent occurrence therefore a good knowledge of these may be useful:
   </p>
 
-  <AudioPlayer audioURL={`${baseURL}/12-Nipata-pages-36-39.mp3`} />		
+  <AudioPlayer audioURL={"/12-Nipata-pages-36-39.mp3"} />		
 
 
   <!-- table 1, left header and top-row header -->

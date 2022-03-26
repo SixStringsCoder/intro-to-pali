@@ -4,7 +4,7 @@
 
 <section id="section-2" class="section-divider-ipg">
 	<h3 class="heading-2-ipg">Section Two</h3>
-	<h3 class="heading-3-ipg">Pāli-pronunciation</h3>
+	<h3 class="heading-3-ipg">Pāli Pronunciation</h3>
 	<p class="paragraph-1-ipg">
 		It seems not by pure chance that the words of the Buddha are maintained in the language of <a href="#section2-note-3" class="notes-ipg" id="section2-note-3-rtn"><span class="italic-w-ipg">Pāli</span><sup class="sup-spacing-ipg">3</sup></a>, which in itself can be experienced as sweet and as deep as the Buddha’s words. The attempt to learn this ‘dead language’ will never present itself as a dry task. An archaeologist translating primitive paintings in a forgotten hallway of an ancient pyramid may transcend the barriers of time and to him these paintings may come alive. A practitioner of the path, reading the original words of the Buddha may delve into the past and create kinship with those ancient times. He will feel the Buddha’s words as if spoken to him and answers for long open questions. He may likewise appreciate that the beauty of this ancient language is enhanced by the profundity of contents:
 	</p>

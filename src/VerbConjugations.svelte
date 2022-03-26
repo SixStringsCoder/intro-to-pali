@@ -1,6 +1,5 @@
 <script>
   import AudioPlayer from './AudioPlayer.svelte';
-	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 </script>
 
 <!-- Section 8 -->
@@ -400,7 +399,7 @@
   
   <h4 id="section-8-9" class="subheading-1-ipg">9. Further examples of past participles	</h4>
 
-  <AudioPlayer audioURL={`${baseURL}/10-Past-Participles-page-28.mp3`} />		
+  <AudioPlayer audioURL={"/10-Past-Participles-page-28.mp3"} />		
 
   <!-- table 9, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">

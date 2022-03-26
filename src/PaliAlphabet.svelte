@@ -1,12 +1,10 @@
 <script>
   import AudioPlayer from './AudioPlayer.svelte';
-	
-	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
-</script>
+	</script>
 
 <section id="section-3" class="section-divider-ipg">
 			<h3 class="heading-2-ipg">Section Three</h3>
-			<h3 class="heading-3-ipg">Pāli-alphabet</h3>
+			<h3 class="heading-3-ipg">Pāli Alphabet</h3>
 			<p class="paragraph-1-ipg">
 				It is said that <span class="italic-w-ipg">Pāli</span> was a <a href="#section3-note-9" class="notes-ipg" id="section3-note-9-rtn"><span class="italic-w-ipg">vernacular</span><sup class="sup-spacing-ipg">9</sup></a> of northern India in the time of Gotama the Buddha. In India the alphabet has been preserved in the Devānagarī script, various other countries developed different other characters to express the <span class="italic-w-ipg">Pāli</span>language. To make it transferable into Roman script the following set of diacritical marks has been established to indicate the proper pronunciation.
 			</p>
@@ -16,7 +14,7 @@
 			</p>
 
 			<p class="paragraph-2-ipg">The Vowels:</p>
-			<AudioPlayer audioURL={`${baseURL}/01-Vowels-page-6.mp3`} />			
+			<AudioPlayer audioURL={"/01-Vowels-page-6.mp3"} />			
 			
 			<div class="responsive-table-ipg">
 				<!-- table-1 left-data, right-data-->
@@ -74,7 +72,7 @@
 			<p class="paragraph-1-ipg reduce-mar-top-ipg">
 				Pāli uses 25 so called grouped consonants that add the vowel "a" to carry sound and are divided into groups according to their form of creation:
 			</p>
-			<AudioPlayer audioURL={`${baseURL}/02-Consonants-page-7.mp3`} />
+			<AudioPlayer audioURL={"/02-Consonants-page-7.mp3"} />
 
 			<!-- Add consonant here-->
 			<div class="responsive-table-ipg">

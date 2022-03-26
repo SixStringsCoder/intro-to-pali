@@ -1,5 +1,6 @@
 <script>
 	export let audioURL = "";
+	const baseURL = "https://download.pariyatti.org/free/_moIbLs95/intro-to-pali-audio"
 </script>
 
 
@@ -8,7 +9,7 @@
 		Play Audio
 	</h6>
 	<audio controls>
-		<source src={audioURL} type="audio/mp3">
+		<source src={baseURL + audioURL} type="audio/mp3">
 		Your browser does not support the audio element.
 	</audio>
 </section>	
