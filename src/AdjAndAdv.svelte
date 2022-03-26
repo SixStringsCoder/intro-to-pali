@@ -137,7 +137,7 @@
   </li>
 </ul>
 
-<p class="paragraph-1-ipg">Some <a href="#section9-note-51" class="notes-ipg" id="section9-note-51-rtn">grammarians</a><sup class="sup-spacing-ipg">51</sup> divide adverbs in groups according to their meaning instead of their derivation, such as:</p>
+<p class="paragraph-1-ipg">Some <a href="#section9-note-51" class="notes-ipg" id="section9-note-51-rtn">grammarians<sup class="sup-spacing-ipg">51</sup></a> divide adverbs in groups according to their meaning instead of their derivation, such as:</p>
 <ul class="para-list-ipg">
   <li>adverbs of time: <span class="italic-w-ipg">yada</span> – when; <span class="italic-w-ipg">ajja</span> – today; <span class="italic-w-ipg">ratto</span> – by night;</li>
   <li>adverbs of place: <span class="italic-w-ipg">tatra</span> – there; <span class="italic-w-ipg">adho</span> – below; <span class="italic-w-ipg">idha</span> – here; <span class="italic-w-ipg">tiraṃ</span> – across</li>

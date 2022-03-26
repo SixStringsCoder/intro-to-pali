@@ -10,7 +10,7 @@
   </p>
 
   <p class="paragraph-1-ipg">
-  According to the three genders different inflections occur, but in general we find those inflections in common usages, that were presented in the declension of <a href="#section6-note-28" class="notes-ipg" id="section6-note-28-rtn"><span class="italic-w-ipg">gāma.</span><sup class="sup-spacing-ipg">28</sup></a>  The same applies to the eight cases, whose denotation remains somewhat the <a href="#section6-note-29" class="notes-ipg" id="section6-note-29-rtn">same<sup class="sup-spacing-ipg">29</sup></a> and whose usages can mainly be understood in the following connotation:
+  According to the three genders different inflections occur, but in general we find those inflections in common usages, that were presented in the declension of <a href="#section6-note-28" class="notes-ipg" id="section6-note-28-rtn"><span class="italic-w-ipg">gāma</span><sup class="sup-spacing-ipg">28</sup></a>. The same applies to the eight cases, whose denotation remains somewhat the <a href="#section6-note-29" class="notes-ipg" id="section6-note-29-rtn">same<sup class="sup-spacing-ipg">29</sup></a> and whose usages can mainly be understood in the following connotation:
   </p>
 
   <!-- List -->
