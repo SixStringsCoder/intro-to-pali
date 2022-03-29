@@ -11,15 +11,15 @@
 	</p>
 
 	<p class="paragraph-1-ipg">
-		Words are formed through the combination of syllables. According to the character of the syllable – which may be open if ending in a vowel, closed if ending in a consonant or with the<span class="italic-w-ipg">niggahīta</span>, light if ending in a short vowel and heavy if ending in a long vowel, <span class="italic-w-ipg">niggahīta</span>or consonant – and the period of time they resonate they undergo certain adjustments when combined.
+		Words are formed through the combination of syllables. According to the character of the syllable – which may be open if ending in a vowel, closed if ending in a consonant or with the <span class="italic-w-ipg">niggahīta</span>, light if ending in a short vowel and heavy if ending in a long vowel, <span class="italic-w-ipg">niggahīta</span> or consonant – and the period of time they resonate they undergo certain adjustments when combined.
 	</p>
 
 	<p class="paragraph-1-ipg">
-		A long syllable is exactly equal to two short syllables. (The total length of a long syllable being constant, a double consonant tends to compress and shorten a long vowel preceding it, and itself gets shortened by the long vowel.) Double consonants are very frequent in <span class="italic-w-ipg">Pāli</span>and must be strictly pronounced as long consonants, thus: <span class="italic-w-ipg">-nn-</span>, as well as: <span class="italic-w-ipg">-ss-</span>, is like English -nn- and -ss- in `unnecessary`. Combinations of non-aspirate with aspirate consonants need a tender stop so the aspirates can get uttered slightly explosive: <span class="italic-w-ipg">pac-cud-dharati</span> / <span class="italic-w-ipg">ug-gac-chati</span>.
+		A long syllable is exactly equal to two short syllables. (The total length of a long syllable being constant, a double consonant tends to compress and shorten a long vowel preceding it, and itself gets shortened by the long vowel.) Double consonants are very frequent in <span class="italic-w-ipg">Pāli</span> and must be strictly pronounced as long consonants, thus: <span class="italic-w-ipg">-nn-</span>, as well as: <span class="italic-w-ipg">-ss-</span>, is like English -nn- and -ss- in `unnecessary`. Combinations of non-aspirate with aspirate consonants need a tender stop so the aspirates can get uttered slightly explosive: <span class="italic-w-ipg">pac-cud-dharati</span> / <span class="italic-w-ipg">ug-gac-chati</span>.
 	</p>
 
 	<p class="paragraph-1-ipg">
-		These modifications in order to keep the flow of harmonious sound without disrupting the movement of the organs of the mouth led to various changes that are called <a href="#section4-note-17" class="notes-ipg" id="section4-note-17-rtn"><span class="italic-w-ipg">sandhi</span><sup class="sup-spacing-ipg">17</sup></a><span class="italic-w-ipg">sandhi</span>. In general they <a href="#section4-note-18" class="notes-ipg" id="section4-note-18-rtn">undergo<sup class="sup-spacing-ipg">18</sup></a>:
+		These modifications in order to keep the flow of harmonious sound without disrupting the movement of the organs of the mouth led to various changes that are called <a href="#section4-note-17" class="notes-ipg" id="section4-note-17-rtn"><span class="italic-w-ipg">sandhi</span><sup class="sup-spacing-ipg">17</sup></a>. In general they <a href="#section4-note-18" class="notes-ipg" id="section4-note-18-rtn">undergo<sup class="sup-spacing-ipg">18</sup></a>:
 	</p>
 
 	<ol class="para-list-ipg">
@@ -420,10 +420,6 @@
 		<tr>
 			<th class="list-chart-2-ipg">aggatā</th>
 			<td class="list-chart-1-ipg">superiority</td>
-		</tr>
-		<tr>
-			<th class="list-chart-2-ipg">anāgāmi</th>
-			<td class="list-chart-1-ipg">one who does not return, Non-Returner </td>
 		</tr>
 		<tr>
 			<th class="list-chart-2-ipg">anāgāmi</th>

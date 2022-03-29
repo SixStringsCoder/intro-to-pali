@@ -6,7 +6,7 @@
 			<h3 class="heading-2-ipg">Section Three</h3>
 			<h3 class="heading-3-ipg">Pāli Alphabet</h3>
 			<p class="paragraph-1-ipg">
-				It is said that <span class="italic-w-ipg">Pāli</span> was a <a href="#section3-note-9" class="notes-ipg" id="section3-note-9-rtn"><span class="italic-w-ipg">vernacular</span><sup class="sup-spacing-ipg">9</sup></a> of northern India in the time of Gotama the Buddha. In India the alphabet has been preserved in the Devānagarī script, various other countries developed different other characters to express the <span class="italic-w-ipg">Pāli</span>language. To make it transferable into Roman script the following set of diacritical marks has been established to indicate the proper pronunciation.
+				It is said that <span class="italic-w-ipg">Pāli</span> was a <a href="#section3-note-9" class="notes-ipg" id="section3-note-9-rtn"><span class="italic-w-ipg">vernacular</span><sup class="sup-spacing-ipg">9</sup></a> of northern India in the time of Gotama the Buddha. In India the alphabet has been preserved in the Devānagarī script, various other countries developed different other characters to express the <span class="italic-w-ipg">Pāli</span> language. To make it transferable into Roman script the following set of diacritical marks has been established to indicate the proper pronunciation.
 			</p>
 
 			<p class="paragraph-1-ipg">
@@ -61,7 +61,7 @@
 				</table>
 			</div>
 
-			<p class="paragraph-section3 reduce-mar-bottom-ipg"><span class="italic-w-ipg">-e-</span> and  <span class="italic-w-ipg">-o-</span> are pronounced:</p>
+			<p class="paragraph-section1"><span class="italic-w-ipg">-e-</span> and  <span class="italic-w-ipg">-o-</span> are pronounced:</p>
 			<ul class="example-1-ipg reduce-mar-top-ipg">
 				<li>long at the end of a syllable: <span class="italic-w-ipg">de-va, lo-ka, do-so;</span></li>
 				<li>short when they occur before consonants and the syllable ends with a consonant: <span class="italic-w-ipg">met-tā, phoṭ-ṭab-ba.</span></li>
@@ -122,10 +122,10 @@
 			</div>
 
 			<p class="paragraph-1-ipg">
-				They get supplemented by: <span class="italic-w-ipg">ya, ra, la, va, sa, ha, ḷa</span> and<span class="italic-w-ipg">aṃ</span>, of which <span class="italic-w-ipg">ra, la, ḷa</span> are liquids,<span class="italic-w-ipg">ya</span> and <span class="italic-w-ipg">va</span> semivowels,<span class="italic-w-ipg">sa</span> is a sibilant, <span class="italic-w-ipg">ha</span> an aspirate and <span class="italic-w-ipg">aṃ</span> is called a <span class="italic-w-ipg">niggahīta</span>. Further ya can be grouped with the palatals, <span class="italic-w-ipg">ra, la, ḷa</span> with the retroflex and <span class="italic-w-ipg">va</span> with the labials.
+				They get supplemented by: <br><span class="italic-w-ipg">ya, ra, la, va, sa, ha, ḷa</span> and <span class="italic-w-ipg">aṃ</span>, of which <span class="italic-w-ipg">ra, la, ḷa</span> are liquids, <span class="italic-w-ipg">ya</span> and <span class="italic-w-ipg">va</span> semivowels, <span class="italic-w-ipg">sa</span> is a sibilant, <span class="italic-w-ipg">ha</span> an aspirate and <span class="italic-w-ipg">aṃ</span> is called a <span class="italic-w-ipg">niggahīta</span>. Further <span class="italic-w-ipg">ya</span> can be grouped with the palatals, <span class="italic-w-ipg">ra, la, ḷa</span> with the retroflex and <span class="italic-w-ipg">va</span> with the labials.
 			</p>
 
-			<p class="paragraph-1-ipg">
+			<p class="paragraph-1-ipg reduce-mar-bottom-ipg">
 				The consonants found in the first and third column are unaspirates, those in the second and fourth are aspirates, those in the last column are called nasals.
 			</p>
 
@@ -133,7 +133,7 @@
 				<li>All aspirated consonants are pronounced with an audible expulsion of breath following the normal unaspirated sound.</li>
 				<li>The guttural consonants: - <span class="italic-w-ipg">ka, kha, ga, gha, ha</span> - are produced from deep within the throat and hardly any movement of the tongue.</li>
 				<li>The palatal consonants: - <span class="italic-w-ipg">ca, cha, ja, jha, ya</span> - are pronounced with the front parts of the tongue slightly touching the upper-gum/palate.</li>
-				<li>The retroflex or cerebral consonants: - <span class="italic-w-ipg">ṭa, ṭha, ḍa, ḍha, ra, la,ḷa</span> - are pronounced with the tip of the tongue turned back and touching the upper <a href="#section3-note-12" class="notes-ipg" id="section3-note-12-rtn"><span class="italic-w-ipg">palate</span><sup class="sup-spacing-ipg">12</sup></a>.</li>
+				<li>The retroflex or cerebral consonants: - <span class="italic-w-ipg">ṭa, ṭha, ḍa, ḍha, ra, la, ḷa</span> - are pronounced with the tip of the tongue turned back and touching the upper <a href="#section3-note-12" class="notes-ipg" id="section3-note-12-rtn"><span class="italic-w-ipg">palate</span><sup class="sup-spacing-ipg">12</sup></a>.</li>
 				<li>The dental consonants: - <span class="italic-w-ipg">ta, tha, da, dha, sa</span> - are pronounced with the tongue touching the upper front teeth.</li>
 				<li>The labial consonants: - <span class="italic-w-ipg">pa, pha, ba, bha, ma, va</span> - are formed by movement of both the lips only.</li>
 				<li>The nasal consonants: - <span class="italic-w-ipg">ṅa, ña, ṇa, na, ma</span> - are uttered by ways of articulating them in the same way as the preceding consonants of the same group get produced, but with the sound resonating through the <a href="#section3-note-13" class="notes-ipg" id="section3-note-13-rtn"><span class="italic-w-ipg">nose</span><sup class="sup-spacing-ipg">13</sup></a>.</li>
@@ -162,8 +162,8 @@
 						<td><span class="italic-w-ipg">ba</span> - as the "b" in but</td>
 					</tr>
 					<tr>
-						<td><span class="italic-w-ipg">tha</span> - as in "th" Thai</td>
-						<td><span class="italic-w-ipg">pha</span> - as "ph" in <a href="#section3-note-14" class="notes-ipg" id="section3-note-14-rtn"><span class="italic-w-ipg">uphill</span><sup class="sup-spacing-ipg">14</sup></a></td>
+						<td><span class="italic-w-ipg">tha</span> - as "th" in Thai</td>
+						<td><span class="italic-w-ipg">pha</span> - as "ph" in <a href="#section3-note-14" class="notes-ipg" id="section3-note-14-rtn">uphill<sup class="sup-spacing-ipg">14</sup></a></td>
 					</tr>
 					<tr>
 						<td><span class="italic-w-ipg">ṅa</span> - as "ng" in singer</td>
@@ -175,12 +175,12 @@
 					</tr>
 					<tr>
 						<td><span class="italic-w-ipg">ṃ</span> - as in hung, ring</td>
-						<td><span class="italic-w-ipg">v</span> - is a very soft -v- or <a href="#section3-note-15" class="notes-ipg" id="section3-note-15-rtn"><span class="italic-w-ipg">-w-</span><sup class="sup-spacing-ipg">15</sup></a></td>
+						<td><span class="italic-w-ipg">v</span> - is a very soft -v- or <a href="#section3-note-15" class="notes-ipg" id="section3-note-15-rtn">-w-<sup class="sup-spacing-ipg">15</sup></a></td>
 					</tr>
 				</tbody></table>
 			</div>
 
-			<p class="paragraph-1-ipg">Example of the guttural consonants ka and kha in combination with vowels:</p>
+			<p class="paragraph-1-ipg">Example of the guttural consonants <span class="italic-w-ipg">ka</span> and <span class="italic-w-ipg">kha</span> in combination with vowels:</p>
 
 			<div class="responsive-table-ipg">
 				<!-- table-1 left-data, right-data-->
@@ -208,8 +208,7 @@
 				</tbody></table>
 			</div>
 
-			<p class="paragraph-1-ipg">Example of the guttural consonants ka and kha
-				in combination with consonants:</p>
+			<p class="paragraph-1-ipg">Example of the guttural consonants <span class="italic-w-ipg">ka</span> and <span class="italic-w-ipg">kha</span> in combination with consonants:</p>
 
 			<div class="responsive-table-ipg">
 				<!-- table-1 left-data, right-data-->
@@ -241,7 +240,7 @@
 				<li id="section3-note-12" class="footnotes-ipg"><sup>12</sup> <span class="italic-w-ipg">la, ḷa</span> often get swapped. When pronouncing <span class="italic-w-ipg">-ḷa-</span> the tongue moves from above the teeth to the lips to perform a trembling sound. <a class="backarrow-ipg" href="#section3-note-12-rtn">↩</a></li>
 				<li id="section3-note-13" class="footnotes-ipg"><sup>13</sup>  A general rule is that the nasal consonants can only be combined with consonants of the same group. <a class="backarrow-ipg" href="#section3-note-13-rtn">↩</a></li>
 				<li id="section3-note-14" class="footnotes-ipg"><sup>14</sup>  Here the analogy to the English pronunciation does not hold true because "<span class="italic-w-ipg">tha</span>" is never pronounced as in: the, this, etc.; neither is "<span class="italic-w-ipg">pha</span>" pronounced as in phonology, philosophy. Here the unaspirated consonants <span class="italic-w-ipg">ta, da, pa, ba</span> are uttered stressed with effort and directly followed by <span class="italic-w-ipg">-h-</span> sound to pronounce the aspirated consonants. <a class="backarrow-ipg" href="#section3-note-14-rtn">↩</a></li>
-				<li id="section3-note-15" class="footnotes-ipg"><sup>15</sup>  The semivowel consonant va is pronounced like "v" as in "vibrate" if preceded by a consonant: – <span class="italic-w-ipg">svākkhāto</span> – well explained - but if preceded by a vowel it sounds like "w" as in "wind": – <span class="italic-w-ipg">sāvaka</span> – disciple. <a class="backarrow-ipg" href="#section3-note-15-rtn">↩</a></li>
+				<li id="section3-note-15" class="footnotes-ipg"><sup>15</sup>  The semivowel consonant <span class="italic-w-ipg">va</span> is pronounced like "v" as in "vibrate" if preceded by a consonant: – <span class="italic-w-ipg">svākkhāto</span> – well explained - but if preceded by a vowel it sounds like "w" as in "wind": – <span class="italic-w-ipg">sāvaka</span> – disciple. <a class="backarrow-ipg" href="#section3-note-15-rtn">↩</a></li>
 			</ul>
 		</section>
 
