@@ -44,9 +44,9 @@
   <ul class="para-list-ipg">  
     <li>The present tense describes an action that is taking place, an action that continues (equivalent to present progressive) or a fact. It is often used describing historical facts.</li>
     <li>The aorist, the historical or principal past is mostly used to denote the past tense. It always makes use of the secondary personal endings and is built in different ways, different forms may be used:</li>
-    a) the root-aorist always prefixes the augment <span class="italic-w-ipg">-a-</span> to the root and uses the secondary personal ending: (<span class="italic-w-ipg">a-gam-t: agā; a-gam-s: agā; a-gam-m: agaṃ</span>) 
-    b) the a-aorist inserts the suffix <span class="italic-w-ipg">-a-</span> before the personal endings and mostly prefixes the augment <span class="italic-w-ipg">-a-</span>: (<span class="italic-w-ipg">a-gam-aṃ</span>: <span class="italic-w-ipg">agama</span>ṃ) 
-    c) the s-aorist inserts the suffix <span class="italic-w-ipg">-s-</span> before the personal secondary endings: (<span class="italic-w-ipg">a-gama-s-i-ṃ</span>: <span class="italic-w-ipg">agamāsiṃ</span>)
+    a) the root-aorist always prefixes the augment <span class="italic-w-ipg">-a-</span> to the root and uses the secondary personal ending: (<span class="italic-w-ipg">a-gam-t: agā; a-gam-s: agā; a-gam-m: agaṃ</span>)<br> 
+    b) the a-aorist inserts the suffix <span class="italic-w-ipg">-a-</span> before the personal endings and mostly prefixes the augment <span class="italic-w-ipg">-a-</span>: (<span class="italic-w-ipg">a-gam-aṃ</span>: <span class="italic-w-ipg">agama</span>ṃ)<br>  
+    c) the s-aorist inserts the suffix <span class="italic-w-ipg">-s-</span> before the personal secondary endings: (<span class="italic-w-ipg">a-gama-s-i-ṃ</span>: <span class="italic-w-ipg">agamāsiṃ</span>)<br> 
     d) the is-aorist inserts the suffix <span class="italic-w-ipg">-is-</span> before the personal secondary endings: (<span class="italic-w-ipg">a-gam-is-ṃ</span>: <span class="italic-w-ipg">agamiṃ / gacch-is-ṃ: gacchiṃ / gañchiṃ</span>)
     <li>The future tense expresses futurity and is formed by adding -ssa- to the root or verbal base with, or in some cases without, the connecting vowel <span class="italic-w-ipg">-i-</span>; the terminations are the same as those in the present tense: <span class="italic-w-ipg">gacch-i-ssa-mi</span>: <span class="italic-w-ipg">gacchissāmi</span>. The future tense can also express a command or condition.</li>
     <li>The conditional expresses a possibility or wish. It uses the secondary personal endings and adds the augment <span class="italic-w-ipg">-a-</span> before the future forms: <span class="italic-w-ipg">a-gacch-iss-aṃ</span>; <span class="italic-w-ipg">a-gacch-iss-a</span>. </li>
@@ -58,7 +58,7 @@
   <ul class="para-list-ipg">  
     <li>The indicative mood expresses an action, describes an occasion or occurrence. The personal primary endings are added to the stem of the present tense.</li>
     <li>The optative expresses mainly probability and advice, wishes and ideas. It is formed by adding <span class="italic-w-ipg">-eyya-</span> to the verbal base before personal endings. When translated: - if, might, would, etc. - may be used to convey the sense of it.</li>
-    <li>The imperative mood expresses commands, benediction or wishes. It is mainly used in the active voice with the following personal endings: <span class="italic-w-ipg">-tu; -hi; -ntu;</span> -tha for the 3rd and 2nd. <a href="#section8-note-48" class="notes-ipg" id="section8-note-48-rtn">These are added to the stem<sup class="sup-spacing-ipg">48</sup></a>.</li>
+    <li>The imperative mood expresses commands, benediction or wishes. It is mainly used in the active voice with the following personal endings: <span class="italic-w-ipg">-tu; -hi; -ntu;</span> <span class="italic-w-ipg">-tha</span> for the 3rd and 2nd. <a href="#section8-note-48" class="notes-ipg" id="section8-note-48-rtn">These are added to the stem<sup class="sup-spacing-ipg">48</sup></a>.</li>
   </ul>
   
   <!-- Example 4 -->
@@ -70,7 +70,7 @@
     <li>Past participles can take an active meaning or a passive meaning. The active past participles add the suffixes: <span class="italic-w-ipg">-vant-</span>; <span class="italic-w-ipg">-vin-</span> to the root. It can be translated as: <span class="italic-w-ipg">vusitavant</span> – one who has lived. The passive perfect participles are formed by adding <span class="italic-w-ipg">-ta-</span>; <span class="italic-w-ipg">-na-</span> to the root, with or without the connecting vowel <span class="italic-w-ipg">-i-</span> and are translated like the English perfect past participles: <span class="italic-w-ipg">gacchita; gata; gamita</span> – gone. Past participles have a passive meaning when they are formed from transitive verbs, but from intransitive verbs they have an active meaning.</li> 
   </ul>
 
-  <div class="paragraph-1-ipg">
+  <div class="paragraph-1-ipg" id="for-example-cont">
     <p>
     For example: <span class="italic-w-ipg">gacchati, tiṭṭhati</span> are intransitive verbs. Therefore:<br>
         <span class="italic-w-ipg">puriso gato</span> –  the man has gone - (active meaning)<br>
@@ -96,7 +96,7 @@
 </ul>
 
 <p class="paragraph-1-ipg">
-  In general the terminations of the verbs remain the same throughout the different groups and in the process of reading the suttas one gets easily accustomed to these tenses. For the purpose of the collection as presented in ‘Exploring the Path’ while reading suttas and complete sentences it becomes easy to understand those usages without needing to know all the grammatical details. The subsequent tables should suffice for the purpose of this introduction: 
+  In general the terminations of the verbs remain the same throughout the different groups and in the process of reading the suttas one gets easily accustomed to these tenses. For the purpose of the collection as presented in <a href="https://learning.pariyatti.org/course/view.php?id=2" target="_blank">‘Exploring the Path’</a> while reading suttas and complete sentences it becomes easy to understand those usages without needing to know all the grammatical details. The subsequent tables should suffice for the purpose of this introduction: 
 </p>
 
 <h4 id="section-8-6" class="subheading-1-ipg">6. Table survey: present indicative, imperative, optative and future</h4>
@@ -148,7 +148,7 @@
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchāmi</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-eyyaṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaccheyyaṃ</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issaāmi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-issāmi</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchissāmi</span></td>
       </tr>
       <tr>
@@ -311,7 +311,7 @@
       </tr>
       <tr>								
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">-tvā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-gantvā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gantvā</span></td>
         <td class="list-chart-1-ipg">having gone</td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-nta</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">gacchanta</span></td>
@@ -411,207 +411,207 @@
         <td class="list-chart-1-ipg">rubbed</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">ārabhati</td> 	
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">ārabhati</span></td> 	
         <td class="list-chart-1-ipg">to start</td>	
-        <td class="list-chart-1-ipg">āraddha</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">āraddha</span></td>			
         <td class="list-chart-1-ipg">started</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">āsiñcati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">āsiñcati</span></td> 		
         <td class="list-chart-1-ipg">to sprinkle </td>	
-        <td class="list-chart-1-ipg">āsitta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">āsitta</span></td>			
         <td class="list-chart-1-ipg">sprinkled</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">bhavati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">bhavati</span></td> 		
         <td class="list-chart-1-ipg">to become</td>	
-        <td class="list-chart-1-ipg">bhūta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">bhūta</span></td>			
         <td class="list-chart-1-ipg">become</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">bhuñjati</td> 	
-        <td class="list-chart-1-ipg">to enjoy</td> 
-          <td class="list-chart-1-ipg">bhuñjita, bhutta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">bhuñjati</span></td> 	
+        <td class="list-chart-1-ipg">to enjoy</td>     
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">bhuñjita, bhutta</span></td>
         <td class="list-chart-1-ipg">enjoyed</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">cavati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">cavati</span></td> 		
         <td class="list-chart-1-ipg">to fall away</td>	
-        <td class="list-chart-1-ipg">cuta</td>			 
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">cuta</span></td>			 
         <td class="list-chart-1-ipg">fell away</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">dadāti</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dadāti</span></td> 		
         <td class="list-chart-1-ipg">to give</td>	
-        <td class="list-chart-1-ipg">dinna</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dinna</span></td>			
         <td class="list-chart-1-ipg">given</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">ḍasati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">ḍasati</span></td> 		
         <td class="list-chart-1-ipg">to bite</td>	
-        <td class="list-chart-1-ipg">daṭṭha</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">daṭṭha</span></td>			
         <td class="list-chart-1-ipg">bitten</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">dhovati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dhovati</span></td> 		
         <td class="list-chart-1-ipg">to wash</td>	
-        <td class="list-chart-1-ipg">dhovita, dhota</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">dhovita, dhota</span>	</td>      		
         <td class="list-chart-1-ipg">washed</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">gaṇhāti</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gaṇhāti</span></td> 		
         <td class="list-chart-1-ipg">to seize</td>	
-        <td class="list-chart-1-ipg">gahita</td>			 
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">gahita</span></td>			 
         <td class="list-chart-1-ipg">seized, held</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">hanati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">hanati</span></td> 		
         <td class="list-chart-1-ipg">to kill</td>	
-        <td class="list-chart-1-ipg">hata</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">hata</span></td>			
         <td class="list-chart-1-ipg">killed</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">harati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">harati</span></td> 		
         <td class="list-chart-1-ipg">to take away</td>	
-        <td class="list-chart-1-ipg">haṭa</td>			 
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">haṭa</span></td>			 
         <td class="list-chart-1-ipg">took away</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">jānāti</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">jānāti</span></td> 		
         <td class="list-chart-1-ipg">to know</td>	
-        <td class="list-chart-1-ipg">ñāta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">ñāta</span></td>			
         <td class="list-chart-1-ipg">known</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">karoti</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">karoti</span></td> 		
         <td class="list-chart-1-ipg">to do</td>	
-        <td class="list-chart-1-ipg">kata</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">kata</span></td>			
         <td class="list-chart-1-ipg">done</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">kasati</td> 		
-        <td class="list-chart-1-ipg">to plough</td>
-          <td class="list-chart-1-ipg">kasita, kaṭṭha</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">kasati</span></td> 		
+        <td class="list-chart-1-ipg">to plough</td>       
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">kasita, kaṭṭha</span>	</td>          		
         <td class="list-chart-1-ipg">ploughed</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">khipati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">khipati</span></td> 		
         <td class="list-chart-1-ipg">to throw</td>	
-        <td class="list-chart-1-ipg">khitta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">khitta</span></td>			
         <td class="list-chart-1-ipg">thrown</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">kiṇāti</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">kiṇāti</span></td> 		
         <td class="list-chart-1-ipg">to buy</td>	
-        <td class="list-chart-1-ipg">kīta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">kīta</span></td>			
         <td class="list-chart-1-ipg">bought</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">kujjhati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">kujjhati</span></td> 		
         <td class="list-chart-1-ipg">to be angry</td>	
-        <td class="list-chart-1-ipg">kuddha</td>			 
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">kuddha</span></td>			 
         <td class="list-chart-1-ipg">was angry</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">labhati</td> 		
-        <td class="list-chart-1-ipg">to gain</td>
-          <td class="list-chart-1-ipg">laddha, labhita </td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">labhati</span></td> 		
+        <td class="list-chart-1-ipg">to gain</td>          
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">laddha, labhita</span></td>		
         <td class="list-chart-1-ipg">gained</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">mināti</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">mināti</span></td> 		
         <td class="list-chart-1-ipg">to measure</td>	
-        <td class="list-chart-1-ipg">mita</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">mita</span></td>			
         <td class="list-chart-1-ipg">measured</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">muñcati</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">muñcati</span></td>
         <td class="list-chart-1-ipg">to deliver, emit</td>	
-        <td class="list-chart-1-ipg">mutta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">mutta</span></td>			
         <td class="list-chart-1-ipg">delivered</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">nikkhamati</td> 	
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">nikkhamati</span></td> 	
         <td class="list-chart-1-ipg">to leave</td>	
-        <td class="list-chart-1-ipg">nikkhanta </td>			 
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">nikkhanta</span> </td>			 
         <td class="list-chart-1-ipg">gone out, left</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">pāpuṇāti</td> 	
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pāpuṇāti</span></td> 	
         <td class="list-chart-1-ipg">to reach</td>	
-        <td class="list-chart-1-ipg">patta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">patta</span></td>			
         <td class="list-chart-1-ipg">reached, attained</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">pacati</td> 		
-        <td class="list-chart-1-ipg">to cook</td>	
-        <td class="list-chart-1-ipg">pācita, pakka </td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pacati</span></td> 		
+        <td class="list-chart-1-ipg">to cook</td>	        
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pācita, pakka</span></td>	
         <td class="list-chart-1-ipg">cooked</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">pajahati</td> 	
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pajahati</span></td> 	
         <td class="list-chart-1-ipg">to abandon</td>	
-        <td class="list-chart-1-ipg">pahīna</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pahīna</span></td>			
         <td class="list-chart-1-ipg">abandoned</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">pasīdati</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pasīdati</span></td>			
         <td class="list-chart-1-ipg">to become bright</td>	
-        <td class="list-chart-1-ipg">pasanna</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pasanna</span></td>			
         <td class="list-chart-1-ipg">brightened</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">pavisati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pavisati</span></td> 		
         <td class="list-chart-1-ipg">to enter</td>	
-        <td class="list-chart-1-ipg">paviṭṭha </td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">paviṭṭha</span> </td>			
         <td class="list-chart-1-ipg">entered</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">phusati</td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">phusati</span></td>
         <td class="list-chart-1-ipg">to touch</td>	
-        <td class="list-chart-1-ipg">phuṭṭa</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">phuṭṭa</span></td>			
         <td class="list-chart-1-ipg">touched</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">pivati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pivati</span></td> 		
         <td class="list-chart-1-ipg">to drink</td>	
-        <td class="list-chart-1-ipg">pīta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pīta</span></td>			
         <td class="list-chart-1-ipg">drunk</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">pucchati</td> 	
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pucchati</span></td> 	
         <td class="list-chart-1-ipg">to ask</td>	 
-        <td class="list-chart-1-ipg">pucchita, puṭṭha</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">pucchita, puṭṭha</span></td>
         <td class="list-chart-1-ipg">asked</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">suṇāti</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">suṇāti</span></td> 		
         <td class="list-chart-1-ipg">to hear</td>	
-        <td class="list-chart-1-ipg">suta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">suta</span></td>			
         <td class="list-chart-1-ipg">heard</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">tiṭṭhati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">tiṭṭhati</span></td> 		
         <td class="list-chart-1-ipg">to stand</td>	
-        <td class="list-chart-1-ipg">ṭhita</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">ṭhita</span></td>			
         <td class="list-chart-1-ipg">stood</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">vapati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">vapati</span></td> 		
         <td class="list-chart-1-ipg">to sow</td>	
-        <td class="list-chart-1-ipg">vutta</td>			
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">vutta</span></td>			
         <td class="list-chart-1-ipg">sown</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">vasati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">vasati</span></td> 		
         <td class="list-chart-1-ipg">to live</td>	
-        <td class="list-chart-1-ipg">vuttha</td>			 
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">vuttha</span></td>			 
         <td class="list-chart-1-ipg">lived, dwelled</td>
       </tr>
       <tr>
-        <td class="list-chart-1-ipg">vivarati</td> 		
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">vivarati</span></td> 		
         <td class="list-chart-1-ipg">to uncover</td>	
-        <td class="list-chart-1-ipg">vivaṭa</td>			 
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">vivaṭa</span></td>			 
         <td class="list-chart-1-ipg">uncovered, opened</td>
       </tr>  
     </table>
@@ -851,7 +851,7 @@
       </tr>
       <tr>								
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">atthi</span></td>
-        <td class="list-chart-3-ipg">see: <span class="italic-w-ipg">bhavati and hoti</span></td>
+        <td class="list-chart-3-ipg">see:<span class="italic-w-ipg">bhavati</span> and <span class="italic-w-ipg">hoti</span></td>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg"></span></td>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">santa, samāna</span></td>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">being</span></td>
@@ -899,7 +899,7 @@
     <li id="section8-note-43" class="footnotes-ipg"><sup>43</sup>For detailed analyses of how the various classes of verbs are developed and subdivided one again may refer to Perniola's and Warder’s Pāli Grammar.  <a class="backarrow-ipg" href="#section8-note-43-rtn">↩</a></li>
     <li id="section8-note-44" class="footnotes-ipg"><sup>44</sup>This traditional order demonstrates the respect that is held towards the other person rather than that the first person precedes the others in its position. In Pāli the 3rd is called: <span class="italic-w-ipg">paṭhama purisa</span> – first - ; the 2nd <span class="italic-w-ipg">majjhima purisa</span> – middle - ; the 1st <span class="italic-w-ipg">uttama purisa</span> – last person. In modern languages ‘I’ precedes as first person.  <a class="backarrow-ipg" href="#section8-note-44-rtn">↩</a></li>
     <li id="section8-note-45" class="footnotes-ipg"><sup>45</sup>Imperfect in Pāli  expresses a definite past  <a class="backarrow-ipg" href="#section8-note-45-rtn">↩</a></li>
-    <li id="section8-note-46" class="footnotes-ipg"><sup>46</sup>Aorist in Pāli expresses past action, the time that recently past:  It is the true past in the text. Although the present tense is often used to open the text (historical present) describing the historical background (<span class="italic-w-ipg">viharati</span> – dwells): -<span class="italic-w-ipg">ekaṃ samayaṃ bhagavā rājagahe viharati ……ānando …… nivāsetvā …… rājagahaṃ piṇḍāya pāvisi.</span> – and then continues in the aorist (<span class="italic-w-ipg">pāvisi</span> – went), both are generally translated in the past tense.   <a class="backarrow-ipg" href="#section8-note-46-rtn">↩</a></li>
+    <li id="section8-note-46" class="footnotes-ipg"><sup>46</sup>Aorist in Pāli expresses past action, the time that recently past:  It is the true past in the text. Although the present tense is often used to open the text (historical present) describing the historical background (<span class="italic-w-ipg">viharati</span> – dwells): -<span class="italic-w-ipg">ekaṃ samayaṃ bhagavā rājagahe viharati …… ānando …… nivāsetvā …… rājagahaṃ piṇḍāya pāvisi.</span> – and then continues in the aorist (<span class="italic-w-ipg">pāvisi</span> – went), both are generally translated in the past tense.   <a class="backarrow-ipg" href="#section8-note-46-rtn">↩</a></li>
     <li id="section8-note-47" class="footnotes-ipg"><sup>47</sup>Perfect in Pāli expresses indefinite past and is rarely used.  <a class="backarrow-ipg" href="#section8-note-47-rtn">↩</a></li>
     <li id="section8-note-48" class="footnotes-ipg"><sup>48</sup> The personal forms in all the tenses force stems and roots at times to undergo certain changes according to the <span class="italic-w-ipg">sandhi</span> rules by assimilation, adaption, elision ……. (See page 9.) <a class="backarrow-ipg" href="#section8-note-48-rtn">↩</a></li>
     <li id="section8-note-49" class="footnotes-ipg"><sup>49</sup>The suffix <span class="italic-w-ipg">–nta– </span>is used in the active voice, <span class="italic-w-ipg">–māna– </span>in the reflective voice, but both get mainly translated in the same way.  <a class="backarrow-ipg" href="#section8-note-49-rtn">↩</a></li>
@@ -909,4 +909,5 @@
 <!-- /Section 8-->
 
 
-<style></style>
+<style>
+</style>

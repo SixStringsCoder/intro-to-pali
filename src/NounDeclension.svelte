@@ -74,65 +74,65 @@
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Accusative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-e, </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-e</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Instrumental</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ena, <br>-ā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ebhi, <br>-ehi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ena, <br>-ā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ebhi, <br>-ehi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Dative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya, <br>-assa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ānaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya, <br>-assa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ānaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ānaṃ</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Ablative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, <br>-mhā, <br>-āsma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ebhi, <br>-ehi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, <br>-mhā, <br>-āsma</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ebhi, <br>-ehi</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ābhi <br>-āhi</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Genitive</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya, <br>-assa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ānaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya, <br>-assa</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ānaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ānaṃ</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Locative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-e, <br>-amhi, <br>-asmiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-esu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-e, <br>-amhi, <br>-asmiṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-esu</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āya, <br>-ayaṃ</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āsu</span></td>
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Vocative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-o, <br>-e</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-a, <br>-ā, <br>-e, <br>-o</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā, </span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-e</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-aṃ, <br>-a</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-āni, <br>-ā</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā</span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-e, <br>-ā, <br>-a</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ā <br>-āyo</span></td>
       </tr>
     </table>
@@ -299,7 +299,7 @@
       <tr>
         <th class="list-chart-3-ipg">Nominative</th>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-iyo, <br>-avo, <br>-uyo </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-avo, <br>-uyo </span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u, <br>-uṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūni, <br>-ū</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-u</span></td>
@@ -307,11 +307,11 @@
       </tr>
       <tr>
         <th class="list-chart-3-ipg">Accusative</th>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ <br>-unaṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-avo, <br>-uyo </span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ, <br>-u</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ūni, <br>-ū</span></td>
-        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ </span></td>
+        <td class="list-chart-1-ipg"><span class="italic-w-ipg">-uṃ</span></td>
         <td class="list-chart-1-ipg"><span class="italic-w-ipg">-ū, <br>-uvo, <br>-uyo </span></td>
       </tr>
       <tr>
@@ -375,9 +375,9 @@
   <p class="italic-w-ipg">The declensions of nouns that end in – <span class="italic-w-ipg">ū</span> (male and female) follow somewhat the same declension like those ending in – <span class="italic-w-ipg">u</span>.</p>
   <p class="paragraph-1-ipg">
     There are further some declensions that develop their own individual declension such as: <br>
-    <span class="italic-w-ipg">rājān </span> – king;
-    <span class="italic-w-ipg">satthar -</span> – teacher;
-    <span class="italic-w-ipg">bhagavant </span> – Fortunate One;
+    <span class="italic-w-ipg">rājān</span> – king;
+    <span class="italic-w-ipg">satthar</span> – teacher;
+    <span class="italic-w-ipg">bhagavant</span> – Fortunate One;
     <span class="italic-w-ipg">hattin</span> – elephant; which may be referred to in the grammar <a href="#section6-note-40" class="notes-ipg" id="section6-note-40-rtn">books<sup class="sup-spacing-ipg">40</sup></a>/
   </p>
 

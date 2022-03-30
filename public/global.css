@@ -398,7 +398,7 @@ dt {
 }
 
 .footnotes-container-ipg {
-  margin: auto;
+  margin: 20px auto auto;
   border-top: 2px dashed #8e8e8e;
   list-style-type: none;
   color: #333333;
