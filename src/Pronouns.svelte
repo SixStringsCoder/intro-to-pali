@@ -602,7 +602,7 @@
     </table>
   </div>
 
-  <h4 id="section-10-10" class="subheading-1-ipg">9.	Declension of:<br> <span class="italic-w-ipg">asu, amu</span>: 	that</h4>
+  <h4 id="section-10-10" class="subheading-1-ipg">10.	Declension of:<br> <span class="italic-w-ipg">asu, amu</span>: 	that</h4>
   <!-- table 1, left header and top-row header -->
   <div class="responsive-table-ipg table-regular-ipg width-table-1">
     <table class="vowel-list-2 table-regular-ipg width-table-1">      

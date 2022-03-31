@@ -331,6 +331,10 @@ dt {
   font-weight: bold;
 }
 
+dt, dd {
+  font-size: 1.2rem;
+}
+
 
 .vowel-list-ipg tr td {
   padding: 0 1rem;
