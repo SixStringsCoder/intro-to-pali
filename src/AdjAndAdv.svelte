@@ -19,7 +19,7 @@
   </p>
 
   <p class="paragraph-1-ipg">
-    For general outline one may refer to the declensions of nouns, the following example of suffix <span class="italic-w-ipg">-a</span>: <span class="italic-w-ipg">bala</span> – strong - may suffice for the purpose of this introduction:
+    For a general outline, one may refer to the declensions of nouns. The following example of the suffix <span class="italic-w-ipg">-a</span>: <span class="italic-w-ipg">bala</span> – strong - may suffice for the purpose of this introduction.
   </p>
 
   <AudioPlayer audioURL={"/11-Adjectives-page-30.mp3"} />		
@@ -87,10 +87,8 @@
     <li>Possession express the suffixes: -<span class="italic-w-ipg">vā</span> (<span class="italic-w-ipg">guṇavā</span> – virtuous, with qualities) -<span class="italic-w-ipg">vī</span> (<span class="italic-w-ipg">medhāvī</span> – wise, with wisdom).</li> 
   </ul>
 
-  <h4 id="section-9-2" class="subheading-1-ipg">2. Declination of adverbs</h4>
-
   <p class="paragraph-1-ipg">
-    Adjectives denote comparisons by adding -tara for the comparative and (in rare cases only) -<span class="italic-w-ipg">tama</span> for the superlative:
+    Adjectives denote comparisons by adding <span class="italic-w-ipg">-tara</span> for the comparative and (in rare cases only) <span class="italic-w-ipg">-tama</span> for the superlative:
   </p>
   <ul class="para-list-ipg"> 
     <li>The comparative suffixes -<span class="italic-w-ipg">tara</span>: <span class="italic-w-ipg">piyatara</span> – more dear; <span class="italic-w-ipg">dūratara</span> – farther; <span class="italic-w-ipg">pāpatara</span> – more evil.</li>
@@ -105,6 +103,7 @@
     <li>the superlative alternatively is expressed with the suffixes: -<span class="italic-w-ipg">issika</span> and -<span class="italic-w-ipg">iṭṭha</span>: <span class="italic-w-ipg">khippissika</span> – quickest; <span class="italic-w-ipg">pāpiṭṭha</span> – most evil; <span class="italic-w-ipg">jeṭṭha</span> – the oldest; <span class="italic-w-ipg">seṭṭha</span> – the best.</li> 
   </ul>
 
+  <h4 id="section-9-2" class="subheading-1-ipg">2. Declination of adverbs</h4>
   <p class="paragraph-1-ipg">
     Adverbs derived from adjectives, pronouns or nouns are called derivative adverbs. 
     Those adverbs that can not be derived and don’t add any case endings are called pure adverbs.
