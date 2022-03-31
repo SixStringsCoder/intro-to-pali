@@ -3,11 +3,11 @@
   <h3 class="heading-2-ipg">Section Fourteen</h3>
   <h3 class="heading-3-ipg">Epilogue</h3>
 
-  <p class="paragraph-1-ipg">This simple introductory grammar was prepared to present a quick reference while working with the suttas selected in the Pāli program titled <a href="https://learning.pariyatti.org/course/view.php?id=2">Exploring the Path</a>at the Pariyatti Learning Center.</p>  
+  <p class="paragraph-1-ipg">This simple introductory grammar was prepared to present a quick reference while working with the suttas selected in the Pāli program titled <a href="https://learning.pariyatti.org/course/view.php?id=2" target="_blank">Exploring the Path</a> at the Pariyatti Learning Center.</p>  
 
   <p class="paragraph-1-ipg">A simple and basic understanding of grammar is helpful for the comprehension of the texts, but the main emphasis should remain with reading in the context, where most grammatical issues will become clear. In the same way as pronunciation of letters of the alphabet may only prove useful in order to learn the correct movement of the organs of pronunciation, the rules of <italic-w-ipg>sandhi</italic-w-ipg> will only become obvious in the context of syllable and word combination and the principles of grammar will become evident in the context of sentences.</p> 
   
-  <p class="paragraph-1-ipg">May this introduction encourage more people to learn the Pāli language that provides us with irreplaceable values for our own lives and the lives of so many others. May reading and working with the suttas as collected in <a href="https://learning.pariyatti.org/course/view.php?id=2"><em>Exploring the sacred, ancient path in the original words of the Buddha</em></a> support a better understanding of one’s own practice of <span class="italic-w-ipg">paṭipatti</span>. May more and more people get inspired to walk the path of Dhamma. May the benevolent wish of my respected teacher get fulfilled:</p>
+  <p class="paragraph-1-ipg">May this introduction encourage more people to learn the Pāli language that provides us with irreplaceable values for our own lives and the lives of so many others. May reading and working with the suttas as collected in <a href="https://learning.pariyatti.org/course/view.php?id=2" target="_blank"><em>Exploring the sacred, ancient path in the original words of the Buddha</em></a> support a better understanding of one’s own practice of <span class="italic-w-ipg">paṭipatti</span>. May more and more people get inspired to walk the path of Dhamma. May the benevolent wish of my respected teacher get fulfilled:</p>
   
   
   <div id="hindi-doha">
