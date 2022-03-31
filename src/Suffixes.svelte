@@ -14,30 +14,30 @@
   <ul class="list-cont" id="list-cont-1">
     <li>
       <span class="left-list-span italic-w-ipg">gam + a: gama –</span>
-      <span class="right-list-span">1.) adj. 	going, able to go </span>
+      <span class="right-list-span">1.) <b>adj.</b> 	going, able to go </span>
     </li>
     <li>
       <span class="left-list-span"></span>
-      <span class="right-list-span no-2">2.) noun	the act of going, course</span>
+      <span class="right-list-span no-2">2.) <b>noun</b> the act of going, course</span>
     </li>
     <li>
       <span class="left-list-span italic-w-ipg">gam + ana: gamana –</span>
-      <span class="right-list-span">1.) adj.		conducive to, leading to</span>
+      <span class="right-list-span">1.) <b>adj.</b>		conducive to, leading to</span>
     </li>
     <li>
       <span class="left-list-span"></span>
-      <span class="right-list-span no-2">2.) noun	movement, walk, journey</span>
+      <span class="right-list-span no-2">2.) <b>noun</b> movement, walk, journey</span>
     </li>
     <li>
       <span class="left-list-span italic-w-ipg">gam + i + ka: gamika –</span> 			
-      <span class="right-list-span">1.) adj.		setting out for a journey </span>
+      <span class="right-list-span">1.) <b>adj.</b>		setting out for a journey </span>
     </li>
     <li>
       <span class="left-list-span italic-w-ipg">gām + a: gāma –</span>
-      <span class="right-list-span">1.) adj. 	belonging to the village; </span>low, inferior, common </li>
+      <span class="right-list-span">1.) <b>adj.</b> 	belonging to the village; </span>low, inferior, common </li>
     <li>
       <span class="left-list-span"></span>
-      <span class="right-list-span no-2">2.) noun	a village</span>
+      <span class="right-list-span no-2">2.) <b>noun</b> a village</span>
     </li>
   </ul>
 
@@ -150,22 +150,22 @@
       </li>
     </ul>
       
-    <p>Suffixes changing or forming nouns into <a href="#section13-note-53" class="notes-ipg" id="section13-note-53-rtn"><span class="italic-w-ipg">verb</span><sup class="sup-spacing-ipg">53</sup>:</p>
+    <p>Suffixes changing or forming nouns into <a href="#section13-note-53" class="notes-ipg" id="section13-note-53-rtn"><span class="italic-w-ipg">verb</span><sup class="sup-spacing-ipg">53</sup></a>:</p>
     <ul>
       <li>
-        <span class="left-list-span italic-w-ipg">taṇhā + āya + ti: taṇhāyati </span> 		
+        <span class="left-list-span italic-w-ipg">taṇhā + āya + ti: taṇhāyati –</span> 		
         <span class="right-list-span">to crave</span>
       </li>
       <li>
-        <span class="left-list-span italic-w-ipg">mettā + āya + ti: mettāyati </span> 		
+        <span class="left-list-span italic-w-ipg">mettā + āya + ti: mettāyati –</span> 		
         <span class="right-list-span">to be compassionate</span>, to love
       </li>
       <li>
-        <span class="left-list-span italic-w-ipg">sukha + āpe + ti: sukhāpeti </span>		
+        <span class="left-list-span italic-w-ipg">sukha + āpe + ti: sukhāpeti –</span>		
         <span class="right-list-span">to make happy</span>
       </li>
       <li>
-        <span class="left-list-span italic-w-ipg">dukkha + āpe + ti: dukkhāpeti </span>	
+        <span class="left-list-span italic-w-ipg">dukkha + āpe + ti: dukkhāpeti –</span>	
         <span class="right-list-span">to make miserable</span>
       </li>
     </ul>
