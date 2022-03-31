@@ -86,8 +86,8 @@
         <td class="list-chart-3-ipg">also</td>
       </tr>
       <tr>
-        <td class="list-chart-3-ipg"><span class="italic-w-ipg">api</span></td> 
-        <td class="list-chart-3-ipg">ca	and also, nevertheless</td>
+        <td class="list-chart-3-ipg"><span class="italic-w-ipg">api ca</span></td> 
+        <td class="list-chart-3-ipg">and also, nevertheless</td>
       </tr>
       <tr>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">ativelaṃ</span></td>	
@@ -479,7 +479,7 @@
       </tr>
       <tr>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">ve</span></td>	
-        <td class="list-chart-3-ipg">surely "(poetic)</td>
+        <td class="list-chart-3-ipg">surely (poetic)</td>
       </tr>
       <tr>
         <td class="list-chart-3-ipg"><span class="italic-w-ipg">viya</span></td>	
